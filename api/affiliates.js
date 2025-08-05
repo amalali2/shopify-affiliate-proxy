@@ -1,51 +1,46 @@
-// /api/affiliates.js
 export default async function handler(req, res) {
-  const token = "Bearer pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO";
+  res.setHeader('Access-Control-Allow-Origin', 'https://www.hydrinity.com');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
+  if (req.method === 'OPTIONS') {
+    return res.status(200).end();
+  }
+
   const allAffiliates = [];
-
   let page = 1;
-  let hasMore = true;
+  const limit = 100; // max per UpPromote docs
 
-  try {
-    while (hasMore) {
-      const response = await fetch(
-        `https://aff-api.uppromote.com/api/v1/affiliates?page=${page}&per_page=100`,
-        {
-          headers: {
-            Authorization: token,
-            Accept: "application/json",
-          },
-        }
-      );
+  while (true) {
+    const url = `https://api.uppromote.com/api/public-affiliate?page=${page}&limit=${limit}`;
 
-      if (!response.ok) {
-        return res.status(500).json({ error: "Failed to fetch affiliates" });
-      }
+    const response = await fetch(url, {
+      headers: {
+        Authorization: `Bearer ${process.env.pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO}`,
+      },
+    });
 
-      const data = await response.json();
-
-      if (Array.isArray(data.data)) {
-        data.data.forEach((affiliate) => {
-          allAffiliates.push({
-            id: affiliate.id,
-            name: `${affiliate.first_name} ${affiliate.last_name}`,
-            email: affiliate.email,
-            zip: affiliate.zipcode,
-            sca_ref:
-              affiliate.affiliate_link?.split("sca_ref=")[1] || null,
-          });
-        });
-      }
-
-      // Check if more pages exist
-      const totalPages = data.meta?.last_page || 1;
-      hasMore = page < totalPages;
-      page++;
+    if (!response.ok) {
+      return res.status(500).json({ error: 'Failed to fetch affiliates' });
     }
 
-    return res.status(200).json(allAffiliates);
-  } catch (error) {
-    console.error("Error fetching affiliates:", error);
-    return res.status(500).json({ error: "Server error" });
+    const data = await response.json();
+
+    if (!data.data || data.data.length === 0) {
+      break; // no more pages
+    }
+
+    allAffiliates.push(...data.data);
+    page += 1;
   }
+
+  const simplified = allAffiliates.map((affiliate) => ({
+    id: affiliate.id,
+    name: `${affiliate.first_name} ${affiliate.last_name}`.trim(),
+    email: affiliate.email,
+    zip: affiliate.zip_code,
+    sca_ref: affiliate.referral_link?.split('sca_ref=')[1] || null,
+  }));
+
+  return res.status(200).json(simplified);
 }
