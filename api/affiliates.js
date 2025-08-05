@@ -9,11 +9,11 @@ export default async function handler(req, res) {
 
   const allAffiliates = [];
   let page = 1;
-  let totalPages = 1;
+  let hasMore = true;
 
   try {
-    while (page <= totalPages) {
-      const response = await fetch(`https://aff-api.uppromote.com/api/affiliates?page=${page}`, {
+    while (hasMore) {
+      const response = await fetch(`https://api.uppromote.com/api/public-affiliate?page=${page}`, {
         headers: {
           Authorization: 'Bearer pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO',
         },
@@ -27,21 +27,23 @@ export default async function handler(req, res) {
 
       const json = await response.json();
 
-      if (json.data) {
-        json.data.forEach((affiliate) => {
-          allAffiliates.push({
-            id: affiliate.id,
-            name: `${affiliate.first_name} ${affiliate.last_name}`.trim(),
-            email: affiliate.email,
-            zip: affiliate.zip_code,
-            sca_ref: affiliate.referral_link?.includes('sca_ref=') 
-              ? affiliate.referral_link.split('sca_ref=')[1] 
-              : null,
-          });
-        });
+      if (!json.data || json.data.length === 0) {
+        hasMore = false;
+        break;
       }
 
-      totalPages = json.pagination?.last_page || 1;
+      json.data.forEach((affiliate) => {
+        allAffiliates.push({
+          id: affiliate.id,
+          name: `${affiliate.first_name || ''} ${affiliate.last_name || ''}`.trim(),
+          email: affiliate.email,
+          zip: affiliate.zip_code,
+          sca_ref: affiliate.referral_link?.includes('sca_ref=')
+            ? affiliate.referral_link.split('sca_ref=')[1]
+            : null,
+        });
+      });
+
       page++;
     }
 
