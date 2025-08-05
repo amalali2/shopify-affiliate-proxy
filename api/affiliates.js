@@ -34,7 +34,9 @@ export default async function handler(req, res) {
             name: `${affiliate.first_name} ${affiliate.last_name}`.trim(),
             email: affiliate.email,
             zip: affiliate.zip_code,
-            sca_ref: affiliate.referral_link?.split('sca_ref=')[1] || null,
+            sca_ref: affiliate.referral_link?.includes('sca_ref=') 
+              ? affiliate.referral_link.split('sca_ref=')[1] 
+              : null,
           });
         });
       }
