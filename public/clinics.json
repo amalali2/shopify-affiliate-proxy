@@ -1,0 +1,2960 @@
+[
+  {
+    "name": "INOVAE Skin",
+    "address": "1818 Avenue of America",
+    "phone": "555-555-1234",
+    "sca_ref": "3859605.BWpsyVfpge"
+  },
+  {
+    "name": "Dunes Med Spa",
+    "address": "4710 Oleander Drive",
+    "phone": "843-839-1935",
+    "sca_ref": "3884819.olKbYkrgdh"
+  },
+  {
+    "name": "Aesthete",
+    "address": "1020 108th Ave NE Suite 200 , Unit 23",
+    "phone": "4258946282",
+    "sca_ref": "3887799.1ikPooIzww"
+  },
+  {
+    "name": "Savanna Boda",
+    "address": "613 Arden ln",
+    "phone": "9724409997",
+    "sca_ref": "3892260.ZuFAxTZAco"
+  },
+  {
+    "name": "Skin By Lauryn",
+    "address": "952 Edgewood Avenue, Unit B",
+    "phone": "404-914-0064",
+    "sca_ref": "3906941.wIhtk2bgYv"
+  },
+  {
+    "name": "Luxe Skin Aesthetics",
+    "address": "421 3rd Ave SE",
+    "phone": "2568411690",
+    "sca_ref": "3966202.NTMuFZM01w"
+  },
+  {
+    "name": "The Luxe Medspa",
+    "address": "5041 Dallas Highway, STE 508",
+    "phone": "7702037480",
+    "sca_ref": "4047899.OcX0G2Qc6l"
+  },
+  {
+    "name": "The Skin Lounge",
+    "address": "10 Fairmount Ave",
+    "phone": "9083092224",
+    "sca_ref": "4048624.LjtpRLAfKn"
+  },
+  {
+    "name": "Lotus Skin + Brow",
+    "address": "200 Chatillon Rd NE",
+    "phone": "7068029898",
+    "sca_ref": "4050794.ECTqnKdybQ"
+  },
+  {
+    "name": "Beverly Hills Rejuvenation Center",
+    "address": "7322 Jones-Maltsberger Rd Ste 144",
+    "phone": "210-774-4655",
+    "sca_ref": "4052757.4qBS8JBLXl"
+  },
+  {
+    "name": "Casa Bella Aesthetics",
+    "address": "18720A Centro Main St.",
+    "phone": "(936) 444-5606",
+    "sca_ref": "4056145.7ccPsUmOLA"
+  },
+  {
+    "name": "Next Level Aesthetics",
+    "address": "1005 Columbus Ave",
+    "phone": "2546528095",
+    "sca_ref": "4057494.yTpsWZIUuO"
+  },
+  {
+    "name": "Graceful Touch Esthetics",
+    "address": "1507 Bay Area Blvd Unit B1 Suite 135",
+    "phone": "940-923-5191",
+    "sca_ref": "4073297.L8MoM7aXp7"
+  },
+  {
+    "name": "Georgia Skin Specialists",
+    "address": "1800 Howell Mill Road NW",
+    "phone": "6784634526",
+    "sca_ref": "4078972.24YNWGaNxU"
+  },
+  {
+    "name": "Pelle Dolce Medical Aesthetics",
+    "address": "945 Cromwell Ave   (Suite H)",
+    "phone": "2034106436",
+    "sca_ref": "4079703.wA0hu1toll"
+  },
+  {
+    "name": "WINK MEDICAL AESTHETICS",
+    "address": "2`127 LOHMANS CROSSING ROAD, SUITE 302",
+    "phone": "512-263-2400",
+    "sca_ref": "4086484.mhI069PXEo"
+  },
+  {
+    "name": "AYA Medical Spa",
+    "address": "3500 Peachtree Road NE",
+    "phone": "404-842-1772",
+    "sca_ref": "4091901.sSbF7Eiotl"
+  },
+  {
+    "name": "Luxe Skin Clinic",
+    "address": "9910 W Loop 1604 N, 128",
+    "phone": "2105446676",
+    "sca_ref": "4117916.lk228SkeTL"
+  },
+  {
+    "name": "Aesthetics of Atlanta and wellness",
+    "address": "6160 Peachtree Dunwoody Rd , Suite A105",
+    "phone": "6787908354",
+    "sca_ref": "4122215.gHgebrYmUD"
+  },
+  {
+    "name": "Cosmic Glow Aesthetics",
+    "address": "513 W Chocolate Ave. Suite B",
+    "phone": "7175805866",
+    "sca_ref": "4122419.BBcWnkfD8k"
+  },
+  {
+    "name": "Neighborhood Wellness Clinic",
+    "address": "6051FM 3009 Ste 255",
+    "phone": "nan",
+    "sca_ref": "4142255.xG1pCvpgQ9"
+  },
+  {
+    "name": "Renew Vitality Clinic",
+    "address": "7003 Woodway Dr Suite 302",
+    "phone": "2542162343",
+    "sca_ref": "4160281.Q84YgNEGFO"
+  },
+  {
+    "name": "Illumatox Aesthetic Studio",
+    "address": "W208 Eimmerman Dr.",
+    "phone": "920-585-8115",
+    "sca_ref": "4170214.xiUGvxFykY"
+  },
+  {
+    "name": "The Aesthetic Room by Damore Dentistry LLC",
+    "address": "901 ROUTE 168 STE 501",
+    "phone": "8562286688",
+    "sca_ref": "4178371.mIqeDVxuNA"
+  },
+  {
+    "name": "Tox Josh Studios",
+    "address": "1804 Williamson Court Suite 203",
+    "phone": "6156287671",
+    "sca_ref": "4188336.YCejRaq6OP"
+  },
+  {
+    "name": "Duluth Med Spa",
+    "address": "2510 Maple Grove Rd",
+    "phone": "2184811800",
+    "sca_ref": "4198502.wUChiiIQDP"
+  },
+  {
+    "name": "The Lip Bunny Beauty",
+    "address": "484 Highland Ave",
+    "phone": "401-865-0795",
+    "sca_ref": "4199607.UAkL1ghDGx"
+  },
+  {
+    "name": "Beauty Wise",
+    "address": "19054 Stone Oak Pkwy",
+    "phone": "2102909444",
+    "sca_ref": "4211716.Qkdg2sAsC1"
+  },
+  {
+    "name": "Dew Skin Studio",
+    "address": "10 Exchange St, Suite 301",
+    "phone": "8439911160",
+    "sca_ref": "4213034.wOvdDwcPu9"
+  },
+  {
+    "name": "Esthetics By Cati",
+    "address": "130 South 5th Street",
+    "phone": "7169465842",
+    "sca_ref": "4235591.DpnNvhAHyu"
+  },
+  {
+    "name": "Serein Aesthetics",
+    "address": "20 Crossroads Road suite 212",
+    "phone": "4108241313",
+    "sca_ref": "4242703.bwEFCdK0wc"
+  },
+  {
+    "name": "The Lip Bunny Beauty",
+    "address": "484 Highland Ave",
+    "phone": "401-865-0795",
+    "sca_ref": "4248963.X6X8nsjc1a"
+  },
+  {
+    "name": "Atlanta Skin Wellness Center",
+    "address": "755 Mount Vernon Highway NE, Ste 305",
+    "phone": "4044464840",
+    "sca_ref": "4253824.3wTpIfomHZ"
+  },
+  {
+    "name": "Dr. Solomon Azouz",
+    "address": "7777 Forest Lane building C suite 802",
+    "phone": "9727028888",
+    "sca_ref": "4254131.oqdW9W9hZs"
+  },
+  {
+    "name": "AraBella Aeathetics",
+    "address": "940 Gainesville Hwy Suite A",
+    "phone": "6787252308",
+    "sca_ref": "4264167.Ca69mjW1gd"
+  },
+  {
+    "name": "LehCar Aesthetics",
+    "address": "634 Peachtree Pkwy., Suite 201",
+    "phone": "6787736117",
+    "sca_ref": "4271593.bX7RxOXxjM"
+  },
+  {
+    "name": "Spa Bella",
+    "address": "321 Wood St",
+    "phone": "3183482915",
+    "sca_ref": "4286423.YE6x4CQhXM"
+  },
+  {
+    "name": "TORA",
+    "address": "415 s austin st suite #4",
+    "phone": "3614508029",
+    "sca_ref": "4286622.dm7qcO7vG3"
+  },
+  {
+    "name": "ROYAL AESTHETICS",
+    "address": "15317 LAKE LAMOND RD",
+    "phone": "7138985846",
+    "sca_ref": "4296767.gbQ4JeiN4C"
+  },
+  {
+    "name": "Zaretsky Aesthetics",
+    "address": "1250 Wood Branch Park Dr #205",
+    "phone": "832-295-3050",
+    "sca_ref": "4297326.roGrbJadf5"
+  },
+  {
+    "name": "Art of Skin",
+    "address": "2897 N Druid Hills Rd.  Ste. 363",
+    "phone": "6786704495",
+    "sca_ref": "4329349.rq27Y2b0UA"
+  },
+  {
+    "name": "Flourish wellness",
+    "address": "4728 E Longhorn St",
+    "phone": "4807658795",
+    "sca_ref": "4340046.ViC7eQEEIR"
+  },
+  {
+    "name": "Modern Looks Med Spa",
+    "address": "5975 Roswell Rd. Suite E355",
+    "phone": "4044804015",
+    "sca_ref": "4356453.NFcQ2EPaty"
+  },
+  {
+    "name": "Rosalind Michelle Skin Co",
+    "address": "4426 Abingdon Dr",
+    "phone": "4047026477",
+    "sca_ref": "4367709.rJi3VU3nfv"
+  },
+  {
+    "name": "Nakie Face",
+    "address": "7013 East Main Street",
+    "phone": "4809353433",
+    "sca_ref": "4385357.PQ0v6MHeQi"
+  },
+  {
+    "name": "Skin Care By Monik",
+    "address": "6615 W Cross Creek Bend Ln",
+    "phone": "3467078543",
+    "sca_ref": "4389367.yd8NNfx7aS"
+  },
+  {
+    "name": "Purple Peach Aesthetics",
+    "address": "4325 FM 2351 Ste 120",
+    "phone": "8323880508",
+    "sca_ref": "4391358.3JPCcNAU04"
+  },
+  {
+    "name": "Glow by Gabrielle",
+    "address": "1026 Broad Street unit 10",
+    "phone": "7324259810",
+    "sca_ref": "4396294.Jnfso2R1sD"
+  },
+  {
+    "name": "The Derm Bar MD",
+    "address": "1169 Winding Way Drive",
+    "phone": "8655560543",
+    "sca_ref": "4401359.pWOtgy4BWF"
+  },
+  {
+    "name": "Mne Aesthetics",
+    "address": "2745 Town Center Blvd N Ste. 134",
+    "phone": "3463150430",
+    "sca_ref": "4424575.HJn3ejyAnB"
+  },
+  {
+    "name": "The Lash Designory d.b.a Morgan Rackley Skincare",
+    "address": "2929-D North Druid Hills Rd NE, Suite 119",
+    "phone": "7708968326",
+    "sca_ref": "4441896.c6R6mRn9iy"
+  },
+  {
+    "name": "The Skin Gallery Medspa",
+    "address": "19 North Main Street",
+    "phone": "8322178684",
+    "sca_ref": "4462747.ZVt4FXYCdn"
+  },
+  {
+    "name": "True Skin Oasis",
+    "address": "5434 King Avenue",
+    "phone": "8569243301",
+    "sca_ref": "4463136.uFuvMfgS0y"
+  },
+  {
+    "name": "Poke Me Pretty",
+    "address": "20783 N. 83rd Ave, Suite 111",
+    "phone": "4806736297",
+    "sca_ref": "4469679.4GC8hC8Q0Y"
+  },
+  {
+    "name": "Allura Medical Esthetics",
+    "address": "13 South Angell Street",
+    "phone": "401-309-8227",
+    "sca_ref": "4485874.3XeHutI8Vs"
+  },
+  {
+    "name": "Anderson Aesthetics",
+    "address": "2710 Old Milton Pkwy Suite 150",
+    "phone": "4042564247",
+    "sca_ref": "4516862.bKYKmeOqxd"
+  },
+  {
+    "name": "Jilan Wise Aesthetics",
+    "address": "10624 s Eastern Ave Studio H-Jilan Wise Aesthetics",
+    "phone": "7029693020",
+    "sca_ref": "4523361.MVAyKnfQFI"
+  },
+  {
+    "name": "FACEBYMACE",
+    "address": "83 Crater Pool Ln",
+    "phone": "9705819367",
+    "sca_ref": "4525425.YxRtromXMv"
+  },
+  {
+    "name": "Clover Skin Inc",
+    "address": "135 S State St, 19",
+    "phone": "6024991021",
+    "sca_ref": "4558741.zQxfwprDvI"
+  },
+  {
+    "name": "Luxe Lift Aesthetics & Women\u2019s Wellness",
+    "address": "612 N Logan Ave, Unit B",
+    "phone": "2176660401",
+    "sca_ref": "4560101.sXX4nhvldG"
+  },
+  {
+    "name": "LAZ Skincare INC",
+    "address": "32 Union Sq E",
+    "phone": "3475065880",
+    "sca_ref": "4564759.6WHjREYgiA"
+  },
+  {
+    "name": "SkinAesthetics",
+    "address": "1233 County Road 214",
+    "phone": "713-855-7993",
+    "sca_ref": "4577939.6POIg3eON0"
+  },
+  {
+    "name": "Geo Aesthetics",
+    "address": "7711 E 111th St Ste 106",
+    "phone": "9567395387",
+    "sca_ref": "4585163.wBt7ar8tmS"
+  },
+  {
+    "name": "The Little Brow Room",
+    "address": "N3363 WI-16",
+    "phone": "6085197037",
+    "sca_ref": "4596546.ftAThfV7xA"
+  },
+  {
+    "name": "lux injectables",
+    "address": "1831 N. Belcher Road Unit C-1, Clearwater, FL, United States, Florida",
+    "phone": "7276988225",
+    "sca_ref": "4606845.2GpN7uACwF"
+  },
+  {
+    "name": "Ageless Med Spa",
+    "address": "414 W. Grand Pkwy S. Suite 115",
+    "phone": "2813923700",
+    "sca_ref": "4607836.q2ekiIQsRb"
+  },
+  {
+    "name": "Amoura Esthetics",
+    "address": "13635 NW Cornell Road, Suite #170",
+    "phone": "9712175025",
+    "sca_ref": "4610122.eMcHst8AS2"
+  },
+  {
+    "name": "Evoultion Skyn Aesthetics",
+    "address": "3485 University Ave Suite 24",
+    "phone": "9512584646",
+    "sca_ref": "4610437.QUNCi6sISU"
+  },
+  {
+    "name": "Mad Skin",
+    "address": "2961 w maple loop Dr",
+    "phone": "7023056600",
+    "sca_ref": "4616237.wwEXYlKeDN"
+  },
+  {
+    "name": "DRVN Aesthetics",
+    "address": "206A S Loop 336 W #225",
+    "phone": "281-720-6300",
+    "sca_ref": "4616556.hXYWY4jApI"
+  },
+  {
+    "name": "Corrective Skin Christy",
+    "address": "216 W Ridge Rd",
+    "phone": "9207160890",
+    "sca_ref": "4623667.BDAVRdIsvR"
+  },
+  {
+    "name": "Satori Skin Studio",
+    "address": "1025 Preston Rd #1100",
+    "phone": "4693639935",
+    "sca_ref": "4629214.0V9KiFVsc4"
+  },
+  {
+    "name": "Skin By Nicole",
+    "address": "7301 Burnet Road Ste. 106",
+    "phone": "(512) 856-9620",
+    "sca_ref": "4643425.IOWNAnoFk8"
+  },
+  {
+    "name": "Pampering Aesthetics",
+    "address": "9330 corporate dr #502",
+    "phone": "2107013887",
+    "sca_ref": "4644104.wIPIdppDDE"
+  },
+  {
+    "name": "Alluring Aesthetics",
+    "address": "16530 Huebner Rd",
+    "phone": "2107415389",
+    "sca_ref": "4644208.Ma5qOM3jH1"
+  },
+  {
+    "name": "Timeless Beauty Aesthetics",
+    "address": "20327 I-10, Building #215, Suite 26",
+    "phone": "2107125431",
+    "sca_ref": "4644530.Xsr1602sAz"
+  },
+  {
+    "name": "Henara Skin Company",
+    "address": "5601 Brodie Ln # 1000 St. 301",
+    "phone": "5125060535",
+    "sca_ref": "4645236.VSbd8MaELq"
+  },
+  {
+    "name": "Bulverde Medspa",
+    "address": "2877 Bulverde Rd Suite 103",
+    "phone": "8304995950",
+    "sca_ref": "4661146.qCtcVHoAyY"
+  },
+  {
+    "name": "Aesthetic & Acupuncture Clinic of Texas",
+    "address": "2431 Stringer Street",
+    "phone": "9794216300",
+    "sca_ref": "4661209.LNqaJUU8au"
+  },
+  {
+    "name": "House of Preservation",
+    "address": "3219 North Fitzhugh Avenue",
+    "phone": "4695713740",
+    "sca_ref": "4661262.XVmmJULqRx"
+  },
+  {
+    "name": "You Holistic",
+    "address": "149 Epping Road",
+    "phone": "6033092030",
+    "sca_ref": "4661537.bMl5BRdPNe"
+  },
+  {
+    "name": "Blushisme by Aldana Aesthetics",
+    "address": "3698 , Portales ave",
+    "phone": "9158733255",
+    "sca_ref": "4662776.tLqGtnotcS"
+  },
+  {
+    "name": "Vital Skin & Body LLC.",
+    "address": "201 CLINITE GROVE BLVD # 130",
+    "phone": "12549314323",
+    "sca_ref": "4662787.crAVfp0BYi"
+  },
+  {
+    "name": "Skin Boutique by Angelique",
+    "address": "1102 S. Rock St., Suite 3",
+    "phone": "5122931778",
+    "sca_ref": "4736156.Ik1cd92tAS"
+  },
+  {
+    "name": "Enamor Aesthetics and Co",
+    "address": "695 W 1850 N",
+    "phone": "4804402906",
+    "sca_ref": "4749075.CwR0NBEUkJ"
+  },
+  {
+    "name": "Luxe Skin Clinic",
+    "address": "9910 W Loop 1604 N, 128",
+    "phone": "2105446676",
+    "sca_ref": "4749489.cu6EbLwiu7"
+  },
+  {
+    "name": "Pretty Little Lines",
+    "address": "94 E 920 N",
+    "phone": "8017627192",
+    "sca_ref": "4754281.L60eba0buW"
+  },
+  {
+    "name": "The AZ Esthetician",
+    "address": "20824 E Mewes Road",
+    "phone": "8168727205",
+    "sca_ref": "4761536.hLalRgVjQu"
+  },
+  {
+    "name": "Desert Dream Esthetics",
+    "address": "4417 N. 40th Street",
+    "phone": "4802995183",
+    "sca_ref": "4766180.pGUJCxptNE"
+  },
+  {
+    "name": "Faces From Paris",
+    "address": "4076 Market Street, Suite 203",
+    "phone": "nan",
+    "sca_ref": "4767902.Y2Cx9MMhHL"
+  },
+  {
+    "name": "Gabbytheaesthetician",
+    "address": "6137 Ortiz Dr",
+    "phone": "3616924676",
+    "sca_ref": "4772999.Ew2yP3kzP1"
+  },
+  {
+    "name": "All Things Aesthetics",
+    "address": "1075 PEACHTREE ST NE STE 6 57030",
+    "phone": "4702318846",
+    "sca_ref": "4798628.fmkGDLpucX"
+  },
+  {
+    "name": "Afina Beauty and Wellness",
+    "address": "4720 crepe myrtle ln",
+    "phone": "2817441345",
+    "sca_ref": "4806314.G0MsGbEiaB"
+  },
+  {
+    "name": "LE'BODY SPA & WELLNESS",
+    "address": "17107 Albert Voelker Rd, , Elgin",
+    "phone": "15129401107",
+    "sca_ref": "4818682.VdT4GxA556"
+  },
+  {
+    "name": "Alchemy Beauty",
+    "address": "6701 Burnet Rd #163",
+    "phone": "512-768-7179",
+    "sca_ref": "4821950.IywaZ2X5LG"
+  },
+  {
+    "name": "Aggieland Aesthetics",
+    "address": "305 West 27th St Suite 114",
+    "phone": "9794500979",
+    "sca_ref": "4825249.KXAKntadwX"
+  },
+  {
+    "name": "Glow Haus",
+    "address": "252 N Pacific Coast Highway",
+    "phone": "3109469318",
+    "sca_ref": "4838175.skzjks2mpW"
+  },
+  {
+    "name": "AESTHETIC NURSE JACK - KT SKIN",
+    "address": "1806 Gaucho Circle",
+    "phone": "8325149520",
+    "sca_ref": "4844226.KpXeEzgZR7"
+  },
+  {
+    "name": "Alchemy Aesthetics Co.",
+    "address": "1295 E Common St",
+    "phone": "8303023977",
+    "sca_ref": "4859035.cujlK6uL81"
+  },
+  {
+    "name": "Healing Touch Beauty Spa",
+    "address": "20011 Ventura Blvd Ste 1008",
+    "phone": "nan",
+    "sca_ref": "4860227.4PlD80Txkf"
+  },
+  {
+    "name": "Skinbyhannahholley",
+    "address": "7391 W Charleston Blvd",
+    "phone": "7026729221",
+    "sca_ref": "4864430.FtgirzbvZz"
+  },
+  {
+    "name": "Lotti Aesthetics & Wellness",
+    "address": "670 Shepard Ln Ste 102",
+    "phone": "8018421749",
+    "sca_ref": "4905677.7J4hjjQCug"
+  },
+  {
+    "name": "Dezthetics Skincare Studio LLC",
+    "address": "3442 Williams Road",
+    "phone": "5188607881",
+    "sca_ref": "4908779.Me8cTzmVFN"
+  },
+  {
+    "name": "Cloud28 Aesthetics, LLC",
+    "address": "5940 Via Norte Ln",
+    "phone": "9155038432",
+    "sca_ref": "4915787.cdYsr9g4uP"
+  },
+  {
+    "name": "Principle Artistry",
+    "address": "765 S. Cotton Ln Suite 206",
+    "phone": "5203297131",
+    "sca_ref": "4920164.X70MPLknhZ"
+  },
+  {
+    "name": "WN. Skin",
+    "address": "16204 Old Oak Drive",
+    "phone": "4056237949",
+    "sca_ref": "4930775.BUXb6nOme4"
+  },
+  {
+    "name": "Skincareby_meg",
+    "address": "20 Dogwood Lane",
+    "phone": "8563045770",
+    "sca_ref": "4938549.UJ6iHup44e"
+  },
+  {
+    "name": "Smart Skin Med Spa",
+    "address": "1931 29th avenue",
+    "phone": "2059681301",
+    "sca_ref": "4938799.IIoVZjnD9s"
+  },
+  {
+    "name": "Eternal Beauty Spa",
+    "address": "10100 West Maple Street Suite 217",
+    "phone": "3168416453",
+    "sca_ref": "4951799.GDyHPshINs"
+  },
+  {
+    "name": "Just Peachy Esthetics",
+    "address": "3203 Washington Rd , Suite C",
+    "phone": "2623836167",
+    "sca_ref": "4956503.LTgNYmeBXp"
+  },
+  {
+    "name": "ayla Med Spa",
+    "address": "20701 North Scottsdale Road, #105",
+    "phone": "6027556861",
+    "sca_ref": "4970866.EFusgxJRS0"
+  },
+  {
+    "name": "Be Confident Aesthetics",
+    "address": "140 Diamond Creek Place STE 135",
+    "phone": "2097439915",
+    "sca_ref": "4995254.bEk7WAbcqS"
+  },
+  {
+    "name": "The Advanced Aesthetician",
+    "address": "15720 SW GREENS WAY",
+    "phone": "5038048357",
+    "sca_ref": "5022939.kYdq0ZrYyg"
+  },
+  {
+    "name": "Ethereal Skin Medical Spa",
+    "address": "335 morganza rd",
+    "phone": "4127153692",
+    "sca_ref": "5088126.Cvqiejq9nT"
+  },
+  {
+    "name": "LH Spa & Rejuvenation",
+    "address": "10-12 Elmer St",
+    "phone": "9733772000",
+    "sca_ref": "5091847.H13D8HGlCg"
+  },
+  {
+    "name": "beautyxjaney",
+    "address": "4151 Arch Dr, Apt 220",
+    "phone": "6127706390",
+    "sca_ref": "5194427.oWJpTC9Hbo"
+  },
+  {
+    "name": "Skyn X Cyn",
+    "address": "8500 Melrose Ave",
+    "phone": "3108738464",
+    "sca_ref": "5203314.2imlJTzs8I"
+  },
+  {
+    "name": "Bella Donna Skin Studio",
+    "address": "24672 San Juan Avenue, Suite 104",
+    "phone": "9492387202",
+    "sca_ref": "5207158.29Er4qT3rb"
+  },
+  {
+    "name": "the aesthetic collective",
+    "address": "909 main st",
+    "phone": "15129579638",
+    "sca_ref": "5220533.qnP57lYlD7"
+  },
+  {
+    "name": "Skin and Tonic",
+    "address": "3511 Volunteer Blvd. Suite #120",
+    "phone": "702-854-6654",
+    "sca_ref": "5244038.1dxLJFhxLm"
+  },
+  {
+    "name": "Laserderm Medispa",
+    "address": "6 Gordon Rd",
+    "phone": "15087527113",
+    "sca_ref": "5244086.fq5rryTakC"
+  },
+  {
+    "name": "Facial Studio Magdalena",
+    "address": "770 N La Salle Dr, ste 201",
+    "phone": "773-501-5440",
+    "sca_ref": "5244980.pvApF8JeSZ"
+  },
+  {
+    "name": "MECO BEAUTY",
+    "address": "1310 E. Broadway Road, #103",
+    "phone": "4802710078",
+    "sca_ref": "5265516.b6U4s4eaKH"
+  },
+  {
+    "name": "Luminous Glow Med Spa",
+    "address": "2652 FM 407, Suite #135",
+    "phone": "972-345-8900",
+    "sca_ref": "5266942.NwWygvGGLR"
+  },
+  {
+    "name": "allythe.esti",
+    "address": "3920 Pony Express Rd",
+    "phone": "6363575856",
+    "sca_ref": "5268827.kOMZVIvoCa"
+  },
+  {
+    "name": "The Skin Suite by Kristen",
+    "address": "1529 Route 206 suite I-2",
+    "phone": "6092322513",
+    "sca_ref": "5274834.FjKK7V5DJV"
+  },
+  {
+    "name": "Frances Parker Aesthetics",
+    "address": "8641 Pine Needle Cove",
+    "phone": "9014912585",
+    "sca_ref": "5295211.2k1ZpbPjbd"
+  },
+  {
+    "name": "Bespoke Aesthetics",
+    "address": "15825 North 71st Street",
+    "phone": "nan",
+    "sca_ref": "5295694.HABNAriGPL"
+  },
+  {
+    "name": "Alexanne Aesthetics",
+    "address": "P.O. Box 1118",
+    "phone": "7134192484",
+    "sca_ref": "5296004.buoTfwW27S"
+  },
+  {
+    "name": "Bella Vita Med Spa",
+    "address": "4400-3 E. Central Texas Expy",
+    "phone": "2542919718",
+    "sca_ref": "5296014.TLKTzL202Q"
+  },
+  {
+    "name": "McLamb Wellness & Aesthetics",
+    "address": "102 Walnut St.",
+    "phone": "9194299532",
+    "sca_ref": "5298262.7XL32luS5u"
+  },
+  {
+    "name": "B3 Performance & Aesthetic Medicine",
+    "address": "2131 W White Oaks Dr",
+    "phone": "12175085859",
+    "sca_ref": "5317563.P4U5DZyBkR"
+  },
+  {
+    "name": "Bare Aesthetics NJ",
+    "address": "18 oliver street",
+    "phone": "5513380671",
+    "sca_ref": "5319455.SPBtqVb5fK"
+  },
+  {
+    "name": "Skn by Kacie",
+    "address": "175 N State St. Suite #23",
+    "phone": "8014725398",
+    "sca_ref": "5326406.GoYtapT0ge"
+  },
+  {
+    "name": "Amadi Aesthetics Plastic Surgery",
+    "address": "1503 2nd Ave W",
+    "phone": "2062164500",
+    "sca_ref": "5332634.5zdw5Lf1ou"
+  },
+  {
+    "name": "Facial Aesthetics Team",
+    "address": "710 N Post Oak Rd, 200",
+    "phone": "713-637-9001",
+    "sca_ref": "5341507.nmHX6L72wM"
+  },
+  {
+    "name": "Jordan Macall Skincare",
+    "address": "1304 Valle Ln NW",
+    "phone": "5056889937",
+    "sca_ref": "5347778.bKb4lXwoe1"
+  },
+  {
+    "name": "Poise Aesthetics",
+    "address": "415 W Meadowlark Blvd",
+    "phone": "3167793445",
+    "sca_ref": "5361562.oLP9N2AnQ9"
+  },
+  {
+    "name": "Trouvaille Med Spa Tinley Park",
+    "address": "9501 West 171st Street Ste Q",
+    "phone": "708-966-0788",
+    "sca_ref": "5375997.trYftvG8DZ"
+  },
+  {
+    "name": "Claire O'bryan, NP",
+    "address": "1900 Waterway Blvd",
+    "phone": "8438196691",
+    "sca_ref": "5390558.UJDHdQV8Xd"
+  },
+  {
+    "name": "Complexion Medspa & Aesthetics",
+    "address": "201 W Fort Macon Road",
+    "phone": "2527730841",
+    "sca_ref": "5399320.OtWCn37w0J"
+  },
+  {
+    "name": "Ageless Med Spa",
+    "address": "3011 Godfrey rd",
+    "phone": "nan",
+    "sca_ref": "5400664.rlwNVJOhDE"
+  },
+  {
+    "name": "Nikki G Aesthetics, LLC",
+    "address": "388  Andra Ct",
+    "phone": "6304261128",
+    "sca_ref": "5400911.94RujNI5Rz"
+  },
+  {
+    "name": "Karli Jillian Esthetics LLC",
+    "address": "350 Watervliet Shaker Rd",
+    "phone": "9179740125",
+    "sca_ref": "5421349.0xJBg4pFBL"
+  },
+  {
+    "name": "Brilliance Beauty Bar",
+    "address": "18826 N 51st Dr",
+    "phone": "4805358899",
+    "sca_ref": "5429115.yBvgYdRAO9"
+  },
+  {
+    "name": "Esthetics by Chelaine",
+    "address": "4791 Treewood Dr.",
+    "phone": "(541)419-5534",
+    "sca_ref": "5439123.Q4k7J95TRW"
+  },
+  {
+    "name": "Vixen Esthetics",
+    "address": "8305 state highway 71 ste 115",
+    "phone": "5125377274",
+    "sca_ref": "5439386.DqDLJzsN3T"
+  },
+  {
+    "name": "Kalon Clinic",
+    "address": "14098 Florida Blvd, Suite C",
+    "phone": "2256866305",
+    "sca_ref": "5446720.oKSYQfGLMH"
+  },
+  {
+    "name": "Joon Aesthetics Bar",
+    "address": "715 Discovery Blvd Suite #111",
+    "phone": "8306130350",
+    "sca_ref": "5447539.4oL4f6Fpjr"
+  },
+  {
+    "name": "LV Skin Aesthetics.com",
+    "address": "9300 John Hickman Pkwy St\u00e9. 204",
+    "phone": "972-294-5362",
+    "sca_ref": "5453691.RUAGd2drPS"
+  },
+  {
+    "name": "Bombshell Skin Clinic",
+    "address": "20330 Huebner Rd Suite 105",
+    "phone": "210-772-5662",
+    "sca_ref": "5454528.SSAhcbRECP"
+  },
+  {
+    "name": "AMAZIN AESTHETICS",
+    "address": "8100 E Union Ave #1512",
+    "phone": "3039315226",
+    "sca_ref": "5467410.9p8zwRHhQv"
+  },
+  {
+    "name": "Revived skin",
+    "address": "6720 Ixtapa Pl",
+    "phone": "9155497780",
+    "sca_ref": "5472808.QcPLgauYGT"
+  },
+  {
+    "name": "skin cabinet",
+    "address": "505 S LOCUST ST",
+    "phone": "3144350853",
+    "sca_ref": "5485110.bSUAHwpokS"
+  },
+  {
+    "name": "LV Skin Aesthetics",
+    "address": "9300 John Hickman Pkwy Ste. 204",
+    "phone": "9722945362",
+    "sca_ref": "5487535.pGKMcr7Ikp"
+  },
+  {
+    "name": "Elevare MD",
+    "address": "3357 N SOUTHPORT AVE",
+    "phone": "773-598-4440",
+    "sca_ref": "5492843.bJQ1tlHMG5"
+  },
+  {
+    "name": "Skin Esteem with Danielle",
+    "address": "430 Sawgrass Court",
+    "phone": "3144590704",
+    "sca_ref": "5500746.sV8rQpghls"
+  },
+  {
+    "name": "Inject Beauty",
+    "address": "218 Trenton Street",
+    "phone": "3182356153",
+    "sca_ref": "5500984.grpMjZ2aKm"
+  },
+  {
+    "name": "Dermatology Physicians, Inc.",
+    "address": "203 N. Lime Street",
+    "phone": "17173926267",
+    "sca_ref": "5506607.tgvc0Eqzdp"
+  },
+  {
+    "name": "BB Aesthetics",
+    "address": "2801 Ward Blvd. Suite 3 (I-2)",
+    "phone": "2522304183",
+    "sca_ref": "5507268.VUmaZcYYSm"
+  },
+  {
+    "name": "Dyana Raskin Aesthetics",
+    "address": "3119 Newtown Ave, Suite 801",
+    "phone": "3474213287",
+    "sca_ref": "5508633.MCQxcZwzd8"
+  },
+  {
+    "name": "flawless ON FIFTH",
+    "address": "41911 5th st suite 103",
+    "phone": "9513824726",
+    "sca_ref": "5510820.4a4KO3LuwY"
+  },
+  {
+    "name": "Beauty Room",
+    "address": "1120 Marne Drive",
+    "phone": "4084309350",
+    "sca_ref": "5535399.G1h9tAVPzF"
+  },
+  {
+    "name": "Charlotte James Skincare",
+    "address": "2211 Corinth Ave. Suite 100",
+    "phone": "3104785100",
+    "sca_ref": "5541241.UmNHdizPnO"
+  },
+  {
+    "name": "KLAR Skin & Medical Spa",
+    "address": "N2996 Cushman Road",
+    "phone": "2627164476",
+    "sca_ref": "5543569.z60HmyoFfw"
+  },
+  {
+    "name": "Lotus & Sage Beauty",
+    "address": "9493 Dalton Way",
+    "phone": "9165750563",
+    "sca_ref": "5544969.UhzmqaNPME"
+  },
+  {
+    "name": "La Fleur Aesthetics",
+    "address": "314 Raleigh Street",
+    "phone": "919-899-1443",
+    "sca_ref": "5547576.SkzvycSTik"
+  },
+  {
+    "name": "Ovation Med Spa",
+    "address": "4801 Woodway Suite 150W",
+    "phone": "7139362490",
+    "sca_ref": "5565296.dvsQcB0fbe"
+  },
+  {
+    "name": "Glow by the Coast Esthetics",
+    "address": "427 Penelope lane",
+    "phone": "6198766963",
+    "sca_ref": "5565823.UBKLrdgFIN"
+  },
+  {
+    "name": "AesthetiX Skin Lounge",
+    "address": "13833 N May Ave",
+    "phone": "4052545520",
+    "sca_ref": "5565962.P7yG0SVMA0"
+  },
+  {
+    "name": "April Marie Glow",
+    "address": "1714 W. Guadalupe Rd., Ste 111",
+    "phone": "nan",
+    "sca_ref": "5568656.Xm7UCWruwQ"
+  },
+  {
+    "name": "Iuvenis Aesthetics",
+    "address": "1102 N East Street",
+    "phone": "8128819701",
+    "sca_ref": "5574708.WKeJqqMZC2"
+  },
+  {
+    "name": "Skin by Katherine",
+    "address": "70 Sycamore Ave",
+    "phone": "5162369652",
+    "sca_ref": "5579631.mOWylhOo7l"
+  },
+  {
+    "name": "The Pink Canoe Studio",
+    "address": "3245 West Carefree Circle, building F",
+    "phone": "7193554087",
+    "sca_ref": "5584887.drQHZvRnC2"
+  },
+  {
+    "name": "Meraki Aesthetics",
+    "address": "124 Plandome Road",
+    "phone": "9177050251",
+    "sca_ref": "5593317.KiEv6NL1Fw"
+  },
+  {
+    "name": "OA Facial Plastics",
+    "address": "11725 North Illinois Street",
+    "phone": "3177086984",
+    "sca_ref": "5598253.VM4lTRhAES"
+  },
+  {
+    "name": "Modern Skin Med Spa",
+    "address": "6560 John Hickman Pkwy 300",
+    "phone": "2148177390",
+    "sca_ref": "5599812.iwGlyB8PfW"
+  },
+  {
+    "name": "360 Esthetics",
+    "address": "1409 S. 9th Avenue, Suite 308",
+    "phone": "830-278-0778",
+    "sca_ref": "5601342.SrAQLvDKVm"
+  },
+  {
+    "name": "C2 Aesthetics",
+    "address": "1513 New Hope Dr Ste: C1",
+    "phone": "737-843-4400",
+    "sca_ref": "5609747.94Nob8rN4B"
+  },
+  {
+    "name": "Renew Skincare Med Spa",
+    "address": "4701 West Fwy, #500, Spa Suite #134",
+    "phone": "8179171769",
+    "sca_ref": "5625150.p4g8gH7l92"
+  },
+  {
+    "name": "Uptown Aesthetics",
+    "address": "36 Main St #104",
+    "phone": "(847) 873-2848",
+    "sca_ref": "5625403.sm1OTdOyXt"
+  },
+  {
+    "name": "True Skin by Lauren",
+    "address": "1050 Legion Dr",
+    "phone": "9202296182",
+    "sca_ref": "5632587.IUjTULoq0G"
+  },
+  {
+    "name": "Aesthetics By Vanessa",
+    "address": "9030, Brentwood Blvd Ste A.",
+    "phone": "9253251820",
+    "sca_ref": "5635128.y6F6PAq7FS"
+  },
+  {
+    "name": "Tulua Aesthetics and Wellness",
+    "address": "12440 Emily Court Suite 504",
+    "phone": "832-702-0440",
+    "sca_ref": "5638592.c1pneVLQaR"
+  },
+  {
+    "name": "The Little Orchid Aesthetics",
+    "address": "13635 E 104th Ave #150",
+    "phone": "7206904699",
+    "sca_ref": "5642792.F6zwrOIJlv"
+  },
+  {
+    "name": "BLU Medical Aesthetics",
+    "address": "8222 s holly st",
+    "phone": "3037205625",
+    "sca_ref": "5659623.Bu0CD3pVte"
+  },
+  {
+    "name": "Mercy Med Spa",
+    "address": "1016 South Texas Blvd",
+    "phone": "9566477920",
+    "sca_ref": "5660380.8ukyF13XTF"
+  },
+  {
+    "name": "Glow Aesthetics LLC",
+    "address": "668 red bud rd",
+    "phone": "7705483318",
+    "sca_ref": "5674543.W6FkU84XVV"
+  },
+  {
+    "name": "Inspiredskincarebr@gmail.com",
+    "address": "10226 Jefferson Hwy Suite 101`",
+    "phone": "2257761999",
+    "sca_ref": "5675372.nLpZ7jwiYA"
+  },
+  {
+    "name": "Clarity spa",
+    "address": "120 west park ave suite 307",
+    "phone": "5165437793",
+    "sca_ref": "5678128.0TYegFRPfJ"
+  },
+  {
+    "name": "Skin IQ Havasu",
+    "address": "1990 McCulloch Blvd N #D10",
+    "phone": "9287330987",
+    "sca_ref": "5684485.xD0T7iUPFc"
+  },
+  {
+    "name": "Lizii Skincare Studio",
+    "address": "6362  MCLEOD DR. STE 2",
+    "phone": "7027230098",
+    "sca_ref": "5698411.5IokQdLird"
+  },
+  {
+    "name": "My Skin Care Girl LLC",
+    "address": "3620 Kirkwood Hwy Suite 303",
+    "phone": "3027431230",
+    "sca_ref": "5707339.U4C7qiiLFC"
+  },
+  {
+    "name": "Serving Skin Aesthetics",
+    "address": "4400 State Hwy 121 Suite 220",
+    "phone": "4692743164",
+    "sca_ref": "5719949.JCTyzBjA6O"
+  },
+  {
+    "name": "Kerry Lorene Skin",
+    "address": "108 Desert Forest Ct",
+    "phone": "5129717322",
+    "sca_ref": "5726081.bEtEfNJj2s"
+  },
+  {
+    "name": "Studio E",
+    "address": "103 N 22nd St",
+    "phone": "208-409-4846",
+    "sca_ref": "5734618.U0L5SM1dMW"
+  },
+  {
+    "name": "Alice Khalkad House of Skin",
+    "address": "105-09 Metropolitan Ave",
+    "phone": "3472570199",
+    "sca_ref": "5758210.AbtYEFxQAk"
+  },
+  {
+    "name": "ABA Aesthetics",
+    "address": "2109 Summer Lee Drive unit 103, suite 304",
+    "phone": "4693352222",
+    "sca_ref": "5769735.mKQIROuf1h"
+  },
+  {
+    "name": "PhoebeGlow Aesthetics",
+    "address": "120 Knob Hill Ln",
+    "phone": "4692379509",
+    "sca_ref": "5773028.Ndw4Yk8BkX"
+  },
+  {
+    "name": "Skin Binge",
+    "address": "4847 W 3350 S",
+    "phone": "385-626-2730",
+    "sca_ref": "5774014.cybUV53STF"
+  },
+  {
+    "name": "True Derm MedSpa",
+    "address": "6759 S Tempe Ct",
+    "phone": "7208005716",
+    "sca_ref": "5775372.4I2Qp9aoz8"
+  },
+  {
+    "name": "CK beauty bar",
+    "address": "1411 Biscay Dr",
+    "phone": "6188665207",
+    "sca_ref": "5775934.vfQSEUU0qs"
+  },
+  {
+    "name": "MONTROSE DERMATOLOGY",
+    "address": "2730 Commercial Way",
+    "phone": "9709644036",
+    "sca_ref": "5791278.Fymz0CqoTw"
+  },
+  {
+    "name": "GLOKC",
+    "address": "5700 NW 130th St STE 4",
+    "phone": "5806561780",
+    "sca_ref": "5792876.vVl9grqRv8"
+  },
+  {
+    "name": "Desert Aesthetics by April LLC",
+    "address": "1045 W Hero Ct",
+    "phone": "7027288245",
+    "sca_ref": "5799218.ALkDsFuHII"
+  },
+  {
+    "name": "SKN at Franks Dermatology",
+    "address": "4220 N Rodney Parham Road Suite 102",
+    "phone": "5018598973",
+    "sca_ref": "5834213.81qy3TXDx9"
+  },
+  {
+    "name": "FIRST BODY",
+    "address": "100 N MAIN ST SUITE 330",
+    "phone": "7707692649",
+    "sca_ref": "5835318.nX1RfjNims"
+  },
+  {
+    "name": "Hope Concierge Aesthetics",
+    "address": "3900 Harvard Ave.",
+    "phone": "5042356640",
+    "sca_ref": "5836943.kQ83S6N3lU"
+  },
+  {
+    "name": "The Aesthetic Life",
+    "address": "1483 W 1640 S",
+    "phone": "8014994991",
+    "sca_ref": "5837094.2YovTFXBrZ"
+  },
+  {
+    "name": "Ageless Aesthetics by Sonia",
+    "address": "1042 Northside Dr. NW, Suite #M210",
+    "phone": "4046906880",
+    "sca_ref": "5841527.lbbW5kIoo9"
+  },
+  {
+    "name": "Sanctuary Skincare",
+    "address": "2545 Jackson Keller Road, Suite 1",
+    "phone": "2403280984",
+    "sca_ref": "5844179.YMgkPTnz0E"
+  },
+  {
+    "name": "Blissful Glow Aesthetics LLC",
+    "address": "2901 Doughtery Ferry Rd, Suite 113",
+    "phone": "6362190581",
+    "sca_ref": "5861293.5kIv4rAc1P"
+  },
+  {
+    "name": "Rosa Alba Skincare",
+    "address": "5401 College Blvd Unit 203",
+    "phone": "9132400997",
+    "sca_ref": "5872420.FHSOQKSyMt"
+  },
+  {
+    "name": "Pure Hydration and Aesthetics",
+    "address": "1327 S Interstate Dr. Suite B",
+    "phone": "435 590 3471",
+    "sca_ref": "5883881.FoAF0iuuNB"
+  },
+  {
+    "name": "Blue Divine Aesthetics",
+    "address": "107 W Paces Ferry Rd NW",
+    "phone": "4044674232",
+    "sca_ref": "5884209.DNAAYeHV38"
+  },
+  {
+    "name": "Evoke Aesthetics",
+    "address": "23622 Calabasas Rd, Suite 144",
+    "phone": "3105646794",
+    "sca_ref": "5887248.BMkJLtChBh"
+  },
+  {
+    "name": "Glam Rose Skin",
+    "address": "337 Wolcott Ave",
+    "phone": "5857090210",
+    "sca_ref": "5893859.bOa8sbmLA0"
+  },
+  {
+    "name": "Serene Esthetics",
+    "address": "78 West Alisal Street",
+    "phone": "8312063253",
+    "sca_ref": "5897518.iZTPO4VVnZ"
+  },
+  {
+    "name": "KT Aesthetics and Beauty",
+    "address": "9810 Dollarway Rd, 102",
+    "phone": "8705407179",
+    "sca_ref": "5904164.EpH1j1mbsP"
+  },
+  {
+    "name": "Mongael Aesthetics",
+    "address": "520 N. Michigan Ave.",
+    "phone": "(312) 806-2946",
+    "sca_ref": "5908028.u1uzAmxHX4"
+  },
+  {
+    "name": "Sydney Scarpino Aesthetics",
+    "address": "19600 East Parker Square Drive Suite 110",
+    "phone": "3039995318",
+    "sca_ref": "5921964.2LnSpQ31qW"
+  },
+  {
+    "name": "Golden Hour Skincare",
+    "address": "2900 S Congress Ave #109",
+    "phone": "(512) 537-5506",
+    "sca_ref": "5923403.KzaDWZCKhH"
+  },
+  {
+    "name": "Rooted Culture Aesthetics",
+    "address": "1812 Springdale Street",
+    "phone": "6082796373",
+    "sca_ref": "5924356.M9YpxkocoP"
+  },
+  {
+    "name": "Beaut\u00e9 Haus",
+    "address": "717 west Main Street",
+    "phone": "2088097575",
+    "sca_ref": "5938417.aIw3xVtHg2"
+  },
+  {
+    "name": "Sydnee Short Aesthetics",
+    "address": "10056 s smythe dr",
+    "phone": "4802959281",
+    "sca_ref": "5962896.hSocUqslml"
+  },
+  {
+    "name": "Luminosity Skin Care",
+    "address": "1813 Quaker Hollow Ln",
+    "phone": "2245187151",
+    "sca_ref": "5963717.wkgXK4DcSV"
+  },
+  {
+    "name": "Meraki skin and beauty",
+    "address": "724 SPIRIT LAKE HWY",
+    "phone": "3604313975",
+    "sca_ref": "5964651.6NC2Bta5o0"
+  },
+  {
+    "name": "Joelle Aesthetics NY",
+    "address": "1611 US-6",
+    "phone": "8459047550",
+    "sca_ref": "5967020.DRcIxzXOEE"
+  },
+  {
+    "name": "Vivify Body & Co.",
+    "address": "117 9th Street, Suite 107B",
+    "phone": "929-491-0048",
+    "sca_ref": "5967652.7aPfZRhZzr"
+  },
+  {
+    "name": "Family Medicine Associates PA",
+    "address": "1500 S Bryan Rd",
+    "phone": "9033318106",
+    "sca_ref": "5975935.YFpp43Tj44"
+  },
+  {
+    "name": "Indy esthetics | skin studio",
+    "address": "12909 William Penn Boulevard",
+    "phone": "4058244716",
+    "sca_ref": "5975984.h9utMiwpPf"
+  },
+  {
+    "name": "Pelle Medical Spa",
+    "address": "159 Frontage Rd",
+    "phone": "6036277000",
+    "sca_ref": "5976035.6PtT0ag400"
+  },
+  {
+    "name": "Avail Aesthetics",
+    "address": "2006 Fairview Rd",
+    "phone": "9193225440",
+    "sca_ref": "5976629.XfRS3AL93a"
+  },
+  {
+    "name": "NIMA",
+    "address": "10714 S River Front Pkwy",
+    "phone": "8448996462",
+    "sca_ref": "5977309.ZglqKRqNka"
+  },
+  {
+    "name": "NIMA",
+    "address": "6111 S Buffalo Dr Suite 170",
+    "phone": "8448996462",
+    "sca_ref": "5977466.Xh722N9K62"
+  },
+  {
+    "name": "Valiskin",
+    "address": "7336 Rubio Ave",
+    "phone": "7473043892",
+    "sca_ref": "5986873.BsmtGlugCl"
+  },
+  {
+    "name": "Dose of Youth",
+    "address": "2016 E. Wildermuth Ave. #1088",
+    "phone": "4802978782",
+    "sca_ref": "5993980.2kkqGQ3PIz"
+  },
+  {
+    "name": "Vida Aesthetics and Wellness",
+    "address": "3407 Montrose Blvd STE A5",
+    "phone": "2819750251",
+    "sca_ref": "6002201.dAvU3cjLZM"
+  },
+  {
+    "name": "SkinByLiss LLC",
+    "address": "1320 Layven Ave",
+    "phone": "3143486293",
+    "sca_ref": "6006889.uRAox8ihne"
+  },
+  {
+    "name": "Chalena M Esthetics",
+    "address": "2181 south Osage",
+    "phone": "9189028716",
+    "sca_ref": "6010410.OIQIpXjT4D"
+  },
+  {
+    "name": "Skin Stories Aesthetics",
+    "address": "1735 S 82nd Way",
+    "phone": "4803382124",
+    "sca_ref": "6011331.qzyQ5HbXbo"
+  },
+  {
+    "name": "Revival Skin",
+    "address": "9251 E Peakview Ave Unit G",
+    "phone": "6513996177",
+    "sca_ref": "6018007.U6a0k3icqg"
+  },
+  {
+    "name": "Leyla Sufi Beauty Company",
+    "address": "9340 N Main Street",
+    "phone": "8169747206",
+    "sca_ref": "6026114.Uri2rMGr1R"
+  },
+  {
+    "name": "Align Medspa Orland Square Mall",
+    "address": "604 orland square drive",
+    "phone": "4642037564",
+    "sca_ref": "6026309.yhFADakBPz"
+  },
+  {
+    "name": "West Plano Medical Associates",
+    "address": "3016 Communications Parkway, Suite 100",
+    "phone": "972-312-8429",
+    "sca_ref": "6027647.gsAB2BviqY"
+  },
+  {
+    "name": "Luminous You",
+    "address": "3931 Coffee Rd. Suite C",
+    "phone": "2098602122",
+    "sca_ref": "6027937.evWnJBzljY"
+  },
+  {
+    "name": "Glow Up Aesthetics",
+    "address": "15501 N Dial Blvd, #1050",
+    "phone": "6239105134",
+    "sca_ref": "6041310.m4yf24EYgr"
+  },
+  {
+    "name": "Brows and Beauty",
+    "address": "420 Helen Lane",
+    "phone": "7063158642",
+    "sca_ref": "6041562.cUdOwqOgm6"
+  },
+  {
+    "name": "Camille Complexion LLC",
+    "address": "1675 N FREEDOM BLVD, BUILDING 11 E",
+    "phone": "8014720589",
+    "sca_ref": "6047749.uHJKPlfUnQ"
+  },
+  {
+    "name": "ReVibe Aesthetics",
+    "address": "110 N Minnesota St Suite 7",
+    "phone": "507-805-9548",
+    "sca_ref": "6060941.WUFfnF6Xqx"
+  },
+  {
+    "name": "Suede Aesthetics",
+    "address": "1139 Highland Avenue",
+    "phone": "3202266098",
+    "sca_ref": "6061617.u00di4ZZUC"
+  },
+  {
+    "name": "Bubble bar spa",
+    "address": "1074 East Ave suite U",
+    "phone": "5309667292",
+    "sca_ref": "6062896.NoYL0GZrMt"
+  },
+  {
+    "name": "JessAnne Aesthetics L.L.C.",
+    "address": "11851 Bandera rd #115",
+    "phone": "4326380642",
+    "sca_ref": "6063198.NnfglXvqPH"
+  },
+  {
+    "name": "GLOW Beauty Collective",
+    "address": "3215 W Lawrence St, Ste 7",
+    "phone": "9208899478",
+    "sca_ref": "6074745.j6UE2dm7RZ"
+  },
+  {
+    "name": "Laura Mendoza The Facialist",
+    "address": "3091 S Quay St",
+    "phone": "5094608154",
+    "sca_ref": "6076611.rCluMdZ8YS"
+  },
+  {
+    "name": "Beauty nurse Nyc",
+    "address": "50 Lynbrook Ave",
+    "phone": "7186195867",
+    "sca_ref": "6081693.QDTRGgPkGd"
+  },
+  {
+    "name": "Shannon Lee Esthetics",
+    "address": "167 madison ave , Suite 506",
+    "phone": "6466813892",
+    "sca_ref": "6082797.6gZsntHRTq"
+  },
+  {
+    "name": "Park Place Medical Spa",
+    "address": "15615 IN-23 Suite N",
+    "phone": "5748500454",
+    "sca_ref": "6089861.zT47YK8Vcw"
+  },
+  {
+    "name": "Wellbeing Medical Physician Assistant PC",
+    "address": "2801 Ocean Park Blvd , #1087",
+    "phone": "4044058488",
+    "sca_ref": "6092466.VRgi2ERQsH"
+  },
+  {
+    "name": "Lotus Skin + Brow",
+    "address": "11 Crestview Ln SE",
+    "phone": "9072024560",
+    "sca_ref": "6097677.8xGKAJ4zrF"
+  },
+  {
+    "name": "Revive Aesthetics and Wellness",
+    "address": "220 E. Washington Street Suite B",
+    "phone": "9109951016",
+    "sca_ref": "6103099.C7ZnN1830J"
+  },
+  {
+    "name": "Belleza Spa",
+    "address": "7200 East Dry Creek Road Suite E105",
+    "phone": "720-492-7150",
+    "sca_ref": "6105232.eoMnG24fwr"
+  },
+  {
+    "name": "Anissa Skincare Studio",
+    "address": "300 Beardsley Lane building D suite #100",
+    "phone": "512-296-6543",
+    "sca_ref": "6111929.9XNSTXJg5k"
+  },
+  {
+    "name": "Cara Luna Skincare",
+    "address": "1145 E. Clark",
+    "phone": "8052682323",
+    "sca_ref": "6112040.chK6V63pXX"
+  },
+  {
+    "name": "Smart Skin Med Spa",
+    "address": "1931 29th Ave S",
+    "phone": "205-968-1301",
+    "sca_ref": "6118655.eviHpZgPkh"
+  },
+  {
+    "name": "Johnson Dermatology",
+    "address": "5921 Riley Park Drive",
+    "phone": "479-649-3376",
+    "sca_ref": "6130869.B7A2DxvKUE"
+  },
+  {
+    "name": "HOUSE OF PRESERVATION",
+    "address": "3219 North Fitzhugh Avenue",
+    "phone": "4695713740",
+    "sca_ref": "6132804.mqRpdvwYCY"
+  },
+  {
+    "name": "FACELAB",
+    "address": "12198 SE 158th Ave.",
+    "phone": "5037377268",
+    "sca_ref": "6133616.ntuxtOITrU"
+  },
+  {
+    "name": "Glow within Aesthetics",
+    "address": "1975 NE Purser",
+    "phone": "5034591450",
+    "sca_ref": "6139734.MX1dBdu9ae"
+  },
+  {
+    "name": "Femme Beauty ATX",
+    "address": "3801 n capital of Texas Hwy, suite 18",
+    "phone": "9292951235",
+    "sca_ref": "6145144.JTygawsqgy"
+  },
+  {
+    "name": "Elysian Aesthetics",
+    "address": "2523 223rd Lane NW",
+    "phone": "651-300-2513",
+    "sca_ref": "6146305.68CP4y3Qxb"
+  },
+  {
+    "name": "Hailey Frieden Esthetics",
+    "address": "2907 S Breeze Dr",
+    "phone": "8016360970",
+    "sca_ref": "6164939.CXNtvwlPxS"
+  },
+  {
+    "name": "The Grove Spa",
+    "address": "328 w 63rd Street",
+    "phone": "8168349100",
+    "sca_ref": "6182369.pCsRHVehRs"
+  },
+  {
+    "name": "Majestic Aesthetics & Wellness",
+    "address": "1182 Eastland drive N",
+    "phone": "2088860774",
+    "sca_ref": "6182959.ENGs8inMb3"
+  },
+  {
+    "name": "Radiance Rx Skin & Aesthetics",
+    "address": "2046 Creekside Landing Drive",
+    "phone": "9193034777",
+    "sca_ref": "6191307.eSPll2JIpB"
+  },
+  {
+    "name": "Navs Esthetics LLC",
+    "address": "18568 115th pl se",
+    "phone": "4255031892",
+    "sca_ref": "6198253.UoIGWjmEdP"
+  },
+  {
+    "name": "Dream aesthetic",
+    "address": "5101 Forest Dr",
+    "phone": "803-358-8375",
+    "sca_ref": "6199094.dCzYEGDR59"
+  },
+  {
+    "name": "NurturHer Aesthetics",
+    "address": "6317 McKee Rd Ste 200",
+    "phone": "6083135627",
+    "sca_ref": "6210781.aPjhqVb3TW"
+  },
+  {
+    "name": "Tessa Grace Aesthetics",
+    "address": "620A E Longview Drive",
+    "phone": "9206217251",
+    "sca_ref": "6223835.fDD5pIyJ92"
+  },
+  {
+    "name": "THE MARINA METHOD at the Dermatology Institute",
+    "address": "2001 Santa Monica Blvd. #1160W",
+    "phone": "424-625-8556",
+    "sca_ref": "6233023.6vaGDMD8zl"
+  },
+  {
+    "name": "Med Spa Express Aesthetics & Wellness",
+    "address": "22 3rd Ave NW",
+    "phone": "7123357434",
+    "sca_ref": "6235790.LHgUaXKw6p"
+  },
+  {
+    "name": "AGLOW Aesthetics",
+    "address": "100 Front Avenue",
+    "phone": "6628367251",
+    "sca_ref": "6239609.oICAeqVPTi"
+  },
+  {
+    "name": "Black Lotus Skin Bar",
+    "address": "532 main st",
+    "phone": "715-991-0911",
+    "sca_ref": "6240183.GESA1Kgsyo"
+  },
+  {
+    "name": "Rocky Mountain Beauty Bar",
+    "address": "665 Frontage Road Suite 250",
+    "phone": "720-464-1846",
+    "sca_ref": "6246861.nBfIyt4ERY"
+  },
+  {
+    "name": "Pretty Please Aesthetics",
+    "address": "924 57TH ST",
+    "phone": "2156945281",
+    "sca_ref": "6253495.vjIZFsqZ0Z"
+  },
+  {
+    "name": "Glow & co.",
+    "address": "2135 e. University Dr. suite 113",
+    "phone": "4802218580",
+    "sca_ref": "6271616.2ix1cnaw6b"
+  },
+  {
+    "name": "Christopher Chen M.D. Inc.",
+    "address": "4439 Stoneridge Dr. Ste 110",
+    "phone": "9254612840",
+    "sca_ref": "6271857.AvH8fKeFz7"
+  },
+  {
+    "name": "Dana Michele Makeup + Aesthetics",
+    "address": "9 GLORIA CT",
+    "phone": "8473120071",
+    "sca_ref": "6274121.mmFPGTOR7a"
+  },
+  {
+    "name": "The Aesthetic Studio",
+    "address": "3100 E Florence Dr. Suite 101",
+    "phone": "8013626375",
+    "sca_ref": "6274821.LG3iBuQB56"
+  },
+  {
+    "name": "Natasha Bullard Aesthetics",
+    "address": "481 Tyler st",
+    "phone": "831-750-9511",
+    "sca_ref": "6280390.eC9F25zgMc"
+  },
+  {
+    "name": "Lafranceaesthetics",
+    "address": "251 west southlake blvd suite 15",
+    "phone": "5802639034",
+    "sca_ref": "6280567.5v4y3EXYCe"
+  },
+  {
+    "name": "Jazzlene Woodson",
+    "address": "428 S Gilbert Rd Suite 103",
+    "phone": "6027021932",
+    "sca_ref": "6312734.VObgPdsaSz"
+  },
+  {
+    "name": "LV Snatched Beauty Bar",
+    "address": "6468 E Coldwater Bay Dr",
+    "phone": "7028009559",
+    "sca_ref": "6313199.mtbr69I8fx"
+  },
+  {
+    "name": "Lashxesthetic LLC",
+    "address": "7019 amber crystal ct",
+    "phone": "7022379359",
+    "sca_ref": "6315424.XbMyxkSayR"
+  },
+  {
+    "name": "Luminescence Aesthetics",
+    "address": "14201 Berkshire Lane N",
+    "phone": "763-670-3743",
+    "sca_ref": "6321047.wPfWaQFzsJ"
+  },
+  {
+    "name": "Tuscany Retreat",
+    "address": "1388 Cambridge Drive",
+    "phone": "2088211691",
+    "sca_ref": "6328318.RA1s8AhUoe"
+  },
+  {
+    "name": "Skinwell LLC / SkinWell Studio",
+    "address": "133 SW Century Drive Suite 104",
+    "phone": "5412137524",
+    "sca_ref": "6328915.k5GRK7OtoC"
+  },
+  {
+    "name": "JOLIE KRISTINE BUDAU",
+    "address": "14010 RUE SAINT TROPEZ",
+    "phone": "8588883018",
+    "sca_ref": "6333250.prjAqJ5FQf"
+  },
+  {
+    "name": "Smoke and Honey Aesthetics",
+    "address": "3939 S McCarran blvd",
+    "phone": "7758422266",
+    "sca_ref": "6334607.984UdTUYlV"
+  },
+  {
+    "name": "Beauty by Livie",
+    "address": "706 18th Ave S",
+    "phone": "8603333769",
+    "sca_ref": "6340398.coVoHLcokR"
+  },
+  {
+    "name": "L.O. Aesthetic Studio",
+    "address": "3738 Osage Beach Pkwy Suite 102",
+    "phone": "3192131969",
+    "sca_ref": "6353720.oqRxHugp1f"
+  },
+  {
+    "name": "The Glowhive Skin Studio",
+    "address": "1301 Lake Air Dr",
+    "phone": "254-548-5888",
+    "sca_ref": "6355994.G0CinnPL5r"
+  },
+  {
+    "name": "C&S Aesthetics",
+    "address": "19630 Rinaldi Street 369",
+    "phone": "6265247040",
+    "sca_ref": "6356817.1nkHTuHhKU"
+  },
+  {
+    "name": "Eunoia Medispa a physician assistant corp",
+    "address": "1528 constitution blvd",
+    "phone": "8312108143",
+    "sca_ref": "6357061.eufprkwsS9"
+  },
+  {
+    "name": "Meraki Massage And Skin",
+    "address": "1414 S 324th St , Ste B-206",
+    "phone": "2532300771",
+    "sca_ref": "6364821.nyEPfKMtL8"
+  },
+  {
+    "name": "Kimtox Skin Studio",
+    "address": "10020 N. Rodney Parham Rd., Suite C",
+    "phone": "5019109522",
+    "sca_ref": "6368564.Z1isgfNkbz"
+  },
+  {
+    "name": "BotoxRN and Medspa Corp.",
+    "address": "13511 Southwest Fwy",
+    "phone": "8322686976",
+    "sca_ref": "6369981.bJMag1cdum"
+  },
+  {
+    "name": "Epic Care",
+    "address": "114 La Casa Via #210",
+    "phone": "9254872843",
+    "sca_ref": "6370386.PgbEPHoFBT"
+  },
+  {
+    "name": "The Mend LLC",
+    "address": "PO BOX 1204",
+    "phone": "9709893226",
+    "sca_ref": "6391082.kdbovSLgjw"
+  },
+  {
+    "name": "The Glow Lab",
+    "address": "4365 E Pecos Rd Unit 117",
+    "phone": "4807717202",
+    "sca_ref": "6397349.fnf1Zml03l"
+  },
+  {
+    "name": "Skin lux the med lounge",
+    "address": "12846 south fwy, unit 140",
+    "phone": "8176700444",
+    "sca_ref": "6397823.Oyx7O3FK17"
+  },
+  {
+    "name": "Pure Excellence Esthetics",
+    "address": "1172 basalt ridge loop",
+    "phone": "7202821900",
+    "sca_ref": "6397936.qyIuEHXopF"
+  },
+  {
+    "name": "Skincraft LA",
+    "address": "14228 Erwin St., Apt. 6",
+    "phone": "4136278294",
+    "sca_ref": "6400506.AfeGibjXMj"
+  },
+  {
+    "name": "Vein and Laser Institute",
+    "address": "3907 Calumet Ave",
+    "phone": "219-736-8118",
+    "sca_ref": "6404670.R830gjuQ85"
+  },
+  {
+    "name": "Skin One Studio",
+    "address": "939 Market Court, Unit 1",
+    "phone": "18152367106",
+    "sca_ref": "6407274.n9EISD7T3X"
+  },
+  {
+    "name": "Cactus Lash & Skin Studio",
+    "address": "514 E Pierson St, Unit 2",
+    "phone": "6024321122",
+    "sca_ref": "6409123.fanVBZGFxT"
+  },
+  {
+    "name": "Spa Sway Domain, LLC",
+    "address": "11011 Domain Drive Ste 124",
+    "phone": "5127501114",
+    "sca_ref": "6434257.v7JwLvumov"
+  },
+  {
+    "name": "Electric Skin Studio",
+    "address": "1200 N El Dorado Pl",
+    "phone": "5205573584",
+    "sca_ref": "6439293.NFq0eEzW5Q"
+  },
+  {
+    "name": "Atrium Aesthetics",
+    "address": "1550 Humboldt rd Suite 6",
+    "phone": "5307206973",
+    "sca_ref": "6441222.7BBBxDVx7i"
+  },
+  {
+    "name": "Simply Skin Medspa",
+    "address": "317 n Minnesota st",
+    "phone": "5077661498",
+    "sca_ref": "6453533.DUj2h8B9Ov"
+  },
+  {
+    "name": "Skinn Haus",
+    "address": "455 San Benito St Suite 28",
+    "phone": "8312457422",
+    "sca_ref": "6456326.05FQfNnKHm"
+  },
+  {
+    "name": "New Visage",
+    "address": "108 N 11th street",
+    "phone": "252-808-2639",
+    "sca_ref": "6458518.BH78EEa5Ex"
+  },
+  {
+    "name": "The Modern Aesthetic",
+    "address": "6633 e greenway parkway #2111",
+    "phone": "6022918350",
+    "sca_ref": "6478506.ABKtYQZDbn"
+  },
+  {
+    "name": "Agoddess Spa & Wellness, LLC",
+    "address": "8080 N.Central Expressway Suite 1250",
+    "phone": "469-807-1002",
+    "sca_ref": "6491551.gAmWFL7pYY"
+  },
+  {
+    "name": "Remedy Skin Studio",
+    "address": "1211 Lake Avenue, Suite 101",
+    "phone": "970-532-2755",
+    "sca_ref": "6491900.loy9rhIwgS"
+  },
+  {
+    "name": "Lux n\u2019 Lavish Esthetics",
+    "address": "1694 E. Cheyenne Mtn Blvd",
+    "phone": "7196619656",
+    "sca_ref": "6504017.enLvTQOVW5"
+  },
+  {
+    "name": "Visag\u00e8 Esthetiqu\u00e8",
+    "address": "710 Franklin Avenue",
+    "phone": "5168603100",
+    "sca_ref": "6523594.wCl40hvzg8"
+  },
+  {
+    "name": "Prescribed Health + Beauty",
+    "address": "2680 S Val Vista, Suite 140",
+    "phone": "4357578824",
+    "sca_ref": "6525972.I2SVbFoj2D"
+  },
+  {
+    "name": "The Acne Concept",
+    "address": "390 Oak Ave, Suite G",
+    "phone": "8583351137",
+    "sca_ref": "6525976.U2EMzBzEia"
+  },
+  {
+    "name": "Purely Aesthetic PLLC",
+    "address": "629 S. Hazel Ct",
+    "phone": "6025070102",
+    "sca_ref": "6526669.HHac3fuk6r"
+  },
+  {
+    "name": "Katrina Skin Studio",
+    "address": "128 Enchanted Parkway Suite 106",
+    "phone": "6189605596",
+    "sca_ref": "6545185.Ff68Vu33sp"
+  },
+  {
+    "name": "OC Skin Vibes",
+    "address": "29692 Jarrett Circle",
+    "phone": "9493375678",
+    "sca_ref": "6545401.75vitYWKcK"
+  },
+  {
+    "name": "ME Aesthetics & Wellness",
+    "address": "3093 citrus circle suite 102",
+    "phone": "925-250-5155",
+    "sca_ref": "6548966.kDYRduI2Ex"
+  },
+  {
+    "name": "Poke Me Pretty",
+    "address": "9437 W Weeping Willow Rd",
+    "phone": "4802621178",
+    "sca_ref": "6550479.nlXl4IaSYU"
+  },
+  {
+    "name": "Blue Divine Aesthetics",
+    "address": "107 West Paces Ferry Road",
+    "phone": "4044674232",
+    "sca_ref": "6565587.sGA137WJhb"
+  },
+  {
+    "name": "Summerville Medical Spa",
+    "address": "299 Midland Parkway",
+    "phone": "8432857820",
+    "sca_ref": "6575300.gmj84waTGI"
+  },
+  {
+    "name": "Hydrinity",
+    "address": "3039 WALDON PARK DR",
+    "phone": "4409154882",
+    "sca_ref": "6576595.hDlMr4hAV4"
+  },
+  {
+    "name": "SkinRX",
+    "address": "361 W Southlake Blvd Ste 120",
+    "phone": "817-410-1415",
+    "sca_ref": "6583426.4sRwh5ruBN"
+  },
+  {
+    "name": "LK Esthetics",
+    "address": "7357 County Road 5 NW",
+    "phone": "6127413951",
+    "sca_ref": "6588263.fDIHdxS2iM"
+  },
+  {
+    "name": "Skin Fusion Spa",
+    "address": "3501 30th Ave, Suite 213",
+    "phone": "917-979-7029",
+    "sca_ref": "6594302.LxLbU903J2"
+  },
+  {
+    "name": "Glow With Jaz",
+    "address": "3628 Walnut Hills Rd. Suite 112",
+    "phone": "2162304222",
+    "sca_ref": "6602073.n6YeyqdEvX"
+  },
+  {
+    "name": "Reign Medical Aesthetics",
+    "address": "290 Citrus Tower Blvd, Ste 110",
+    "phone": "3522414221",
+    "sca_ref": "6607600.uS4PacHibY"
+  },
+  {
+    "name": "Atelier Skin, LLC",
+    "address": "4140 CEDAR LN",
+    "phone": "5418401456",
+    "sca_ref": "6608336.hXjd3AlVco"
+  },
+  {
+    "name": "Skin Club",
+    "address": "403 N L Street Suite C",
+    "phone": "559-344-3734",
+    "sca_ref": "6614885.da16qDd1ou"
+  },
+  {
+    "name": "Michele Aesthetics",
+    "address": "7070 Knights Ct, Suite 401",
+    "phone": "5047298049",
+    "sca_ref": "6614927.wbPLUjh3mT"
+  },
+  {
+    "name": "Plastics Medpa",
+    "address": "3501 N Scottsdale Rd STE 226,",
+    "phone": "4809313008",
+    "sca_ref": "6615260.ROdsqbWMbR"
+  },
+  {
+    "name": "tesia lee esthetics",
+    "address": "13627 Chandler Blvd",
+    "phone": "6262428730",
+    "sca_ref": "6616704.5zkOXN7zNv"
+  },
+  {
+    "name": "The Aesthetics Lounge and Spa",
+    "address": "12301 Lake Underhill Road. STE 105",
+    "phone": "407-347-4770",
+    "sca_ref": "6624956.6hzVx9EBqm"
+  },
+  {
+    "name": "Creole Contour Aesthetics",
+    "address": "11617 Spring Cypress Rd, Unit A, Suite 15",
+    "phone": "8326452844",
+    "sca_ref": "6625120.8ohq4SHDh7"
+  },
+  {
+    "name": "Francheska Esthetics",
+    "address": "4012 Cortez Road W #2206",
+    "phone": "941-962-7450",
+    "sca_ref": "6634179.z3NS3zt3gG"
+  },
+  {
+    "name": "Revive + Bloom Aesthetics",
+    "address": "636 Delaware Ave",
+    "phone": "5184247429",
+    "sca_ref": "6664206.iunSPWNk0i"
+  },
+  {
+    "name": "Skin Rituals by Jess",
+    "address": "756 Warrendale Ave",
+    "phone": "8054158439",
+    "sca_ref": "6674264.KTPA6ko4Tq"
+  },
+  {
+    "name": "Raw Beauty Skin + Wellness Spa",
+    "address": "505 S. Main St",
+    "phone": "6205154328",
+    "sca_ref": "6682557.A1PmHUQ2O9"
+  },
+  {
+    "name": "Werschler Aesthetics",
+    "address": "324 South Sherman Street",
+    "phone": "6783466605",
+    "sca_ref": "6683780.RzWv3vm7r6"
+  },
+  {
+    "name": "Courtney Jorgensen",
+    "address": "1438 w 11150 s",
+    "phone": "435-229-7583",
+    "sca_ref": "6685641.B6u4a2t4HJ"
+  },
+  {
+    "name": "Align Aesthetics",
+    "address": "3434 Houma Blvd, Suite 201",
+    "phone": "504-547-7463",
+    "sca_ref": "6688331.SLlo6gV3lH"
+  },
+  {
+    "name": "Blush Aesthetics",
+    "address": "808 Beech St",
+    "phone": "2192412850",
+    "sca_ref": "6690562.1cWoB2mKSh"
+  },
+  {
+    "name": "Here She Glows",
+    "address": "28835 Oakpath Drive",
+    "phone": "8184145777",
+    "sca_ref": "6692106.DQxE4ot3rc"
+  },
+  {
+    "name": "Sands Aesthetics + Plastic Surgery",
+    "address": "3100 Galleria Dr., Suite 302",
+    "phone": "504-888-4297",
+    "sca_ref": "6696381.rll6S6p9zx"
+  },
+  {
+    "name": "Ophelia Aesthetics",
+    "address": "17705 Hale Ave suite I-5",
+    "phone": "4086075428",
+    "sca_ref": "6696859.gFIzVXj3nr"
+  },
+  {
+    "name": "Roman Esthetics",
+    "address": "5115 W Bell Rd",
+    "phone": "6029001241",
+    "sca_ref": "6698787.M9DRKoaQft"
+  },
+  {
+    "name": "Glow Getter",
+    "address": "97 Storer Avenue Unit D2",
+    "phone": "718-569-5261",
+    "sca_ref": "6704326.dvNwQCE7wM"
+  },
+  {
+    "name": "Skin Aesthetics by Erika",
+    "address": "6693 Folsom Auburn Rd.",
+    "phone": "9163059100",
+    "sca_ref": "6705636.dUPsWxqJ8i"
+  },
+  {
+    "name": "Faces Advanced Skincare",
+    "address": "250 Vallombrosa Ave Suite 125",
+    "phone": "8056379534",
+    "sca_ref": "6710439.TJBBqFIzDm"
+  },
+  {
+    "name": "Avilla Esthetics",
+    "address": "4101 Tully Rd Ste 101",
+    "phone": "2095415744",
+    "sca_ref": "6735613.99y6oXh4GD"
+  },
+  {
+    "name": "Clinic Concierge",
+    "address": "2966 Park Hill Drive",
+    "phone": "(817) 697-1401",
+    "sca_ref": "6748335.caF9JV4GY5"
+  },
+  {
+    "name": "Moonphase Esthetics",
+    "address": "4436 S Harvard Ave Suite 3",
+    "phone": "9188845733",
+    "sca_ref": "6752718.OmWJcSGW32"
+  },
+  {
+    "name": "Daydreamskincare.amira",
+    "address": "9575 Reseda Blvd Apt 157",
+    "phone": "8187446463",
+    "sca_ref": "6759400.S9gea8maAb"
+  },
+  {
+    "name": "Renewal Aesthetics and Sexual Wellness",
+    "address": "11762 S State St",
+    "phone": "8015208458",
+    "sca_ref": "6759844.A3istK53Ym"
+  },
+  {
+    "name": "Refined Aesthetics and Wellness",
+    "address": "1594 N 160 W Suite 120",
+    "phone": "4358819962",
+    "sca_ref": "6760880.diLzUydxT1"
+  },
+  {
+    "name": "Angel Rose Aesthetics  & Wellness",
+    "address": "423 Weathersby Rd, Suite 160",
+    "phone": "7693906407",
+    "sca_ref": "6764093.lPYveRK6vo"
+  },
+  {
+    "name": "Desired Skn",
+    "address": "11216 Sibert St.",
+    "phone": "562)484-1084",
+    "sca_ref": "6789975.DR7qsr9MU5"
+  },
+  {
+    "name": "ENLIVEN Medical",
+    "address": "4646 s highland dr.    STE 100",
+    "phone": "8019100853",
+    "sca_ref": "6803519.eJG82eSsgr"
+  },
+  {
+    "name": "Abeille Aesthetics",
+    "address": "1214 13th Avenue",
+    "phone": "(414) 416-8769",
+    "sca_ref": "6811983.VfhQDzA3uB"
+  },
+  {
+    "name": "Broadway Med Spa",
+    "address": "9777 S Yosemite Street, Suite 220",
+    "phone": "303-680-8989",
+    "sca_ref": "6812619.W1nNfBbJpp"
+  },
+  {
+    "name": "Glamorous Beauties Esthetics",
+    "address": "971 Well Springs Rd Apt 23N",
+    "phone": "8018755366",
+    "sca_ref": "6827730.SamJVgXzaj"
+  },
+  {
+    "name": "Face Form Aesthetics",
+    "address": "623 Stewart Ave Suite 106",
+    "phone": "5165008353",
+    "sca_ref": "6843006.RoGCFSgmXW"
+  },
+  {
+    "name": "Skin360",
+    "address": "3031 W March Ln Suite # 104-S",
+    "phone": "2095057804",
+    "sca_ref": "6860772.OxlB80INEw"
+  },
+  {
+    "name": "Revitalize Medical Spa",
+    "address": "10137 Riverside Parkway",
+    "phone": "918.409.2604",
+    "sca_ref": "6872124.26FMCFgHZq"
+  },
+  {
+    "name": "Sace Aesthetics",
+    "address": "5600 E Russell Rd, Unit 136",
+    "phone": "7024179300",
+    "sca_ref": "6888747.qypEpGhru6"
+  },
+  {
+    "name": "Skin By Lexie",
+    "address": "45 Quail Ct",
+    "phone": "9252709685",
+    "sca_ref": "6897461.VruVXSmR6H"
+  },
+  {
+    "name": "Elevate Esthetics",
+    "address": "3947 E. Dartmouth St.",
+    "phone": "4807378258",
+    "sca_ref": "6913871.jZJZmR5Ajc"
+  },
+  {
+    "name": "Extraordinary Beauty Spa",
+    "address": "1901 4th ave",
+    "phone": "858-832-0172",
+    "sca_ref": "6931969.sdygoFg3o8"
+  },
+  {
+    "name": "NUGlow by Meg",
+    "address": "22309 641st ave",
+    "phone": "5072760324",
+    "sca_ref": "6932712.Xv3zXLdJv6"
+  },
+  {
+    "name": "Y Plastic Surgery",
+    "address": "3330 Preston Ridge Rd.",
+    "phone": "4048224402",
+    "sca_ref": "6949587.bX6Iad1dYl"
+  },
+  {
+    "name": "Moksha Aesthetics",
+    "address": "10220 River Rd",
+    "phone": "7274927650",
+    "sca_ref": "6951238.YqzjvNnMaP"
+  },
+  {
+    "name": "Sade Skin Co",
+    "address": "6780 Jamestown Drive",
+    "phone": "4708679780",
+    "sca_ref": "6961260.6WC3EGCWlv"
+  },
+  {
+    "name": "Canova Aesthetics",
+    "address": "230 W King St",
+    "phone": "6814467038",
+    "sca_ref": "6964639.rtwj9D3hTf"
+  },
+  {
+    "name": "theKCesti LLC",
+    "address": "441 E 19th St.",
+    "phone": "8165603454",
+    "sca_ref": "6973893.dLQwFJG0TJ"
+  },
+  {
+    "name": "The Body Lab",
+    "address": "2100 Dr Martin Luther King Jr St N, Unit C",
+    "phone": "7272786601",
+    "sca_ref": "7000664.PbJtNwElpW"
+  },
+  {
+    "name": "The C Studio Medical Associates, Inc.",
+    "address": "27674 Newhall Ranch Rd C85",
+    "phone": "8184815340",
+    "sca_ref": "7019164.rzFX3a2CV7"
+  },
+  {
+    "name": "Aneu Beauty LLC",
+    "address": "226 Myrtle Street E, Ste 1A",
+    "phone": "6513230554",
+    "sca_ref": "7023959.cYfp1IcVqm"
+  },
+  {
+    "name": "Beauty By Brit",
+    "address": "101 E Main St, Unit 102",
+    "phone": "4256471651",
+    "sca_ref": "7026301.BEsrdp7cWs"
+  },
+  {
+    "name": "HONEY ROSE AESTHETICS",
+    "address": "8114 112th Street Court East",
+    "phone": "2537532332",
+    "sca_ref": "7032109.1nnlocoiEn"
+  },
+  {
+    "name": "All Skin Aesthetics",
+    "address": "6750 W. Thunderbird Rd B104",
+    "phone": "6027505989",
+    "sca_ref": "7032558.qSvNjzdGGm"
+  },
+  {
+    "name": "The Spa face & body",
+    "address": "1113 15th Street",
+    "phone": "6189434426",
+    "sca_ref": "7035757.1kqiWYFuXP"
+  },
+  {
+    "name": "Esthetic Glow",
+    "address": "6552 Bolsa Ave, Ste E",
+    "phone": "7143175885",
+    "sca_ref": "7053464.WSzfXK2rj9"
+  },
+  {
+    "name": "Beauty Skin and Laser Studio",
+    "address": "1905 Townehouse Dr",
+    "phone": "6318163233",
+    "sca_ref": "7060703.1Oxq16U5dx"
+  },
+  {
+    "name": "Aestheticsbyhadil",
+    "address": "889 Date Street, Unit 402",
+    "phone": "7603332336",
+    "sca_ref": "7077828.yaEUtIbBlQ"
+  },
+  {
+    "name": "RefineU MedSpa",
+    "address": "13301 N. Meridian Ave Suite 300A",
+    "phone": "4058495391",
+    "sca_ref": "7081037.Li1CSCATue"
+  },
+  {
+    "name": "Holaday Aesthetics",
+    "address": "1214 Frederick Ave.",
+    "phone": "8162445430",
+    "sca_ref": "7082121.ErrAyAvTTc"
+  },
+  {
+    "name": "Zora Beauty LLC",
+    "address": "559 S. Deseret Dr. Suite 102",
+    "phone": "385-209-2912",
+    "sca_ref": "7108961.TovGsxIerY"
+  },
+  {
+    "name": "Haus of Aesthetics",
+    "address": "705 E. 900 S.",
+    "phone": "8012441760",
+    "sca_ref": "7109178.px3z5xTdna"
+  },
+  {
+    "name": "Bare complexion acne and skincare",
+    "address": "300 E Santa Clara St, Suite 108",
+    "phone": "8056563724",
+    "sca_ref": "7127368.ykItM8TRt9"
+  },
+  {
+    "name": "Genesis Med Spa",
+    "address": "255 Boderman Lane",
+    "phone": "5734839700",
+    "sca_ref": "7171619.g9kng2PtXu"
+  },
+  {
+    "name": "Injectology Aesthetics",
+    "address": "1408 Live Oak Blvd, Suite C",
+    "phone": "5308226105",
+    "sca_ref": "7178002.n2CGCFhllE"
+  },
+  {
+    "name": "Olive You Aesthetics",
+    "address": "210 Hi Point Road",
+    "phone": "3144021989",
+    "sca_ref": "7188235.5fH7SuFiUG"
+  },
+  {
+    "name": "Amanda Taylor Esthetics",
+    "address": "6960 Zelzah Ave",
+    "phone": "8184396793",
+    "sca_ref": "7189261.CqFqhphnCW"
+  },
+  {
+    "name": "Medical Aesthetic Art Institute",
+    "address": "640 E 700 S",
+    "phone": "4359228330",
+    "sca_ref": "7195133.z4W7l7vp0S"
+  },
+  {
+    "name": "Everyday Esthetics",
+    "address": "207 N Gilbert Rd Ste 103",
+    "phone": "4805291111",
+    "sca_ref": "7200896.6ECCJVIFze"
+  },
+  {
+    "name": "Redeeming Radiance Skin Studio",
+    "address": "1827 McGee Street, unit h",
+    "phone": "4029814900",
+    "sca_ref": "7226697.hr4a4Z4Zgw"
+  },
+  {
+    "name": "Peaches Aren\u2019t Perfect",
+    "address": "3007 E Cruise Way",
+    "phone": "2069092631",
+    "sca_ref": "7233320.8cm7XqUEuW"
+  },
+  {
+    "name": "REV aesthetics",
+    "address": "3900 Market Street",
+    "phone": "7177125729",
+    "sca_ref": "7244433.FKcWDpkuwV"
+  },
+  {
+    "name": "K*SPENCE AESTHETICS",
+    "address": "2121 Newcastle Ave. STE.C",
+    "phone": "7602163033",
+    "sca_ref": "7253931.s25xYmImRn"
+  },
+  {
+    "name": "Connies Skin Solutions LLC",
+    "address": "59-136 Kamehameha hwy",
+    "phone": "8086381898",
+    "sca_ref": "7301637.SV8ZK7YcbK"
+  },
+  {
+    "name": "Skin Restore",
+    "address": "312, Avenida De La Estrella",
+    "phone": "9496900094",
+    "sca_ref": "7323725.85bLh7gTIx"
+  },
+  {
+    "name": "BioImage",
+    "address": "6200 Regional Plaza Suite 1600",
+    "phone": "325-665-6782",
+    "sca_ref": "7338798.oRHQWNVa84"
+  },
+  {
+    "name": "Bare Esthetics",
+    "address": "105-09 Metropolitan Ave",
+    "phone": "9172545115",
+    "sca_ref": "7345561.p1zP96ICcU"
+  },
+  {
+    "name": "Talia Padilla Esthetics",
+    "address": "1015 Holly Dr",
+    "phone": "2093296100",
+    "sca_ref": "7345796.ddDQibjY9y"
+  },
+  {
+    "name": "Prescription Aesthetic and Wellness Spa",
+    "address": "700 Montgomery Hwy, Suite 230",
+    "phone": "205-908-0748",
+    "sca_ref": "7370160.hgolEAqgBZ"
+  },
+  {
+    "name": "AIVI Aesthetics Skin Health Clinic",
+    "address": "28720 Roadside Dr Ste 373",
+    "phone": "8188519900",
+    "sca_ref": "7371827.6nFR8ZfxzQ"
+  },
+  {
+    "name": "Gl\u00f6",
+    "address": "6700 Indiana Ave, Suite 210",
+    "phone": "9513478555",
+    "sca_ref": "7373255.zQjtxnBLu6"
+  },
+  {
+    "name": "Pure Vitality Med Spa",
+    "address": "113 Renee Ford Rd",
+    "phone": "704-985-6185",
+    "sca_ref": "7406742.fCLnvCiovF"
+  },
+  {
+    "name": "Lillie Aesthetics x Vital Skin",
+    "address": "5010 Clifford Road",
+    "phone": "4102999145",
+    "sca_ref": "7437650.yWWIgOl4Cx"
+  },
+  {
+    "name": "Assembled Esthetics",
+    "address": "5622 Warner Drive",
+    "phone": "6015407874",
+    "sca_ref": "7512563.EypQIUPWBt"
+  },
+  {
+    "name": "Skin by Sylvie",
+    "address": "9150 Wilshire Blvd, Suite 306",
+    "phone": "3234506142",
+    "sca_ref": "7572714.uGVRY5pdkQ"
+  },
+  {
+    "name": "The Grove Spa",
+    "address": "328 W 63rd St",
+    "phone": "816-834-9100",
+    "sca_ref": "7593248.gIrKMFGkiV"
+  },
+  {
+    "name": "Alpenglow Health Collective",
+    "address": "2355 Old Trail Road, Apt 4",
+    "phone": "8435306541",
+    "sca_ref": "7626253.KIYjmTYjMr"
+  },
+  {
+    "name": "Honor\u00e9 Skin Clinic",
+    "address": "3635 S Val Vista Dr. Suite 203",
+    "phone": "4805169468",
+    "sca_ref": "7632943.V4984loNVj"
+  },
+  {
+    "name": "Corner Stone Spa Salon",
+    "address": "213 S. Division St",
+    "phone": "6088735542",
+    "sca_ref": "7646328.8fxh0QuSjt"
+  },
+  {
+    "name": "Nashville Skin Studio",
+    "address": "9160 Carothers parkway suite 101",
+    "phone": "6158159571",
+    "sca_ref": "7669288.tjyYBO71gV"
+  },
+  {
+    "name": "Pack Med Spa",
+    "address": "1217 Oak Knoll Dr,",
+    "phone": "8178316141",
+    "sca_ref": "7734918.FoyTvgWPEm"
+  },
+  {
+    "name": "L Wellness",
+    "address": "81 Highland Ave Suite 240",
+    "phone": "6109369155",
+    "sca_ref": "7799193.YR1kbWzJx6"
+  },
+  {
+    "name": "\u00c1ine Healthcare",
+    "address": "732 E. Warner Rd",
+    "phone": "480-939-3230",
+    "sca_ref": "7825513.WkSOrwugFA"
+  },
+  {
+    "name": "Sunny skincare studio",
+    "address": "1896 S 52 E",
+    "phone": "2085697015",
+    "sca_ref": "7844509.gLzNTwQzfQ"
+  },
+  {
+    "name": "Angel Aesthetics",
+    "address": "3400 E Bayaud Ave Suite 333",
+    "phone": "303-709-9026",
+    "sca_ref": "7880346.siXSqo5YmX"
+  },
+  {
+    "name": "Skin By Women",
+    "address": "4-901 Kuhio Hwy, Suite G",
+    "phone": "(808) 346-0939",
+    "sca_ref": "7882217.mvGcYpNTL2"
+  },
+  {
+    "name": "Saltz Plastic Surgery & Spa Vitoria",
+    "address": "5445 South Highland Dr",
+    "phone": "8012749500",
+    "sca_ref": "7905235.bm3KYZtsyE"
+  },
+  {
+    "name": "J\u2019ADE FACE AND BODY",
+    "address": "190 Keawe St. Ste 30",
+    "phone": "(808)304-1913",
+    "sca_ref": "7927321.PnlZpPM3VV"
+  },
+  {
+    "name": "Jalalabadi Plastic Surgery",
+    "address": "416 N Bedford Dr., Ste.311",
+    "phone": "(310) 620-2111",
+    "sca_ref": "7959974.TISJILJTvQ"
+  },
+  {
+    "name": "NELLY B BEAUTY STUDIO",
+    "address": "268 N LINCOLN AVE #9",
+    "phone": "909-999-2866",
+    "sca_ref": "7964256.L48Jkyyy9G"
+  },
+  {
+    "name": "Lake Travis Laser Skincare & Aesthetics",
+    "address": "107 RR 620 S Unit 202",
+    "phone": "512-766-9396",
+    "sca_ref": "7980585.F03bLdrGCh"
+  },
+  {
+    "name": "A Nu U Aesthetics",
+    "address": "285 N. NY 303   suite #14",
+    "phone": "9149064782",
+    "sca_ref": "8032779.Crp8FAmUkC"
+  },
+  {
+    "name": "Lisa Blu Beauty",
+    "address": "15 Tirremia Drive",
+    "phone": "7608314293",
+    "sca_ref": "8034819.S2dJwLTwVY"
+  },
+  {
+    "name": "Thrive Aesthetics and Wellness",
+    "address": "6405 S 3000 E, Ste 101 Room 9",
+    "phone": "801-209-7299",
+    "sca_ref": "8046582.36KzrzcEV1"
+  },
+  {
+    "name": "J Marie Skin Studio",
+    "address": "1125 Neon Forest Cir #100",
+    "phone": "303-641-8670",
+    "sca_ref": "8055897.fbidADW6Oy"
+  },
+  {
+    "name": "DMC Aesthetics",
+    "address": "10042 E Old Vail Road",
+    "phone": "520-240-2634",
+    "sca_ref": "8064905.1mezJzL7bN"
+  },
+  {
+    "name": "Staci Christie Skincare",
+    "address": "317 N. El Camino Real, Suite 102",
+    "phone": "7606330123",
+    "sca_ref": "8065723.N4myN4Atve"
+  },
+  {
+    "name": "Mindful Women Spa & Medical",
+    "address": "1525 East 6000 South, Suite D",
+    "phone": "8013375818",
+    "sca_ref": "8122615.qLBzTWgpZw"
+  },
+  {
+    "name": "Kore Aesthetics",
+    "address": "2450 S 4th Ave #110",
+    "phone": "9285816608",
+    "sca_ref": "8129021.1ydajIGuPn"
+  },
+  {
+    "name": "Deosoli Beauty",
+    "address": "3775 S Chaparral Rd",
+    "phone": "4802749945",
+    "sca_ref": "8151855.wN32MUBhon"
+  },
+  {
+    "name": "Shear magic and more",
+    "address": "253 Bill Brice Lane",
+    "phone": "2105913925",
+    "sca_ref": "8200380.paAUVtLU2Q"
+  },
+  {
+    "name": "ZK Aesthetics",
+    "address": "1675 Alhambra Blvd",
+    "phone": "9165880898",
+    "sca_ref": "8238981.Osye2dLc41"
+  },
+  {
+    "name": "Modern Aesthetics and Wellness",
+    "address": "8735 Sierra College Blvd Suite 100",
+    "phone": "9169533248",
+    "sca_ref": "8244378.QraUFQs9YR"
+  },
+  {
+    "name": "Celestial Aesthetics",
+    "address": "115 W 6th St",
+    "phone": "9704716632",
+    "sca_ref": "8269168.ZhmRv4eRKS"
+  },
+  {
+    "name": "DMC Aesthetics",
+    "address": "10042 E Old Vail Road",
+    "phone": "520-240-2634",
+    "sca_ref": "8348438.a2ojYRMxRu"
+  },
+  {
+    "name": "MELA Medical Spa",
+    "address": "5855 Creek Station Drive",
+    "phone": "8503751272",
+    "sca_ref": "8391985.YTXfTS8dl2"
+  },
+  {
+    "name": "Morgan\u2019s Beauty Bar",
+    "address": "825 Highway 12 West",
+    "phone": "6019068555",
+    "sca_ref": "8396617.Ff8VMolzTc"
+  },
+  {
+    "name": "Aesthetics by Meg",
+    "address": "8642 East Hillview Street",
+    "phone": "4356596901",
+    "sca_ref": "8456404.T4FRlucyha"
+  },
+  {
+    "name": "Beautiful Med Spa",
+    "address": "901 S. Coast Dr. Unit 120B, Studio 14",
+    "phone": "7148558958",
+    "sca_ref": "8466531.qqXHFJCp9d"
+  },
+  {
+    "name": "The Aesthetic Journey",
+    "address": "647 Camino De Los Mares, #224",
+    "phone": "7604200223",
+    "sca_ref": "8471765.ew1gSt20dx"
+  },
+  {
+    "name": "Evolve Skin Spa + Wellness",
+    "address": "3044 Harding Street",
+    "phone": "7605761558",
+    "sca_ref": "8477946.zYCHQ5pgY5"
+  },
+  {
+    "name": "Elite Aesthetics Skin Clinic",
+    "address": "2298 W Horizon Ridge Pkwy #209",
+    "phone": "7025306408",
+    "sca_ref": "8481272.gOq18qnSyy"
+  },
+  {
+    "name": "Syree Aesthetics",
+    "address": "21 Ryerson Ave",
+    "phone": "8626688681",
+    "sca_ref": "8526971.PWw8KTQbRc"
+  },
+  {
+    "name": "Aimora",
+    "address": "900 Valley Rd Unit B8",
+    "phone": "9732966977",
+    "sca_ref": "8570150.tUfkz4GZoy"
+  },
+  {
+    "name": "The Skin Sanctum",
+    "address": "2048 Larimer St Suite 200",
+    "phone": "9894151261",
+    "sca_ref": "8571817.7SO3fM2UfE"
+  },
+  {
+    "name": "5280 Vitality Aesthetics & Wellness",
+    "address": "8751 E Hampden Avenue, #A3",
+    "phone": "7207982005",
+    "sca_ref": "8588563.hqfXOdcAJX"
+  },
+  {
+    "name": "Face to Face Spa",
+    "address": "35 Goodman Rd W, Ste F",
+    "phone": "3053323182",
+    "sca_ref": "8600549.ad683oAart"
+  },
+  {
+    "name": "K2 Aesthetics and Wellness",
+    "address": "1276 E. George Washington Blvd",
+    "phone": "4356685018",
+    "sca_ref": "8634794.ztCliMouj2"
+  },
+  {
+    "name": "Inner beauty MD",
+    "address": "92 delaware ave",
+    "phone": "9088381471",
+    "sca_ref": "8642817.RghGDFTl3L"
+  },
+  {
+    "name": "SkinScience Medical Spa",
+    "address": "140 Gregory Lane Suite 290",
+    "phone": "9253342210",
+    "sca_ref": "8682787.YG0yY1Fkwn"
+  },
+  {
+    "name": "St. George MEDSPA",
+    "address": "348 n bluff street, 102",
+    "phone": "4354140722",
+    "sca_ref": "8737827.p1eg0iuiHz"
+  },
+  {
+    "name": "St George Med Spa",
+    "address": "348 N Bluff St st 102",
+    "phone": "4354140722",
+    "sca_ref": "8737871.a9ARs7XEyZ"
+  },
+  {
+    "name": "Kalliste Esthetics",
+    "address": "201 s Wilcox st",
+    "phone": "8033949590",
+    "sca_ref": "8744443.G2OyiBwdNZ"
+  },
+  {
+    "name": "The Beauty Bar MN",
+    "address": "5338 Rose Road",
+    "phone": "218-341-0983",
+    "sca_ref": "8744535.QcPeObVDoV"
+  },
+  {
+    "name": "Walter J. Joseph, MD",
+    "address": "1123 N Formosa Ave #5",
+    "phone": "2019134763",
+    "sca_ref": "8770584.3NdDIALgrX"
+  },
+  {
+    "name": "Shi Shi Aesthetics LLC",
+    "address": "45 S Harrison St",
+    "phone": "3033744151",
+    "sca_ref": "8777251.xMpOeCigvH"
+  },
+  {
+    "name": "Leo Beauty Aesthetics",
+    "address": "9475 s rainbow blvd",
+    "phone": "7024093967",
+    "sca_ref": "8844418.2JDDDtGu2r"
+  },
+  {
+    "name": "SkinCareProfessor",
+    "address": "1110 south Swall drive",
+    "phone": "3108908284",
+    "sca_ref": "8853198.iBb6djmPtK"
+  },
+  {
+    "name": "IV and ME LLC",
+    "address": "2811 W. Agua Fria fwy suite 1, studio 1",
+    "phone": "9036029161",
+    "sca_ref": "8927239.EpSqx8YtB2"
+  },
+  {
+    "name": "The Stepanyan Clinic, Inc.",
+    "address": "15490 Ventura Blvd. #111",
+    "phone": "8186409054",
+    "sca_ref": "8934308.lS8ihPnadt"
+  },
+  {
+    "name": "Salt and Sky Wellness",
+    "address": "580 North Maple Ave, 2nd Floor",
+    "phone": "2012506840",
+    "sca_ref": "8947991.fe0ppGKIjE"
+  },
+  {
+    "name": "Gulf Coast Med Spa",
+    "address": "3780 Milano Lakes circle , apt 103",
+    "phone": "3862953144",
+    "sca_ref": "8961123.xy9N6xufuw"
+  },
+  {
+    "name": "Silkey Skin MD",
+    "address": "192 S Main Street",
+    "phone": "7142222623",
+    "sca_ref": "8979741.JwcAE4OOWA"
+  },
+  {
+    "name": "Facial Artistry and Aesthetics",
+    "address": "1745 E SKYLINE DR UNIT 101",
+    "phone": "5207901234",
+    "sca_ref": "9020484.12vSYm0Iff"
+  },
+  {
+    "name": "Silkey Skin MD",
+    "address": "192 S Main Street",
+    "phone": "8018822200",
+    "sca_ref": "9032690.iRVAhNfWAV"
+  },
+  {
+    "name": "Remedy Skin Lab",
+    "address": "23373 Camino Terraza Rd",
+    "phone": "9518087713",
+    "sca_ref": "9072620.a6NyIBmE7o"
+  },
+  {
+    "name": "Honey Aesthetics Clinic",
+    "address": "1700 Plymouth Rd",
+    "phone": "6129632784",
+    "sca_ref": "9076866.jPu7KoDYIF"
+  },
+  {
+    "name": "A\u00e8re Aesthetics",
+    "address": "7400 E Crestline Cir Ste 130",
+    "phone": "303-834-3395",
+    "sca_ref": "9168110.r55TQULNl9"
+  },
+  {
+    "name": "Skin Results",
+    "address": "5115 N Scottsdale Road #24",
+    "phone": "6027812197",
+    "sca_ref": "9185746.tYVBJjUMfD"
+  },
+  {
+    "name": "Center for Plastic Surgery",
+    "address": "3180 49th St. S.",
+    "phone": "7014122400",
+    "sca_ref": "9191988.QO0hp3YJyr"
+  },
+  {
+    "name": "Studio of Makeup & Skin Health",
+    "address": "9199 Reisterstown Road #104A",
+    "phone": "410-902-7422",
+    "sca_ref": "9210534.JN67tawN4Z"
+  },
+  {
+    "name": "Beauty Innovations",
+    "address": "4268 Lincoln Blvd",
+    "phone": "3107801602",
+    "sca_ref": "9218070.5hF4vyJCUJ"
+  }
+]
