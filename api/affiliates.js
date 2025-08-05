@@ -15,7 +15,7 @@ export default async function handler(req, res) {
     while (page <= totalPages) {
       const response = await fetch(`https://api.uppromote.com/api/public-affiliate?page=${page}`, {
         headers: {
-          Authorization: `Bearer ${process.env.UPPROMOTE_API_KEY}`,
+          Authorization: 'Bearer pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO',
         },
       });
 
