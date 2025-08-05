@@ -1,36 +1,51 @@
+// /api/affiliates.js
 export default async function handler(req, res) {
+  const token = "Bearer pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO";
+  const allAffiliates = [];
+
+  let page = 1;
+  let hasMore = true;
+
   try {
-    const url = new URL("https://aff-api.uppromote.com/api/v1/affiliates");
-    // optional: support search query param
-    if (req.query.q) url.searchParams.set("q", req.query.q);
+    while (hasMore) {
+      const response = await fetch(
+        `https://aff-api.uppromote.com/api/v1/affiliates?page=${page}&per_page=100`,
+        {
+          headers: {
+            Authorization: token,
+            Accept: "application/json",
+          },
+        }
+      );
 
-    const response = await fetch(url, {
-      headers: {
-        Authorization: "Bearer pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO",
-        Accept: "application/json"
+      if (!response.ok) {
+        return res.status(500).json({ error: "Failed to fetch affiliates" });
       }
-    });
 
-    if (!response.ok) {
-      console.error("UpPromote API error:", await response.text());
-      return res.status(500).json({ error: "Failed to fetch affiliates" });
+      const data = await response.json();
+
+      if (Array.isArray(data.data)) {
+        data.data.forEach((affiliate) => {
+          allAffiliates.push({
+            id: affiliate.id,
+            name: `${affiliate.first_name} ${affiliate.last_name}`,
+            email: affiliate.email,
+            zip: affiliate.zipcode,
+            sca_ref:
+              affiliate.affiliate_link?.split("sca_ref=")[1] || null,
+          });
+        });
+      }
+
+      // Check if more pages exist
+      const totalPages = data.meta?.last_page || 1;
+      hasMore = page < totalPages;
+      page++;
     }
 
-    const json = await response.json();
-    // `json.data` is the array of affiliate objects
-    const affiliates = json.data.map(a => ({
-      id: a.id,
-      name: `${a.first_name} ${a.last_name}`,
-      email: a.email,
-      phone: a.phone,
-      city: a.city,
-      zip: a.zipcode,
-      sca_ref: a.affiliate_link?.split("sca_ref=")[1] || null
-    }));
-
-    res.status(200).json({ affiliates });
-  } catch (err) {
-    console.error("Proxy error:", err);
-    res.status(500).json({ error: "Internal proxy error" });
+    return res.status(200).json(allAffiliates);
+  } catch (error) {
+    console.error("Error fetching affiliates:", error);
+    return res.status(500).json({ error: "Server error" });
   }
 }
