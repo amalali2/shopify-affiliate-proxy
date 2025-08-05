@@ -13,7 +13,7 @@ export default async function handler(req, res) {
 
   try {
     while (page <= totalPages) {
-      const response = await fetch(`https://api.uppromote.com/api/public-affiliate?page=${page}`, {
+      const response = await fetch(`https://aff-api.uppromote.com/api/affiliates?page=${page}`, {
         headers: {
           Authorization: 'Bearer pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO',
         },
