@@ -1,0 +1,4466 @@
+[
+  {
+    "name":"INOVAE Skin",
+    "address":"1818 Avenue of America",
+    "city":"Monroe",
+    "state":"LA",
+    "zip_code":"99123",
+    "phone":"555-555-1234",
+    "sca_ref":"3859605"
+  },
+  {
+    "name":"Dunes Med Spa",
+    "address":"4710 Oleander Drive",
+    "city":"Myrtle Beach",
+    "state":"SC",
+    "zip_code":"29577",
+    "phone":"843-839-1935",
+    "sca_ref":"3884819"
+  },
+  {
+    "name":"Aesthete",
+    "address":"1020 108th Ave NE Suite 200 , Unit 23",
+    "city":"Bellevue",
+    "state":"WA",
+    "zip_code":"98004",
+    "phone":"4258946282",
+    "sca_ref":"3887799"
+  },
+  {
+    "name":"Savanna Boda",
+    "address":"613 Arden ln",
+    "city":"Northlake",
+    "state":"Texas",
+    "zip_code":"76247",
+    "phone":"9724409997",
+    "sca_ref":"3892260"
+  },
+  {
+    "name":"Skin By Lauryn",
+    "address":"952 Edgewood Avenue, Unit B",
+    "city":"Atlanta",
+    "state":"GA",
+    "zip_code":"30307",
+    "phone":"404-914-0064",
+    "sca_ref":"3906941"
+  },
+  {
+    "name":"Luxe Skin Aesthetics",
+    "address":"421 3rd Ave SE",
+    "city":"Cullman",
+    "state":"Alabama",
+    "zip_code":"35055",
+    "phone":"2568411690",
+    "sca_ref":"3966202"
+  },
+  {
+    "name":"The Luxe Medspa",
+    "address":"5041 Dallas Highway, STE 508",
+    "city":"Powder Springs",
+    "state":"Georgia",
+    "zip_code":"30127",
+    "phone":"7702037480",
+    "sca_ref":"4047899"
+  },
+  {
+    "name":"The Skin Lounge",
+    "address":"10 Fairmount Ave",
+    "city":"Chatham",
+    "state":"New Jersey",
+    "zip_code":"07928",
+    "phone":"9083092224",
+    "sca_ref":"4048624"
+  },
+  {
+    "name":"Lotus Skin + Brow",
+    "address":"200 Chatillon Rd NE",
+    "city":"Rome",
+    "state":"Georgia",
+    "zip_code":"30161",
+    "phone":"7068029898",
+    "sca_ref":"4050794"
+  },
+  {
+    "name":"Beverly Hills Rejuvenation Center",
+    "address":"7322 Jones-Maltsberger Rd Ste 144",
+    "city":"San Antonio",
+    "state":"TX",
+    "zip_code":"78209",
+    "phone":"210-774-4655",
+    "sca_ref":"4052757"
+  },
+  {
+    "name":"Casa Bella Aesthetics",
+    "address":"18720A Centro Main St.",
+    "city":"Shenandoah",
+    "state":"TX",
+    "zip_code":"77385",
+    "phone":"(936) 444-5606",
+    "sca_ref":"4056145"
+  },
+  {
+    "name":"Next Level Aesthetics",
+    "address":"1005 Columbus Ave",
+    "city":"Waco",
+    "state":"TX",
+    "zip_code":"76701",
+    "phone":"2546528095",
+    "sca_ref":"4057494"
+  },
+  {
+    "name":"Graceful Touch Esthetics",
+    "address":"1507 Bay Area Blvd Unit B1 Suite 135",
+    "city":"Webster",
+    "state":"Tx",
+    "zip_code":"77511",
+    "phone":"940-923-5191",
+    "sca_ref":"4073297"
+  },
+  {
+    "name":"Georgia Skin Specialists",
+    "address":"1800 Howell Mill Road NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "zip_code":"30318",
+    "phone":"6784634526",
+    "sca_ref":"4078972"
+  },
+  {
+    "name":"Pelle Dolce Medical Aesthetics",
+    "address":"945 Cromwell Ave   (Suite H)",
+    "city":"Rocky Hill",
+    "state":"CT",
+    "zip_code":"06067",
+    "phone":"2034106436",
+    "sca_ref":"4079703"
+  },
+  {
+    "name":"WINK MEDICAL AESTHETICS",
+    "address":"2`127 LOHMANS CROSSING ROAD, SUITE 302",
+    "city":"LAKEWAY",
+    "state":"TEXAS",
+    "zip_code":"78734",
+    "phone":"512-263-2400",
+    "sca_ref":"4086484"
+  },
+  {
+    "name":"AYA Medical Spa",
+    "address":"3500 Peachtree Road NE",
+    "city":"Atlanta",
+    "state":"ga",
+    "zip_code":"30326",
+    "phone":"404-842-1772",
+    "sca_ref":"4091901"
+  },
+  {
+    "name":"Luxe Skin Clinic",
+    "address":"9910 W Loop 1604 N, 128",
+    "city":"San Antonio",
+    "state":"TX",
+    "zip_code":"78254",
+    "phone":"2105446676",
+    "sca_ref":"4117916"
+  },
+  {
+    "name":"Aesthetics of Atlanta and wellness",
+    "address":"6160 Peachtree Dunwoody Rd , Suite A105",
+    "city":"Atlanta",
+    "state":"GA",
+    "zip_code":"30328",
+    "phone":"6787908354",
+    "sca_ref":"4122215"
+  },
+  {
+    "name":"Cosmic Glow Aesthetics",
+    "address":"513 W Chocolate Ave. Suite B",
+    "city":"Hershey",
+    "state":"PA",
+    "zip_code":"17033",
+    "phone":"7175805866",
+    "sca_ref":"4122419"
+  },
+  {
+    "name":"Neighborhood Wellness Clinic",
+    "address":"6051FM 3009 Ste 255",
+    "city":"Schertz",
+    "state":"TX",
+    "zip_code":"78154",
+    "phone":"nan",
+    "sca_ref":"4142255"
+  },
+  {
+    "name":"Renew Vitality Clinic",
+    "address":"7003 Woodway Dr Suite 302",
+    "city":"Woodway",
+    "state":"Tx",
+    "zip_code":"76712",
+    "phone":"2542162343",
+    "sca_ref":"4160281"
+  },
+  {
+    "name":"Illumatox Aesthetic Studio",
+    "address":"W208 Eimmerman Dr.",
+    "city":"Kaukauna",
+    "state":"WI",
+    "zip_code":"54130",
+    "phone":"920-585-8115",
+    "sca_ref":"4170214"
+  },
+  {
+    "name":"The Aesthetic Room by Damore Dentistry LLC",
+    "address":"901 ROUTE 168 STE 501",
+    "city":"Turnersville",
+    "state":"NJ",
+    "zip_code":"08012",
+    "phone":"8562286688",
+    "sca_ref":"4178371"
+  },
+  {
+    "name":"Tox Josh Studios",
+    "address":"1804 Williamson Court Suite 203",
+    "city":"Brentwood",
+    "state":"TN",
+    "zip_code":"37027",
+    "phone":"6156287671",
+    "sca_ref":"4188336"
+  },
+  {
+    "name":"Duluth Med Spa",
+    "address":"2510 Maple Grove Rd",
+    "city":"Duluth",
+    "state":"MN",
+    "zip_code":"55811",
+    "phone":"2184811800",
+    "sca_ref":"4198502"
+  },
+  {
+    "name":"The Lip Bunny Beauty",
+    "address":"484 Highland Ave",
+    "city":"Fall River",
+    "state":"Massachusetts",
+    "zip_code":"02720",
+    "phone":"401-865-0795",
+    "sca_ref":"4199607"
+  },
+  {
+    "name":"Beauty Wise",
+    "address":"19054 Stone Oak Pkwy",
+    "city":"San Antonio",
+    "state":"Tx",
+    "zip_code":"78201",
+    "phone":"2102909444",
+    "sca_ref":"4211716"
+  },
+  {
+    "name":"Dew Skin Studio",
+    "address":"10 Exchange St, Suite 301",
+    "city":"Charleston",
+    "state":"SC",
+    "zip_code":"29401",
+    "phone":"8439911160",
+    "sca_ref":"4213034"
+  },
+  {
+    "name":"Esthetics By Cati",
+    "address":"130 South 5th Street",
+    "city":"Lewiston",
+    "state":"NY",
+    "zip_code":"14092",
+    "phone":"7169465842",
+    "sca_ref":"4235591"
+  },
+  {
+    "name":"Serein Aesthetics",
+    "address":"20 Crossroads Road suite 212",
+    "city":"Owings Mills",
+    "state":"Maryland",
+    "zip_code":"21117",
+    "phone":"4108241313",
+    "sca_ref":"4242703"
+  },
+  {
+    "name":"The Lip Bunny Beauty",
+    "address":"484 Highland Ave",
+    "city":"Fall River",
+    "state":"MA",
+    "zip_code":"02720",
+    "phone":"401-865-0795",
+    "sca_ref":"4248963"
+  },
+  {
+    "name":"Atlanta Skin Wellness Center",
+    "address":"755 Mount Vernon Highway NE, Ste 305",
+    "city":"Atlanta",
+    "state":"Georgia",
+    "zip_code":"30328",
+    "phone":"4044464840",
+    "sca_ref":"4253824"
+  },
+  {
+    "name":"Dr. Solomon Azouz",
+    "address":"7777 Forest Lane building C suite 802",
+    "city":"Dallas",
+    "state":"TX",
+    "zip_code":"75230",
+    "phone":"9727028888",
+    "sca_ref":"4254131"
+  },
+  {
+    "name":"AraBella Aeathetics",
+    "address":"940 Gainesville Hwy Suite A",
+    "city":"Buford",
+    "state":"GA",
+    "zip_code":"30518",
+    "phone":"6787252308",
+    "sca_ref":"4264167"
+  },
+  {
+    "name":"LehCar Aesthetics",
+    "address":"634 Peachtree Pkwy., Suite 201",
+    "city":"Cumming",
+    "state":"GA",
+    "zip_code":"30041",
+    "phone":"6787736117",
+    "sca_ref":"4271593"
+  },
+  {
+    "name":"Spa Bella",
+    "address":"321 Wood St",
+    "city":"West Monroe",
+    "state":"La",
+    "zip_code":"71291",
+    "phone":"3183482915",
+    "sca_ref":"4286423"
+  },
+  {
+    "name":"TORA",
+    "address":"415 s austin st suite #4",
+    "city":"rockport",
+    "state":"tx",
+    "zip_code":"78382",
+    "phone":"3614508029",
+    "sca_ref":"4286622"
+  },
+  {
+    "name":"ROYAL AESTHETICS",
+    "address":"15317 LAKE LAMOND RD",
+    "city":"CONROE",
+    "state":"TX",
+    "zip_code":"77384",
+    "phone":"7138985846",
+    "sca_ref":"4296767"
+  },
+  {
+    "name":"Zaretsky Aesthetics",
+    "address":"1250 Wood Branch Park Dr #205",
+    "city":"Houston",
+    "state":"Texas",
+    "zip_code":"77079",
+    "phone":"832-295-3050",
+    "sca_ref":"4297326"
+  },
+  {
+    "name":"Art of Skin",
+    "address":"2897 N Druid Hills Rd.  Ste. 363",
+    "city":"Atlanta",
+    "state":"Ga",
+    "zip_code":"30329",
+    "phone":"6786704495",
+    "sca_ref":"4329349"
+  },
+  {
+    "name":"Flourish wellness",
+    "address":"4728 E Longhorn St",
+    "city":"San Tan Valley",
+    "state":"AZ",
+    "zip_code":"85140",
+    "phone":"4807658795",
+    "sca_ref":"4340046"
+  },
+  {
+    "name":"Modern Looks Med Spa",
+    "address":"5975 Roswell Rd. Suite E355",
+    "city":"sandy springs",
+    "state":"georgia",
+    "zip_code":"30328",
+    "phone":"4044804015",
+    "sca_ref":"4356453"
+  },
+  {
+    "name":"Rosalind Michelle Skin Co",
+    "address":"4426 Abingdon Dr",
+    "city":"Stone Mountain",
+    "state":"GA",
+    "zip_code":"30083",
+    "phone":"4047026477",
+    "sca_ref":"4367709"
+  },
+  {
+    "name":"Nakie Face",
+    "address":"7013 East Main Street",
+    "city":"Scottsdale",
+    "state":"AZ",
+    "zip_code":"85251",
+    "phone":"4809353433",
+    "sca_ref":"4385357"
+  },
+  {
+    "name":"Skin Care By Monik",
+    "address":"6615 W Cross Creek Bend Ln",
+    "city":"Fulshear",
+    "state":"TX",
+    "zip_code":"77441",
+    "phone":"3467078543",
+    "sca_ref":"4389367"
+  },
+  {
+    "name":"Purple Peach Aesthetics",
+    "address":"4325 FM 2351 Ste 120",
+    "city":"Friendswood",
+    "state":"Texas",
+    "zip_code":"77511",
+    "phone":"8323880508",
+    "sca_ref":"4391358"
+  },
+  {
+    "name":"Glow by Gabrielle",
+    "address":"1026 Broad Street unit 10",
+    "city":"Shrewsbury",
+    "state":"New Jersey",
+    "zip_code":"07702",
+    "phone":"7324259810",
+    "sca_ref":"4396294"
+  },
+  {
+    "name":"The Derm Bar MD",
+    "address":"1169 Winding Way Drive",
+    "city":"Knoxville",
+    "state":"TN",
+    "zip_code":"37923",
+    "phone":"8655560543",
+    "sca_ref":"4401359"
+  },
+  {
+    "name":"Mne Aesthetics",
+    "address":"2745 Town Center Blvd N Ste. 134",
+    "city":"Sugar Land",
+    "state":"Texas",
+    "zip_code":"77479",
+    "phone":"3463150430",
+    "sca_ref":"4424575"
+  },
+  {
+    "name":"The Lash Designory d.b.a Morgan Rackley Skincare",
+    "address":"2929-D North Druid Hills Rd NE, Suite 119",
+    "city":"Brookhaven",
+    "state":"GA",
+    "zip_code":"30329",
+    "phone":"7708968326",
+    "sca_ref":"4441896"
+  },
+  {
+    "name":"The Skin Gallery Medspa",
+    "address":"19 North Main Street",
+    "city":"Kingwood",
+    "state":"Texas",
+    "zip_code":"77339",
+    "phone":"8322178684",
+    "sca_ref":"4462747"
+  },
+  {
+    "name":"True Skin Oasis",
+    "address":"5434 King Avenue",
+    "city":"Pennsauken",
+    "state":"NJ",
+    "zip_code":"08109",
+    "phone":"8569243301",
+    "sca_ref":"4463136"
+  },
+  {
+    "name":"Poke Me Pretty",
+    "address":"20783 N. 83rd Ave, Suite 111",
+    "city":"Peoria",
+    "state":"AZ",
+    "zip_code":"85382",
+    "phone":"4806736297",
+    "sca_ref":"4469679"
+  },
+  {
+    "name":"Allura Medical Esthetics",
+    "address":"13 South Angell Street",
+    "city":"Providence",
+    "state":"Rhode Island",
+    "zip_code":"02906",
+    "phone":"401-309-8227",
+    "sca_ref":"4485874"
+  },
+  {
+    "name":"Anderson Aesthetics",
+    "address":"2710 Old Milton Pkwy Suite 150",
+    "city":"Alpharetta",
+    "state":"Georgia",
+    "zip_code":"30009",
+    "phone":"4042564247",
+    "sca_ref":"4516862"
+  },
+  {
+    "name":"Jilan Wise Aesthetics",
+    "address":"10624 s Eastern Ave Studio H-Jilan Wise Aesthetics",
+    "city":"Henderson",
+    "state":"NV",
+    "zip_code":"89052",
+    "phone":"7029693020",
+    "sca_ref":"4523361"
+  },
+  {
+    "name":"FACEBYMACE",
+    "address":"83 Crater Pool Ln",
+    "city":"Saratoga springs",
+    "state":"UT",
+    "zip_code":"84045",
+    "phone":"9705819367",
+    "sca_ref":"4525425"
+  },
+  {
+    "name":"Clover Skin Inc",
+    "address":"135 S State St, 19",
+    "city":"Lindon",
+    "state":"UT",
+    "zip_code":"84042",
+    "phone":"6024991021",
+    "sca_ref":"4558741"
+  },
+  {
+    "name":"Luxe Lift Aesthetics & Women\u2019s Wellness",
+    "address":"612 N Logan Ave, Unit B",
+    "city":"Danville",
+    "state":"IL",
+    "zip_code":"61832",
+    "phone":"2176660401",
+    "sca_ref":"4560101"
+  },
+  {
+    "name":"LAZ Skincare INC",
+    "address":"32 Union Sq E",
+    "city":"New York",
+    "state":"New York",
+    "zip_code":"10003-3240",
+    "phone":"3475065880",
+    "sca_ref":"4564759"
+  },
+  {
+    "name":"SkinAesthetics",
+    "address":"1233 County Road 214",
+    "city":"East Bernard",
+    "state":"TX",
+    "zip_code":"77435",
+    "phone":"713-855-7993",
+    "sca_ref":"4577939"
+  },
+  {
+    "name":"Geo Aesthetics",
+    "address":"7711 E 111th St Ste 106",
+    "city":"Tulsa",
+    "state":"Oklahoma",
+    "zip_code":"74133-2662",
+    "phone":"9567395387",
+    "sca_ref":"4585163"
+  },
+  {
+    "name":"The Little Brow Room",
+    "address":"N3363 WI-16",
+    "city":"La Crosse",
+    "state":"WI",
+    "zip_code":"54601",
+    "phone":"6085197037",
+    "sca_ref":"4596546"
+  },
+  {
+    "name":"lux injectables",
+    "address":"1831 N. Belcher Road Unit C-1, Clearwater, FL, United States, Florida",
+    "city":"Clearwater, FL",
+    "state":"florida",
+    "zip_code":"33765",
+    "phone":"7276988225",
+    "sca_ref":"4606845"
+  },
+  {
+    "name":"Ageless Med Spa",
+    "address":"414 W. Grand Pkwy S. Suite 115",
+    "city":"Katy",
+    "state":"Texas",
+    "zip_code":"77494",
+    "phone":"2813923700",
+    "sca_ref":"4607836"
+  },
+  {
+    "name":"Amoura Esthetics",
+    "address":"13635 NW Cornell Road, Suite #170",
+    "city":"Portland",
+    "state":"OR",
+    "zip_code":"97229",
+    "phone":"9712175025",
+    "sca_ref":"4610122"
+  },
+  {
+    "name":"Evoultion Skyn Aesthetics",
+    "address":"3485 University Ave Suite 24",
+    "city":"Riverside",
+    "state":"CA",
+    "zip_code":"92501",
+    "phone":"9512584646",
+    "sca_ref":"4610437"
+  },
+  {
+    "name":"Mad Skin",
+    "address":"2961 w maple loop Dr",
+    "city":"Lehi",
+    "state":"UT",
+    "zip_code":"84043",
+    "phone":"7023056600",
+    "sca_ref":"4616237"
+  },
+  {
+    "name":"DRVN Aesthetics",
+    "address":"206A S Loop 336 W #225",
+    "city":"Conroe",
+    "state":"TX",
+    "zip_code":"77304",
+    "phone":"281-720-6300",
+    "sca_ref":"4616556"
+  },
+  {
+    "name":"Corrective Skin Christy",
+    "address":"216 W Ridge Rd",
+    "city":"Saratoga Springs",
+    "state":"UT",
+    "zip_code":"84045",
+    "phone":"9207160890",
+    "sca_ref":"4623667"
+  },
+  {
+    "name":"Satori Skin Studio",
+    "address":"1025 Preston Rd #1100",
+    "city":"Plano",
+    "state":"TX",
+    "zip_code":"75093",
+    "phone":"4693639935",
+    "sca_ref":"4629214"
+  },
+  {
+    "name":"Skin By Nicole",
+    "address":"7301 Burnet Road Ste. 106",
+    "city":"Austin",
+    "state":"TEXAS",
+    "zip_code":"78757",
+    "phone":"(512) 856-9620",
+    "sca_ref":"4643425"
+  },
+  {
+    "name":"Pampering Aesthetics",
+    "address":"9330 corporate dr #502",
+    "city":"Selma",
+    "state":"Tx",
+    "zip_code":"78154",
+    "phone":"2107013887",
+    "sca_ref":"4644104"
+  },
+  {
+    "name":"Alluring Aesthetics",
+    "address":"16530 Huebner Rd",
+    "city":"San Antoino",
+    "state":"TX",
+    "zip_code":"78248",
+    "phone":"2107415389",
+    "sca_ref":"4644208"
+  },
+  {
+    "name":"Timeless Beauty Aesthetics",
+    "address":"20327 I-10, Building #215, Suite 26",
+    "city":"San Antonio",
+    "state":"TX",
+    "zip_code":"78257",
+    "phone":"2107125431",
+    "sca_ref":"4644530"
+  },
+  {
+    "name":"Henara Skin Company",
+    "address":"5601 Brodie Ln # 1000 St. 301",
+    "city":"Austin",
+    "state":"TX",
+    "zip_code":"78745",
+    "phone":"5125060535",
+    "sca_ref":"4645236"
+  },
+  {
+    "name":"Bulverde Medspa",
+    "address":"2877 Bulverde Rd Suite 103",
+    "city":"Bulverde",
+    "state":"TX",
+    "zip_code":"78163",
+    "phone":"8304995950",
+    "sca_ref":"4661146"
+  },
+  {
+    "name":"Aesthetic & Acupuncture Clinic of Texas",
+    "address":"2431 Stringer Street",
+    "city":"Brenham",
+    "state":"TX",
+    "zip_code":"77833",
+    "phone":"9794216300",
+    "sca_ref":"4661209"
+  },
+  {
+    "name":"House of Preservation",
+    "address":"3219 North Fitzhugh Avenue",
+    "city":"Dallas",
+    "state":"TX",
+    "zip_code":"75201",
+    "phone":"4695713740",
+    "sca_ref":"4661262"
+  },
+  {
+    "name":"You Holistic",
+    "address":"149 Epping Road",
+    "city":"Exeter",
+    "state":"NH",
+    "zip_code":"03833",
+    "phone":"6033092030",
+    "sca_ref":"4661537"
+  },
+  {
+    "name":"Blushisme by Aldana Aesthetics",
+    "address":"3698 , Portales ave",
+    "city":"El Paso",
+    "state":"TX",
+    "zip_code":"79938",
+    "phone":"9158733255",
+    "sca_ref":"4662776"
+  },
+  {
+    "name":"Vital Skin & Body LLC.",
+    "address":"201 CLINITE GROVE BLVD # 130",
+    "city":"Temple",
+    "state":"TX",
+    "zip_code":"76502",
+    "phone":"12549314323",
+    "sca_ref":"4662787"
+  },
+  {
+    "name":"Skin Boutique by Angelique",
+    "address":"1102 S. Rock St., Suite 3",
+    "city":"Georgetown",
+    "state":"Texas",
+    "zip_code":"78626",
+    "phone":"5122931778",
+    "sca_ref":"4736156"
+  },
+  {
+    "name":"Enamor Aesthetics and Co",
+    "address":"695 W 1850 N",
+    "city":"Provo",
+    "state":"Utah",
+    "zip_code":"84604",
+    "phone":"4804402906",
+    "sca_ref":"4749075"
+  },
+  {
+    "name":"Luxe Skin Clinic",
+    "address":"9910 W Loop 1604 N, 128",
+    "city":"San Antonio",
+    "state":"TX",
+    "zip_code":"78254",
+    "phone":"2105446676",
+    "sca_ref":"4749489"
+  },
+  {
+    "name":"Pretty Little Lines",
+    "address":"94 E 920 N",
+    "city":"Santaquin",
+    "state":"UT",
+    "zip_code":"84655",
+    "phone":"8017627192",
+    "sca_ref":"4754281"
+  },
+  {
+    "name":"The AZ Esthetician",
+    "address":"20824 E Mewes Road",
+    "city":"Queen Creek",
+    "state":"AZ",
+    "zip_code":"85142",
+    "phone":"8168727205",
+    "sca_ref":"4761536"
+  },
+  {
+    "name":"Desert Dream Esthetics",
+    "address":"4417 N. 40th Street",
+    "city":"Phoenix",
+    "state":"AZ",
+    "zip_code":"85018",
+    "phone":"4802995183",
+    "sca_ref":"4766180"
+  },
+  {
+    "name":"Faces From Paris",
+    "address":"4076 Market Street, Suite 203",
+    "city":"Camp Hill",
+    "state":"PA",
+    "zip_code":"17011",
+    "phone":"nan",
+    "sca_ref":"4767902"
+  },
+  {
+    "name":"Gabbytheaesthetician",
+    "address":"6137 Ortiz Dr",
+    "city":"Corpus Christi",
+    "state":"TEXAS",
+    "zip_code":"78414",
+    "phone":"3616924676",
+    "sca_ref":"4772999"
+  },
+  {
+    "name":"All Things Aesthetics",
+    "address":"1075 PEACHTREE ST NE STE 6 57030",
+    "city":"Atlanta",
+    "state":"GA",
+    "zip_code":"30357",
+    "phone":"4702318846",
+    "sca_ref":"4798628"
+  },
+  {
+    "name":"Afina Beauty and Wellness",
+    "address":"4720 crepe myrtle ln",
+    "city":"pasadena",
+    "state":"texas",
+    "zip_code":"77505",
+    "phone":"2817441345",
+    "sca_ref":"4806314"
+  },
+  {
+    "name":"LE'BODY SPA & WELLNESS",
+    "address":"17107 Albert Voelker Rd, , Elgin",
+    "city":"Manor",
+    "state":"TX",
+    "zip_code":"78621",
+    "phone":"15129401107",
+    "sca_ref":"4818682"
+  },
+  {
+    "name":"Alchemy Beauty",
+    "address":"6701 Burnet Rd #163",
+    "city":"Austin",
+    "state":"TX",
+    "zip_code":"78757",
+    "phone":"512-768-7179",
+    "sca_ref":"4821950"
+  },
+  {
+    "name":"Aggieland Aesthetics",
+    "address":"305 West 27th St Suite 114",
+    "city":"Bryan",
+    "state":"TX",
+    "zip_code":"77803",
+    "phone":"9794500979",
+    "sca_ref":"4825249"
+  },
+  {
+    "name":"Glow Haus",
+    "address":"252 N Pacific Coast Highway",
+    "city":"Hermosa Beach",
+    "state":"CA",
+    "zip_code":"90254",
+    "phone":"3109469318",
+    "sca_ref":"4838175"
+  },
+  {
+    "name":"AESTHETIC NURSE JACK - KT SKIN",
+    "address":"1806 Gaucho Circle",
+    "city":"La porte",
+    "state":"TX",
+    "zip_code":"77571",
+    "phone":"8325149520",
+    "sca_ref":"4844226"
+  },
+  {
+    "name":"Alchemy Aesthetics Co.",
+    "address":"1295 E Common St",
+    "city":"New Braunfels",
+    "state":"TX",
+    "zip_code":"78130",
+    "phone":"8303023977",
+    "sca_ref":"4859035"
+  },
+  {
+    "name":"Healing Touch Beauty Spa",
+    "address":"20011 Ventura Blvd Ste 1008",
+    "city":"Woodland Hills",
+    "state":"CA",
+    "zip_code":"91364",
+    "phone":"nan",
+    "sca_ref":"4860227"
+  },
+  {
+    "name":"Skinbyhannahholley",
+    "address":"7391 W Charleston Blvd",
+    "city":"Las Vegas",
+    "state":"Nevada",
+    "zip_code":"89117",
+    "phone":"7026729221",
+    "sca_ref":"4864430"
+  },
+  {
+    "name":"Lotti Aesthetics & Wellness",
+    "address":"670 Shepard Ln Ste 102",
+    "city":"Farmington",
+    "state":"UT",
+    "zip_code":"84025",
+    "phone":"8018421749",
+    "sca_ref":"4905677"
+  },
+  {
+    "name":"Dezthetics Skincare Studio LLC",
+    "address":"3442 Williams Road",
+    "city":"Benbrook",
+    "state":"Texas",
+    "zip_code":"76116",
+    "phone":"5188607881",
+    "sca_ref":"4908779"
+  },
+  {
+    "name":"Cloud28 Aesthetics, LLC",
+    "address":"5940 Via Norte Ln",
+    "city":"El Paso",
+    "state":"Texas",
+    "zip_code":"79912",
+    "phone":"9155038432",
+    "sca_ref":"4915787"
+  },
+  {
+    "name":"Principle Artistry",
+    "address":"765 S. Cotton Ln Suite 206",
+    "city":"Goodyear",
+    "state":"AZ",
+    "zip_code":"85338",
+    "phone":"5203297131",
+    "sca_ref":"4920164"
+  },
+  {
+    "name":"WN. Skin",
+    "address":"16204 Old Oak Drive",
+    "city":"Edmond",
+    "state":"OK",
+    "zip_code":"73013",
+    "phone":"4056237949",
+    "sca_ref":"4930775"
+  },
+  {
+    "name":"Skincareby_meg",
+    "address":"20 Dogwood Lane",
+    "city":"Turnersville",
+    "state":"NJ",
+    "zip_code":"08012",
+    "phone":"8563045770",
+    "sca_ref":"4938549"
+  },
+  {
+    "name":"Smart Skin Med Spa",
+    "address":"1931 29th avenue",
+    "city":"s. homewood",
+    "state":"al",
+    "zip_code":"35209",
+    "phone":"2059681301",
+    "sca_ref":"4938799"
+  },
+  {
+    "name":"Eternal Beauty Spa",
+    "address":"10100 West Maple Street Suite 217",
+    "city":"Wichita",
+    "state":"KS",
+    "zip_code":"67209",
+    "phone":"3168416453",
+    "sca_ref":"4951799"
+  },
+  {
+    "name":"Just Peachy Esthetics",
+    "address":"3203 Washington Rd , Suite C",
+    "city":"Kenosha",
+    "state":"WI",
+    "zip_code":"53144",
+    "phone":"2623836167",
+    "sca_ref":"4956503"
+  },
+  {
+    "name":"ayla Med Spa",
+    "address":"20701 North Scottsdale Road, #105",
+    "city":"Scottsdale",
+    "state":"Arizona",
+    "zip_code":"85255",
+    "phone":"6027556861",
+    "sca_ref":"4970866"
+  },
+  {
+    "name":"Be Confident Aesthetics",
+    "address":"140 Diamond Creek Place STE 135",
+    "city":"Roseville",
+    "state":"CA",
+    "zip_code":"95747",
+    "phone":"2097439915",
+    "sca_ref":"4995254"
+  },
+  {
+    "name":"The Advanced Aesthetician",
+    "address":"15720 SW GREENS WAY",
+    "city":"TIGARD",
+    "state":"OR",
+    "zip_code":"97224",
+    "phone":"5038048357",
+    "sca_ref":"5022939"
+  },
+  {
+    "name":"Ethereal Skin Medical Spa",
+    "address":"335 morganza rd",
+    "city":"Canonsburg",
+    "state":"PA",
+    "zip_code":"15317",
+    "phone":"4127153692",
+    "sca_ref":"5088126"
+  },
+  {
+    "name":"LH Spa & Rejuvenation",
+    "address":"10-12 Elmer St",
+    "city":"madison",
+    "state":"New Jersey",
+    "zip_code":"07940",
+    "phone":"9733772000",
+    "sca_ref":"5091847"
+  },
+  {
+    "name":"beautyxjaney",
+    "address":"4151 Arch Dr, Apt 220",
+    "city":"STUDIO CITY",
+    "state":"CA",
+    "zip_code":"91604",
+    "phone":"6127706390",
+    "sca_ref":"5194427"
+  },
+  {
+    "name":"Skyn X Cyn",
+    "address":"8500 Melrose Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip_code":"90069",
+    "phone":"3108738464",
+    "sca_ref":"5203314"
+  },
+  {
+    "name":"Bella Donna Skin Studio",
+    "address":"24672 San Juan Avenue, Suite 104",
+    "city":"Dana Point",
+    "state":"CA",
+    "zip_code":"92629",
+    "phone":"9492387202",
+    "sca_ref":"5207158"
+  },
+  {
+    "name":"the aesthetic collective",
+    "address":"909 main st",
+    "city":"Bastrop",
+    "state":"Tx",
+    "zip_code":"78602",
+    "phone":"15129579638",
+    "sca_ref":"5220533"
+  },
+  {
+    "name":"Skin and Tonic",
+    "address":"3511 Volunteer Blvd. Suite #120",
+    "city":"Henderson",
+    "state":"NV",
+    "zip_code":"89044",
+    "phone":"702-854-6654",
+    "sca_ref":"5244038"
+  },
+  {
+    "name":"Laserderm Medispa",
+    "address":"6 Gordon Rd",
+    "city":"Shrewsbury",
+    "state":"MA",
+    "zip_code":"01545",
+    "phone":"15087527113",
+    "sca_ref":"5244086"
+  },
+  {
+    "name":"Facial Studio Magdalena",
+    "address":"770 N La Salle Dr, ste 201",
+    "city":"Chicago",
+    "state":"IL",
+    "zip_code":"60654",
+    "phone":"773-501-5440",
+    "sca_ref":"5244980"
+  },
+  {
+    "name":"MECO BEAUTY",
+    "address":"1310 E. Broadway Road, #103",
+    "city":"Tempe",
+    "state":"AZ",
+    "zip_code":"85282",
+    "phone":"4802710078",
+    "sca_ref":"5265516"
+  },
+  {
+    "name":"Luminous Glow Med Spa",
+    "address":"2652 FM 407, Suite #135",
+    "city":"Bartonville",
+    "state":"TX",
+    "zip_code":"76226",
+    "phone":"972-345-8900",
+    "sca_ref":"5266942"
+  },
+  {
+    "name":"allythe.esti",
+    "address":"3920 Pony Express Rd",
+    "city":"Kearney",
+    "state":"NE",
+    "zip_code":"68847",
+    "phone":"6363575856",
+    "sca_ref":"5268827"
+  },
+  {
+    "name":"The Skin Suite by Kristen",
+    "address":"1529 Route 206 suite I-2",
+    "city":"Tabernacle",
+    "state":"NJ",
+    "zip_code":"08088",
+    "phone":"6092322513",
+    "sca_ref":"5274834"
+  },
+  {
+    "name":"Frances Parker Aesthetics",
+    "address":"8641 Pine Needle Cove",
+    "city":"Germantown",
+    "state":"Tennessee",
+    "zip_code":"38139",
+    "phone":"9014912585",
+    "sca_ref":"5295211"
+  },
+  {
+    "name":"Bespoke Aesthetics",
+    "address":"15825 North 71st Street",
+    "city":"Scottsdale",
+    "state":"AZ",
+    "zip_code":"85254",
+    "phone":"nan",
+    "sca_ref":"5295694"
+  },
+  {
+    "name":"Alexanne Aesthetics",
+    "address":"P.O. Box 1118",
+    "city":"Crystal Beach",
+    "state":"Texas",
+    "zip_code":"77650",
+    "phone":"7134192484",
+    "sca_ref":"5296004"
+  },
+  {
+    "name":"Bella Vita Med Spa",
+    "address":"4400-3 E. Central Texas Expy",
+    "city":"Killeen",
+    "state":"TX",
+    "zip_code":"76543",
+    "phone":"2542919718",
+    "sca_ref":"5296014"
+  },
+  {
+    "name":"Elevated Aesthetics",
+    "address":"102 Walnut St.",
+    "city":"Goldsboro",
+    "state":"NC",
+    "zip_code":"27530",
+    "phone":"9194299532",
+    "sca_ref":"5298262"
+  },
+  {
+    "name":"B3 Performance & Aesthetic Medicine",
+    "address":"2131 W White Oaks Dr",
+    "city":"Springfield",
+    "state":"IL",
+    "zip_code":"62704",
+    "phone":"12175085859",
+    "sca_ref":"5317563"
+  },
+  {
+    "name":"Bare Aesthetics NJ",
+    "address":"18 oliver street",
+    "city":"newark",
+    "state":"New Jersey",
+    "zip_code":"07102",
+    "phone":"5513380671",
+    "sca_ref":"5319455"
+  },
+  {
+    "name":"Skn by Kacie",
+    "address":"175 N State St. Suite #23",
+    "city":"Orem",
+    "state":"UT",
+    "zip_code":"84057",
+    "phone":"8014725398",
+    "sca_ref":"5326406"
+  },
+  {
+    "name":"Amadi Aesthetics Plastic Surgery",
+    "address":"1503 2nd Ave W",
+    "city":"Seattle",
+    "state":"WA",
+    "zip_code":"98119",
+    "phone":"2062164500",
+    "sca_ref":"5332634"
+  },
+  {
+    "name":"Facial Aesthetics Team",
+    "address":"710 N Post Oak Rd, 200",
+    "city":"Houston",
+    "state":"Texas",
+    "zip_code":"77024",
+    "phone":"713-637-9001",
+    "sca_ref":"5341507"
+  },
+  {
+    "name":"Jordan Macall Skincare",
+    "address":"1304 Valle Ln NW",
+    "city":"Albuquerque",
+    "state":"NM",
+    "zip_code":"87107",
+    "phone":"5056889937",
+    "sca_ref":"5347778"
+  },
+  {
+    "name":"Poise Aesthetics",
+    "address":"415 W Meadowlark Blvd",
+    "city":"Derby",
+    "state":"Kansas",
+    "zip_code":"67037",
+    "phone":"3167793445",
+    "sca_ref":"5361562"
+  },
+  {
+    "name":"Trouvaille Med Spa Tinley Park",
+    "address":"9501 West 171st Street Ste Q",
+    "city":"Tinley park",
+    "state":"Illinois",
+    "zip_code":"60478",
+    "phone":"708-966-0788",
+    "sca_ref":"5375997"
+  },
+  {
+    "name":"Claire O'bryan, NP",
+    "address":"1900 Waterway Blvd",
+    "city":"Isle Of Palms",
+    "state":"SC",
+    "zip_code":"29451-2241",
+    "phone":"8438196691",
+    "sca_ref":"5390558"
+  },
+  {
+    "name":"Complexion Medspa & Aesthetics",
+    "address":"201 W Fort Macon Road",
+    "city":"Atlantic Beach",
+    "state":"NC",
+    "zip_code":"28512",
+    "phone":"2527730841",
+    "sca_ref":"5399320"
+  },
+  {
+    "name":"Ageless Med Spa",
+    "address":"3011 Godfrey rd",
+    "city":"Godfrey",
+    "state":"IL",
+    "zip_code":"62035",
+    "phone":"nan",
+    "sca_ref":"5400664"
+  },
+  {
+    "name":"Nikki G Aesthetics, LLC",
+    "address":"388  Andra Ct",
+    "city":"Gilberts",
+    "state":"IL",
+    "zip_code":"60136-9718",
+    "phone":"6304261128",
+    "sca_ref":"5400911"
+  },
+  {
+    "name":"Karli Jillian Esthetics LLC",
+    "address":"350 Watervliet Shaker Rd",
+    "city":"Watervliet",
+    "state":"NY",
+    "zip_code":"12189",
+    "phone":"9179740125",
+    "sca_ref":"5421349"
+  },
+  {
+    "name":"Brilliance Beauty Bar",
+    "address":"18826 N 51st Dr",
+    "city":"Glendale",
+    "state":"AZ",
+    "zip_code":"85308",
+    "phone":"4805358899",
+    "sca_ref":"5429115"
+  },
+  {
+    "name":"Esthetics by Chelaine",
+    "address":"4791 Treewood Dr.",
+    "city":"Florence",
+    "state":"OR",
+    "zip_code":"97439",
+    "phone":"(541)419-5534",
+    "sca_ref":"5439123"
+  },
+  {
+    "name":"Vixen Esthetics",
+    "address":"8305 state highway 71 ste 115",
+    "city":"Austin",
+    "state":"Texas",
+    "zip_code":"78735",
+    "phone":"5125377274",
+    "sca_ref":"5439386"
+  },
+  {
+    "name":"Kalon Clinic",
+    "address":"14098 Florida Blvd, Suite C",
+    "city":"Livingston",
+    "state":"LA",
+    "zip_code":"70754",
+    "phone":"2256866305",
+    "sca_ref":"5446720"
+  },
+  {
+    "name":"Joon Aesthetics Bar",
+    "address":"715 Discovery Blvd Suite #111",
+    "city":"Cedar Park",
+    "state":"Texas",
+    "zip_code":"78613",
+    "phone":"8306130350",
+    "sca_ref":"5447539"
+  },
+  {
+    "name":"LV Skin Aesthetics.com",
+    "address":"9300 John Hickman Pkwy St\u00e9. 204",
+    "city":"Frisco",
+    "state":"texas",
+    "zip_code":"75035",
+    "phone":"972-294-5362",
+    "sca_ref":"5453691"
+  },
+  {
+    "name":"Bombshell Skin Clinic",
+    "address":"20330 Huebner Rd Suite 105",
+    "city":"San Antonio",
+    "state":"TX",
+    "zip_code":"78258",
+    "phone":"210-772-5662",
+    "sca_ref":"5454528"
+  },
+  {
+    "name":"AMAZIN AESTHETICS",
+    "address":"8100 E Union Ave #1512",
+    "city":"Denver",
+    "state":"Colorado",
+    "zip_code":"80237",
+    "phone":"3039315226",
+    "sca_ref":"5467410"
+  },
+  {
+    "name":"Revived skin",
+    "address":"6720 Ixtapa Pl",
+    "city":"El Paso",
+    "state":"TX",
+    "zip_code":"79932",
+    "phone":"9155497780",
+    "sca_ref":"5472808"
+  },
+  {
+    "name":"skin cabinet",
+    "address":"505 S LOCUST ST",
+    "city":"DENTON",
+    "state":"TX",
+    "zip_code":"76201",
+    "phone":"3144350853",
+    "sca_ref":"5485110"
+  },
+  {
+    "name":"LV Skin Aesthetics",
+    "address":"9300 John Hickman Pkwy Ste. 204",
+    "city":"Frisco",
+    "state":"Texas",
+    "zip_code":"75035",
+    "phone":"9722945362",
+    "sca_ref":"5487535"
+  },
+  {
+    "name":"Elevare MD",
+    "address":"3357 N SOUTHPORT AVE",
+    "city":"CHICAGO",
+    "state":"IL",
+    "zip_code":"60657",
+    "phone":"773-598-4440",
+    "sca_ref":"5492843"
+  },
+  {
+    "name":"Skin Esteem with Danielle",
+    "address":"430 Sawgrass Court",
+    "city":"Saint Charles",
+    "state":"Missouri",
+    "zip_code":"63301",
+    "phone":"3144590704",
+    "sca_ref":"5500746"
+  },
+  {
+    "name":"Inject Beauty",
+    "address":"218 Trenton Street",
+    "city":"West Monroe",
+    "state":"La",
+    "zip_code":"71291",
+    "phone":"3182356153",
+    "sca_ref":"5500984"
+  },
+  {
+    "name":"Dermatology Physicians, Inc.",
+    "address":"203 N. Lime Street",
+    "city":"Lancaster",
+    "state":"Pennsylvania",
+    "zip_code":"17602",
+    "phone":"17173926267",
+    "sca_ref":"5506607"
+  },
+  {
+    "name":"BB Aesthetics",
+    "address":"2801 Ward Blvd. Suite 3 (I-2)",
+    "city":"Wilson",
+    "state":"NC",
+    "zip_code":"27893",
+    "phone":"2522304183",
+    "sca_ref":"5507268"
+  },
+  {
+    "name":"Dyana Raskin Aesthetics",
+    "address":"3119 Newtown Ave, Suite 801",
+    "city":"Astoria",
+    "state":"New York",
+    "zip_code":"11102",
+    "phone":"3474213287",
+    "sca_ref":"5508633"
+  },
+  {
+    "name":"flawless ON FIFTH",
+    "address":"41911 5th st suite 103",
+    "city":"Temecula",
+    "state":"CA",
+    "zip_code":"92590",
+    "phone":"9513824726",
+    "sca_ref":"5510820"
+  },
+  {
+    "name":"Beauty Room",
+    "address":"1120 Marne Drive",
+    "city":"Hollister",
+    "state":"CA",
+    "zip_code":"95023",
+    "phone":"4084309350",
+    "sca_ref":"5535399"
+  },
+  {
+    "name":"Charlotte James Skincare",
+    "address":"2211 Corinth Ave. Suite 100",
+    "city":"Los Angeles",
+    "state":"California",
+    "zip_code":"90064",
+    "phone":"3104785100",
+    "sca_ref":"5541241"
+  },
+  {
+    "name":"KLAR Skin & Medical Spa",
+    "address":"N2996 Cushman Road",
+    "city":"Jefferson",
+    "state":"WI",
+    "zip_code":"53549",
+    "phone":"2627164476",
+    "sca_ref":"5543569"
+  },
+  {
+    "name":"Lotus & Sage Beauty",
+    "address":"9493 Dalton Way",
+    "city":"Orangevale",
+    "state":"CA",
+    "zip_code":"95662",
+    "phone":"9165750563",
+    "sca_ref":"5544969"
+  },
+  {
+    "name":"La Fleur Aesthetics",
+    "address":"314 Raleigh Street",
+    "city":"Holly Springs",
+    "state":"NC",
+    "zip_code":"27540",
+    "phone":"919-899-1443",
+    "sca_ref":"5547576"
+  },
+  {
+    "name":"Ovation Med Spa",
+    "address":"4801 Woodway Suite 150W",
+    "city":"Houston",
+    "state":"TX",
+    "zip_code":"77056",
+    "phone":"7139362490",
+    "sca_ref":"5565296"
+  },
+  {
+    "name":"Glow by the Coast Esthetics",
+    "address":"427 Penelope lane",
+    "city":"Santa Maria",
+    "state":"CA",
+    "zip_code":"93455",
+    "phone":"6198766963",
+    "sca_ref":"5565823"
+  },
+  {
+    "name":"AesthetiX Skin Lounge",
+    "address":"13833 N May Ave",
+    "city":"Oklahoma City",
+    "state":"OK",
+    "zip_code":"73134",
+    "phone":"4052545520",
+    "sca_ref":"5565962"
+  },
+  {
+    "name":"April Marie Glow",
+    "address":"1714 W. Guadalupe Rd., Ste 111",
+    "city":"Gilbert",
+    "state":"Arizona",
+    "zip_code":"85233",
+    "phone":"nan",
+    "sca_ref":"5568656"
+  },
+  {
+    "name":"Iuvenis Aesthetics",
+    "address":"1102 N East Street",
+    "city":"Olney",
+    "state":"IL",
+    "zip_code":"62450",
+    "phone":"8128819701",
+    "sca_ref":"5574708"
+  },
+  {
+    "name":"Skin by Katherine",
+    "address":"70 Sycamore Ave",
+    "city":"Bethpage",
+    "state":"NY",
+    "zip_code":"11714",
+    "phone":"5162369652",
+    "sca_ref":"5579631"
+  },
+  {
+    "name":"The Pink Canoe Studio",
+    "address":"3245 West Carefree Circle, building F",
+    "city":"Colorado Springs",
+    "state":"CO",
+    "zip_code":"80917",
+    "phone":"7193554087",
+    "sca_ref":"5584887"
+  },
+  {
+    "name":"Meraki Aesthetics",
+    "address":"124 Plandome Road",
+    "city":"manhasset",
+    "state":"new york",
+    "zip_code":"11030",
+    "phone":"9177050251",
+    "sca_ref":"5593317"
+  },
+  {
+    "name":"OA Facial Plastics",
+    "address":"11725 North Illinois Street",
+    "city":"Carmel",
+    "state":"Indiana",
+    "zip_code":"46032",
+    "phone":"3177086984",
+    "sca_ref":"5598253"
+  },
+  {
+    "name":"Modern Skin Med Spa",
+    "address":"6560 John Hickman Pkwy 300",
+    "city":"Frisco",
+    "state":"Tx",
+    "zip_code":"75078",
+    "phone":"2148177390",
+    "sca_ref":"5599812"
+  },
+  {
+    "name":"360 Esthetics",
+    "address":"1409 S. 9th Avenue, Suite 308",
+    "city":"Edinburg",
+    "state":"Texas",
+    "zip_code":"78539",
+    "phone":"830-278-0778",
+    "sca_ref":"5601342"
+  },
+  {
+    "name":"C2 Aesthetics",
+    "address":"1513 New Hope Dr Ste: C1",
+    "city":"Cedar park",
+    "state":"TX",
+    "zip_code":"78641",
+    "phone":"737-843-4400",
+    "sca_ref":"5609747"
+  },
+  {
+    "name":"Renew Skincare Med Spa",
+    "address":"4701 West Fwy, #500, Spa Suite #134",
+    "city":"Fort Worth",
+    "state":"Texas",
+    "zip_code":"76107",
+    "phone":"8179171769",
+    "sca_ref":"5625150"
+  },
+  {
+    "name":"Uptown Aesthetics",
+    "address":"36 Main St #104",
+    "city":"Park Ridge",
+    "state":"IL",
+    "zip_code":"60068",
+    "phone":"(847) 873-2848",
+    "sca_ref":"5625403"
+  },
+  {
+    "name":"True Skin by Lauren",
+    "address":"1050 Legion Dr",
+    "city":"Elm Grove",
+    "state":"WI",
+    "zip_code":"53122",
+    "phone":"9202296182",
+    "sca_ref":"5632587"
+  },
+  {
+    "name":"Aesthetics By Vanessa",
+    "address":"9030, Brentwood Blvd Ste A.",
+    "city":"Brentwood",
+    "state":"CA",
+    "zip_code":"94513",
+    "phone":"9253251820",
+    "sca_ref":"5635128"
+  },
+  {
+    "name":"Tulua Aesthetics and Wellness",
+    "address":"12440 Emily Court Suite 504",
+    "city":"Sugar Land",
+    "state":"Texas",
+    "zip_code":"77478",
+    "phone":"832-702-0440",
+    "sca_ref":"5638592"
+  },
+  {
+    "name":"The Little Orchid Aesthetics",
+    "address":"13635 E 104th Ave #150",
+    "city":"Commerce City",
+    "state":"CO",
+    "zip_code":"80022",
+    "phone":"7206904699",
+    "sca_ref":"5642792"
+  },
+  {
+    "name":"BLU Medical Aesthetics",
+    "address":"8222 s holly st",
+    "city":"Centennial",
+    "state":"CO",
+    "zip_code":"80122",
+    "phone":"3037205625",
+    "sca_ref":"5659623"
+  },
+  {
+    "name":"Mercy Med Spa",
+    "address":"1016 South Texas Blvd",
+    "city":"Weslaco",
+    "state":"Texas",
+    "zip_code":"78596",
+    "phone":"9566477920",
+    "sca_ref":"5660380"
+  },
+  {
+    "name":"Glow Aesthetics LLC",
+    "address":"668 red bud rd",
+    "city":"Calhoun",
+    "state":"Georgia",
+    "zip_code":"30701",
+    "phone":"7705483318",
+    "sca_ref":"5674543"
+  },
+  {
+    "name":"Inspiredskincarebr@gmail.com",
+    "address":"10226 Jefferson Hwy Suite 101`",
+    "city":"Baton Rouge",
+    "state":"Louisiana",
+    "zip_code":"70809",
+    "phone":"2257761999",
+    "sca_ref":"5675372"
+  },
+  {
+    "name":"Clarity spa",
+    "address":"120 west park ave suite 307",
+    "city":"Long Beach",
+    "state":"Ny",
+    "zip_code":"11561",
+    "phone":"5165437793",
+    "sca_ref":"5678128"
+  },
+  {
+    "name":"Skin IQ Havasu",
+    "address":"1990 McCulloch Blvd N #D10",
+    "city":"Lake Havasu City",
+    "state":"AZ",
+    "zip_code":"86403",
+    "phone":"9287330987",
+    "sca_ref":"5684485"
+  },
+  {
+    "name":"Lizii Skincare Studio",
+    "address":"6362  MCLEOD DR. STE 2",
+    "city":"Las Vegas",
+    "state":"NV",
+    "zip_code":"89120-4433",
+    "phone":"7027230098",
+    "sca_ref":"5698411"
+  },
+  {
+    "name":"My Skin Care Girl LLC",
+    "address":"3620 Kirkwood Hwy Suite 303",
+    "city":"Wilmington",
+    "state":"DE",
+    "zip_code":"19809",
+    "phone":"3027431230",
+    "sca_ref":"5707339"
+  },
+  {
+    "name":"Serving Skin Aesthetics",
+    "address":"4400 State Hwy 121 Suite 220",
+    "city":"Lewisville",
+    "state":"TX",
+    "zip_code":"75056",
+    "phone":"4692743164",
+    "sca_ref":"5719949"
+  },
+  {
+    "name":"Kerry Lorene Skin",
+    "address":"108 Desert Forest Ct",
+    "city":"austin",
+    "state":"TX",
+    "zip_code":"78738",
+    "phone":"5129717322",
+    "sca_ref":"5726081"
+  },
+  {
+    "name":"Studio E",
+    "address":"103 N 22nd St",
+    "city":"Boise",
+    "state":"ID",
+    "zip_code":"83702",
+    "phone":"208-409-4846",
+    "sca_ref":"5734618"
+  },
+  {
+    "name":"Alice Khalkad House of Skin",
+    "address":"105-09 Metropolitan Ave",
+    "city":"New York",
+    "state":"NY",
+    "zip_code":"11375",
+    "phone":"3472570199",
+    "sca_ref":"5758210"
+  },
+  {
+    "name":"ABA Aesthetics",
+    "address":"2109 Summer Lee Drive unit 103, suite 304",
+    "city":"Rockwall",
+    "state":"Texas",
+    "zip_code":"75032",
+    "phone":"4693352222",
+    "sca_ref":"5769735"
+  },
+  {
+    "name":"PhoebeGlow Aesthetics",
+    "address":"120 Knob Hill Ln",
+    "city":"Double Oak",
+    "state":"TX",
+    "zip_code":"75077",
+    "phone":"4692379509",
+    "sca_ref":"5773028"
+  },
+  {
+    "name":"Skin Binge",
+    "address":"4847 W 3350 S",
+    "city":"West Haven",
+    "state":"UT",
+    "zip_code":"84401",
+    "phone":"385-626-2730",
+    "sca_ref":"5774014"
+  },
+  {
+    "name":"True Derm MedSpa",
+    "address":"6759 S Tempe Ct",
+    "city":"Aurora",
+    "state":"CO",
+    "zip_code":"80016",
+    "phone":"7208005716",
+    "sca_ref":"5775372"
+  },
+  {
+    "name":"CK beauty bar",
+    "address":"1411 Biscay Dr",
+    "city":"Edwardsville",
+    "state":"IL",
+    "zip_code":"62025",
+    "phone":"6188665207",
+    "sca_ref":"5775934"
+  },
+  {
+    "name":"MONTROSE DERMATOLOGY",
+    "address":"2730 Commercial Way",
+    "city":"MONTROSE",
+    "state":"Colorado",
+    "zip_code":"81401",
+    "phone":"9709644036",
+    "sca_ref":"5791278"
+  },
+  {
+    "name":"GLOKC",
+    "address":"5700 NW 130th St STE 4",
+    "city":"Oklahoma City",
+    "state":"OK",
+    "zip_code":"73142",
+    "phone":"5806561780",
+    "sca_ref":"5792876"
+  },
+  {
+    "name":"Desert Aesthetics by April LLC",
+    "address":"1045 W Hero Ct",
+    "city":"Bluffdale",
+    "state":"UT",
+    "zip_code":"84065",
+    "phone":"7027288245",
+    "sca_ref":"5799218"
+  },
+  {
+    "name":"SKN at Franks Dermatology",
+    "address":"4220 N Rodney Parham Road Suite 102",
+    "city":"Little Rock",
+    "state":"AR",
+    "zip_code":"72212",
+    "phone":"5018598973",
+    "sca_ref":"5834213"
+  },
+  {
+    "name":"FIRST BODY",
+    "address":"100 N MAIN ST SUITE 330",
+    "city":"ALPHARETTA",
+    "state":"GA",
+    "zip_code":"30009",
+    "phone":"7707692649",
+    "sca_ref":"5835318"
+  },
+  {
+    "name":"Hope Concierge Aesthetics",
+    "address":"3900 Harvard Ave.",
+    "city":"Metairie",
+    "state":"LA",
+    "zip_code":"70006",
+    "phone":"5042356640",
+    "sca_ref":"5836943"
+  },
+  {
+    "name":"The Aesthetic Life",
+    "address":"1483 W 1640 S",
+    "city":"Woods Cross",
+    "state":"UT",
+    "zip_code":"84087",
+    "phone":"8014994991",
+    "sca_ref":"5837094"
+  },
+  {
+    "name":"Ageless Aesthetics by Sonia",
+    "address":"1042 Northside Dr. NW, Suite #M210",
+    "city":"Atlanta",
+    "state":"GA",
+    "zip_code":"30318",
+    "phone":"4046906880",
+    "sca_ref":"5841527"
+  },
+  {
+    "name":"Sanctuary Skincare",
+    "address":"2545 Jackson Keller Road, Suite 1",
+    "city":"San Antonio",
+    "state":"TX",
+    "zip_code":"78230",
+    "phone":"2403280984",
+    "sca_ref":"5844179"
+  },
+  {
+    "name":"Blissful Glow Aesthetics LLC",
+    "address":"2901 Doughtery Ferry Rd, Suite 113",
+    "city":"St. Louis",
+    "state":"MO",
+    "zip_code":"63122",
+    "phone":"6362190581",
+    "sca_ref":"5861293"
+  },
+  {
+    "name":"Rosa Alba Skincare",
+    "address":"5401 College Blvd Unit 203",
+    "city":"Leawood",
+    "state":"KS",
+    "zip_code":"66211",
+    "phone":"9132400997",
+    "sca_ref":"5872420"
+  },
+  {
+    "name":"Pure Hydration and Aesthetics",
+    "address":"1327 S Interstate Dr. Suite B",
+    "city":"Cedar City",
+    "state":"UT",
+    "zip_code":"84720",
+    "phone":"435 590 3471",
+    "sca_ref":"5883881"
+  },
+  {
+    "name":"Blue Divine Aesthetics",
+    "address":"107 W Paces Ferry Rd NW",
+    "city":"Atlanta",
+    "state":"GA",
+    "zip_code":"30305",
+    "phone":"4044674232",
+    "sca_ref":"5884209"
+  },
+  {
+    "name":"Evoke Aesthetics",
+    "address":"23622 Calabasas Rd, Suite 144",
+    "city":"Calabasas",
+    "state":"CA",
+    "zip_code":"91302",
+    "phone":"3105646794",
+    "sca_ref":"5887248"
+  },
+  {
+    "name":"Glam Rose Skin",
+    "address":"337 Wolcott Ave",
+    "city":"Rochester",
+    "state":"NY",
+    "zip_code":"14606",
+    "phone":"5857090210",
+    "sca_ref":"5893859"
+  },
+  {
+    "name":"Serene Esthetics",
+    "address":"78 West Alisal Street",
+    "city":"Salinas",
+    "state":"CA",
+    "zip_code":"93901",
+    "phone":"8312063253",
+    "sca_ref":"5897518"
+  },
+  {
+    "name":"KT Aesthetics and Beauty",
+    "address":"9810 Dollarway Rd, 102",
+    "city":"White Hall",
+    "state":"AR",
+    "zip_code":"71602",
+    "phone":"8705407179",
+    "sca_ref":"5904164"
+  },
+  {
+    "name":"Mongael Aesthetics",
+    "address":"520 N. Michigan Ave.",
+    "city":"Chicago",
+    "state":"IL",
+    "zip_code":"60611",
+    "phone":"(312) 806-2946",
+    "sca_ref":"5908028"
+  },
+  {
+    "name":"Sydney Scarpino Aesthetics",
+    "address":"19600 East Parker Square Drive Suite 110",
+    "city":"Parker",
+    "state":"CO",
+    "zip_code":"80134",
+    "phone":"3039995318",
+    "sca_ref":"5921964"
+  },
+  {
+    "name":"Golden Hour Skincare",
+    "address":"2900 S Congress Ave #109",
+    "city":"Austin",
+    "state":"TX",
+    "zip_code":"78704",
+    "phone":"(512) 537-5506",
+    "sca_ref":"5923403"
+  },
+  {
+    "name":"Rooted Culture Aesthetics",
+    "address":"1812 Springdale Street",
+    "city":"Mount Horeb",
+    "state":"WI",
+    "zip_code":"53572",
+    "phone":"6082796373",
+    "sca_ref":"5924356"
+  },
+  {
+    "name":"Beaut\u00e9 Haus",
+    "address":"717 west Main Street",
+    "city":"Meridian",
+    "state":"Idaho",
+    "zip_code":"83642",
+    "phone":"2088097575",
+    "sca_ref":"5938417"
+  },
+  {
+    "name":"Sydnee Short Aesthetics",
+    "address":"10056 s smythe dr",
+    "city":"Apache junction",
+    "state":"Az",
+    "zip_code":"85120",
+    "phone":"4802959281",
+    "sca_ref":"5962896"
+  },
+  {
+    "name":"Luminosity Skin Care",
+    "address":"1813 Quaker Hollow Ln",
+    "city":"Streamwood",
+    "state":"IL",
+    "zip_code":"60107",
+    "phone":"2245187151",
+    "sca_ref":"5963717"
+  },
+  {
+    "name":"Meraki skin and beauty",
+    "address":"724 SPIRIT LAKE HWY",
+    "city":"CASTLE ROCK",
+    "state":"WA",
+    "zip_code":"98611",
+    "phone":"3604313975",
+    "sca_ref":"5964651"
+  },
+  {
+    "name":"Joelle Aesthetics NY",
+    "address":"1611 US-6",
+    "city":"Carmel",
+    "state":"NY",
+    "zip_code":"10512",
+    "phone":"8459047550",
+    "sca_ref":"5967020"
+  },
+  {
+    "name":"Vivify Body & Co.",
+    "address":"117 9th Street, Suite 107B",
+    "city":"Brooklyn",
+    "state":"New York",
+    "zip_code":"11215",
+    "phone":"929-491-0048",
+    "sca_ref":"5967652"
+  },
+  {
+    "name":"Family Medicine Associates PA",
+    "address":"1500 S Bryan Rd",
+    "city":"Mission",
+    "state":"TX",
+    "zip_code":"78572",
+    "phone":"9033318106",
+    "sca_ref":"5975935"
+  },
+  {
+    "name":"Indy esthetics | skin studio",
+    "address":"12909 William Penn Boulevard",
+    "city":"Oklahoma City",
+    "state":"OK",
+    "zip_code":"73120",
+    "phone":"4058244716",
+    "sca_ref":"5975984"
+  },
+  {
+    "name":"Pelle Medical Spa",
+    "address":"159 Frontage Rd",
+    "city":"Manchester",
+    "state":"nh",
+    "zip_code":"33031",
+    "phone":"6036277000",
+    "sca_ref":"5976035"
+  },
+  {
+    "name":"Avail Aesthetics",
+    "address":"2006 Fairview Rd",
+    "city":"Raleigh",
+    "state":"NC",
+    "zip_code":"27608",
+    "phone":"9193225440",
+    "sca_ref":"5976629"
+  },
+  {
+    "name":"NIMA",
+    "address":"10714 S River Front Pkwy",
+    "city":"South Jordan",
+    "state":"UT",
+    "zip_code":"84095",
+    "phone":"8448996462",
+    "sca_ref":"5977309"
+  },
+  {
+    "name":"NIMA",
+    "address":"6111 S Buffalo Dr Suite 170",
+    "city":"Las Vegas",
+    "state":"NV",
+    "zip_code":"89113",
+    "phone":"8448996462",
+    "sca_ref":"5977466"
+  },
+  {
+    "name":"Valiskin",
+    "address":"7336 Rubio Ave",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip_code":"91406",
+    "phone":"7473043892",
+    "sca_ref":"5986873"
+  },
+  {
+    "name":"Dose of Youth",
+    "address":"2016 E. Wildermuth Ave. #1088",
+    "city":"Tempe",
+    "state":"AZ",
+    "zip_code":"85281",
+    "phone":"4802978782",
+    "sca_ref":"5993980"
+  },
+  {
+    "name":"Vida Aesthetics and Wellness",
+    "address":"3407 Montrose Blvd STE A5",
+    "city":"Houston",
+    "state":"Texas",
+    "zip_code":"77006",
+    "phone":"2819750251",
+    "sca_ref":"6002201"
+  },
+  {
+    "name":"SkinByLiss LLC",
+    "address":"1320 Layven Ave",
+    "city":"Florissant",
+    "state":"MO",
+    "zip_code":"63031",
+    "phone":"3143486293",
+    "sca_ref":"6006889"
+  },
+  {
+    "name":"Chalena M Esthetics",
+    "address":"2181 south Osage",
+    "city":"Skiatook",
+    "state":"OK",
+    "zip_code":"74070",
+    "phone":"9189028716",
+    "sca_ref":"6010410"
+  },
+  {
+    "name":"Skin Stories Aesthetics",
+    "address":"1735 S 82nd Way",
+    "city":"Mesa",
+    "state":"AZ",
+    "zip_code":"85209",
+    "phone":"4803382124",
+    "sca_ref":"6011331"
+  },
+  {
+    "name":"Revival Skin",
+    "address":"9251 E Peakview Ave Unit G",
+    "city":"Greenwood Village",
+    "state":"Colorado",
+    "zip_code":"80111",
+    "phone":"6513996177",
+    "sca_ref":"6018007"
+  },
+  {
+    "name":"Leyla Sufi Beauty Company",
+    "address":"9340 N Main Street",
+    "city":"Kansas City",
+    "state":"MO",
+    "zip_code":"64155",
+    "phone":"8169747206",
+    "sca_ref":"6026114"
+  },
+  {
+    "name":"Align Medspa Orland Square Mall",
+    "address":"604 orland square drive",
+    "city":"orland park",
+    "state":"Illinois",
+    "zip_code":"60462",
+    "phone":"4642037564",
+    "sca_ref":"6026309"
+  },
+  {
+    "name":"West Plano Medical Associates",
+    "address":"3016 Communications Parkway, Suite 100",
+    "city":"Plano",
+    "state":"Texas",
+    "zip_code":"75093",
+    "phone":"972-312-8429",
+    "sca_ref":"6027647"
+  },
+  {
+    "name":"Luminous You",
+    "address":"3931 Coffee Rd. Suite C",
+    "city":"Modesto",
+    "state":"CA",
+    "zip_code":"95355",
+    "phone":"2098602122",
+    "sca_ref":"6027937"
+  },
+  {
+    "name":"Glow Up Aesthetics",
+    "address":"15501 N Dial Blvd, #1050",
+    "city":"Scottsdale",
+    "state":"AZ",
+    "zip_code":"85260",
+    "phone":"6239105134",
+    "sca_ref":"6041310"
+  },
+  {
+    "name":"Brows and Beauty",
+    "address":"420 Helen Lane",
+    "city":"Hamilton",
+    "state":"GA",
+    "zip_code":"31811",
+    "phone":"7063158642",
+    "sca_ref":"6041562"
+  },
+  {
+    "name":"Camille Complexion LLC",
+    "address":"1675 N FREEDOM BLVD, BUILDING 11 E",
+    "city":"Provo",
+    "state":"UTAH",
+    "zip_code":"84604",
+    "phone":"8014720589",
+    "sca_ref":"6047749"
+  },
+  {
+    "name":"ReVibe Aesthetics",
+    "address":"110 N Minnesota St Suite 7",
+    "city":"New Ulm",
+    "state":"MN",
+    "zip_code":"56073",
+    "phone":"507-805-9548",
+    "sca_ref":"6060941"
+  },
+  {
+    "name":"Suede Aesthetics",
+    "address":"1139 Highland Avenue",
+    "city":"Mankato",
+    "state":"Minnesota",
+    "zip_code":"56001",
+    "phone":"3202266098",
+    "sca_ref":"6061617"
+  },
+  {
+    "name":"Bubble bar spa",
+    "address":"1074 East Ave suite U",
+    "city":"Chico",
+    "state":"CA",
+    "zip_code":"95973",
+    "phone":"5309667292",
+    "sca_ref":"6062896"
+  },
+  {
+    "name":"JessAnne Aesthetics L.L.C.",
+    "address":"11851 Bandera rd #115",
+    "city":"San Antonio",
+    "state":"Tx",
+    "zip_code":"78023",
+    "phone":"4326380642",
+    "sca_ref":"6063198"
+  },
+  {
+    "name":"GLOW Beauty Collective",
+    "address":"3215 W Lawrence St, Ste 7",
+    "city":"Appleton",
+    "state":"WI",
+    "zip_code":"54914",
+    "phone":"9208899478",
+    "sca_ref":"6074745"
+  },
+  {
+    "name":"Laura Mendoza The Facialist",
+    "address":"3091 S Quay St",
+    "city":"Kennewick",
+    "state":"WA",
+    "zip_code":"99338",
+    "phone":"5094608154",
+    "sca_ref":"6076611"
+  },
+  {
+    "name":"Beauty nurse Nyc",
+    "address":"50 Lynbrook Ave",
+    "city":"Staten Island",
+    "state":"NY",
+    "zip_code":"10309",
+    "phone":"7186195867",
+    "sca_ref":"6081693"
+  },
+  {
+    "name":"Shannon Lee Esthetics",
+    "address":"167 madison ave , Suite 506",
+    "city":"New york",
+    "state":"NY",
+    "zip_code":"10016",
+    "phone":"6466813892",
+    "sca_ref":"6082797"
+  },
+  {
+    "name":"Park Place Medical Spa",
+    "address":"15615 IN-23 Suite N",
+    "city":"Granger",
+    "state":"IN",
+    "zip_code":"46530",
+    "phone":"5748500454",
+    "sca_ref":"6089861"
+  },
+  {
+    "name":"Wellbeing Medical Physician Assistant PC",
+    "address":"2801 Ocean Park Blvd , #1087",
+    "city":"Santa Monica",
+    "state":"CA",
+    "zip_code":"90405",
+    "phone":"4044058488",
+    "sca_ref":"6092466"
+  },
+  {
+    "name":"Lotus Skin + Brow",
+    "address":"11 Crestview Ln SE",
+    "city":"Rome",
+    "state":"GA",
+    "zip_code":"30161",
+    "phone":"9072024560",
+    "sca_ref":"6097677"
+  },
+  {
+    "name":"Revive Aesthetics and Wellness",
+    "address":"220 E. Washington Street Suite B",
+    "city":"Rockingham",
+    "state":"Nc",
+    "zip_code":"28379",
+    "phone":"9109951016",
+    "sca_ref":"6103099"
+  },
+  {
+    "name":"Belleza Spa",
+    "address":"7200 East Dry Creek Road Suite E105",
+    "city":"Centennial",
+    "state":"CO",
+    "zip_code":"80112",
+    "phone":"720-492-7150",
+    "sca_ref":"6105232"
+  },
+  {
+    "name":"Anissa Skincare Studio",
+    "address":"300 Beardsley Lane building D suite #100",
+    "city":"Austin",
+    "state":"Texas",
+    "zip_code":"78746",
+    "phone":"512-296-6543",
+    "sca_ref":"6111929"
+  },
+  {
+    "name":"Cara Luna Skincare",
+    "address":"1145 E. Clark",
+    "city":"Orcutt",
+    "state":"Ca",
+    "zip_code":"93455",
+    "phone":"8052682323",
+    "sca_ref":"6112040"
+  },
+  {
+    "name":"Smart Skin Med Spa",
+    "address":"1931 29th Ave S",
+    "city":"Homewood",
+    "state":"Alabama",
+    "zip_code":"35209",
+    "phone":"205-968-1301",
+    "sca_ref":"6118655"
+  },
+  {
+    "name":"Johnson Dermatology",
+    "address":"5921 Riley Park Drive",
+    "city":"Fort Smith",
+    "state":"Arkansas",
+    "zip_code":"72916",
+    "phone":"479-649-3376",
+    "sca_ref":"6130869"
+  },
+  {
+    "name":"HOUSE OF PRESERVATION",
+    "address":"3219 North Fitzhugh Avenue",
+    "city":"Dallas",
+    "state":"TX",
+    "zip_code":"75201",
+    "phone":"4695713740",
+    "sca_ref":"6132804"
+  },
+  {
+    "name":"FACELAB",
+    "address":"12198 SE 158th Ave.",
+    "city":"Happy Valley",
+    "state":"OR",
+    "zip_code":"97086",
+    "phone":"5037377268",
+    "sca_ref":"6133616"
+  },
+  {
+    "name":"Glow within Aesthetics",
+    "address":"1975 NE Purser",
+    "city":"Bend",
+    "state":"OR",
+    "zip_code":"97701",
+    "phone":"5034591450",
+    "sca_ref":"6139734"
+  },
+  {
+    "name":"Femme Beauty ATX",
+    "address":"3801 n capital of Texas Hwy, suite 18",
+    "city":"Austi",
+    "state":"TX",
+    "zip_code":"78746",
+    "phone":"9292951235",
+    "sca_ref":"6145144"
+  },
+  {
+    "name":"Elysian Aesthetics",
+    "address":"2523 223rd Lane NW",
+    "city":"Oak Grove",
+    "state":"MN",
+    "zip_code":"55011",
+    "phone":"651-300-2513",
+    "sca_ref":"6146305"
+  },
+  {
+    "name":"Hailey Frieden Esthetics",
+    "address":"2907 S Breeze Dr",
+    "city":"Magna",
+    "state":"Utah",
+    "zip_code":"84044",
+    "phone":"8016360970",
+    "sca_ref":"6164939"
+  },
+  {
+    "name":"The Grove Spa",
+    "address":"328 w 63rd Street",
+    "city":"Kansas City",
+    "state":"Missouri",
+    "zip_code":"64113",
+    "phone":"8168349100",
+    "sca_ref":"6182369"
+  },
+  {
+    "name":"Majestic Aesthetics & Wellness",
+    "address":"1182 Eastland drive N",
+    "city":"Ste B",
+    "state":"Idaho",
+    "zip_code":"83301",
+    "phone":"2088860774",
+    "sca_ref":"6182959"
+  },
+  {
+    "name":"Radiance Rx Skin & Aesthetics",
+    "address":"2046 Creekside Landing Drive",
+    "city":"Apex",
+    "state":"North Carolina",
+    "zip_code":"27502",
+    "phone":"9193034777",
+    "sca_ref":"6191307"
+  },
+  {
+    "name":"Navs Esthetics LLC",
+    "address":"18568 115th pl se",
+    "city":"Renton",
+    "state":"WA",
+    "zip_code":"98055",
+    "phone":"4255031892",
+    "sca_ref":"6198253"
+  },
+  {
+    "name":"Dream aesthetic",
+    "address":"5101 Forest Dr",
+    "city":"Columbia",
+    "state":"SC",
+    "zip_code":"29206",
+    "phone":"803-358-8375",
+    "sca_ref":"6199094"
+  },
+  {
+    "name":"NurturHer Aesthetics",
+    "address":"6317 McKee Rd Ste 200",
+    "city":"Fitchburg",
+    "state":"WI",
+    "zip_code":"53719",
+    "phone":"6083135627",
+    "sca_ref":"6210781"
+  },
+  {
+    "name":"Tessa Grace Aesthetics",
+    "address":"620A E Longview Drive",
+    "city":"Appleton",
+    "state":"Wisconsin",
+    "zip_code":"54911",
+    "phone":"9206217251",
+    "sca_ref":"6223835"
+  },
+  {
+    "name":"THE MARINA METHOD at the Dermatology Institute",
+    "address":"2001 Santa Monica Blvd. #1160W",
+    "city":"Santa Monica",
+    "state":"CA",
+    "zip_code":"91754",
+    "phone":"424-625-8556",
+    "sca_ref":"6233023"
+  },
+  {
+    "name":"Med Spa Express Aesthetics & Wellness",
+    "address":"22 3rd Ave NW",
+    "city":"Pocahontas",
+    "state":"Iowa",
+    "zip_code":"50574",
+    "phone":"7123357434",
+    "sca_ref":"6235790"
+  },
+  {
+    "name":"AGLOW Aesthetics",
+    "address":"100 Front Avenue",
+    "city":"Indianola",
+    "state":"MS",
+    "zip_code":"38751",
+    "phone":"6628367251",
+    "sca_ref":"6239609"
+  },
+  {
+    "name":"Black Lotus Skin Bar",
+    "address":"532 main st",
+    "city":"Junction city",
+    "state":"Wi",
+    "zip_code":"54443",
+    "phone":"715-991-0911",
+    "sca_ref":"6240183"
+  },
+  {
+    "name":"Rocky Mountain Beauty Bar",
+    "address":"665 Frontage Road Suite 250",
+    "city":"Longmont",
+    "state":"CO",
+    "zip_code":"80504",
+    "phone":"720-464-1846",
+    "sca_ref":"6246861"
+  },
+  {
+    "name":"Pretty Please Aesthetics",
+    "address":"924 57TH ST",
+    "city":"SACRAMENTO",
+    "state":"CA",
+    "zip_code":"95819",
+    "phone":"2156945281",
+    "sca_ref":"6253495"
+  },
+  {
+    "name":"Glow & co.",
+    "address":"2135 e. University Dr. suite 113",
+    "city":"Mesa",
+    "state":"Az",
+    "zip_code":"85213",
+    "phone":"4802218580",
+    "sca_ref":"6271616"
+  },
+  {
+    "name":"Christopher Chen M.D. Inc.",
+    "address":"4439 Stoneridge Dr. Ste 110",
+    "city":"Pleasanton",
+    "state":"CA.",
+    "zip_code":"94588",
+    "phone":"9254612840",
+    "sca_ref":"6271857"
+  },
+  {
+    "name":"Dana Michele Makeup + Aesthetics",
+    "address":"9 GLORIA CT",
+    "city":"APPLETON",
+    "state":"Wisconsin",
+    "zip_code":"54915",
+    "phone":"8473120071",
+    "sca_ref":"6274121"
+  },
+  {
+    "name":"The Aesthetic Studio",
+    "address":"3100 E Florence Dr. Suite 101",
+    "city":"Meridian",
+    "state":"ID",
+    "zip_code":"83642",
+    "phone":"8013626375",
+    "sca_ref":"6274821"
+  },
+  {
+    "name":"Natasha Bullard Aesthetics",
+    "address":"481 Tyler st",
+    "city":"Monterey",
+    "state":"Ca",
+    "zip_code":"93940",
+    "phone":"831-750-9511",
+    "sca_ref":"6280390"
+  },
+  {
+    "name":"Lafranceaesthetics",
+    "address":"251 west southlake blvd suite 15",
+    "city":"Southlake",
+    "state":"Texas",
+    "zip_code":"76092",
+    "phone":"5802639034",
+    "sca_ref":"6280567"
+  },
+  {
+    "name":"Jazzlene Woodson",
+    "address":"428 S Gilbert Rd Suite 103",
+    "city":"GILBERT",
+    "state":"Arizona",
+    "zip_code":"85296",
+    "phone":"6027021932",
+    "sca_ref":"6312734"
+  },
+  {
+    "name":"LV Snatched Beauty Bar",
+    "address":"6468 E Coldwater Bay Dr",
+    "city":"Las Vegas",
+    "state":"NV",
+    "zip_code":"89122",
+    "phone":"7028009559",
+    "sca_ref":"6313199"
+  },
+  {
+    "name":"Lashxesthetic LLC",
+    "address":"7019 amber crystal ct",
+    "city":"North las vegas",
+    "state":"NV",
+    "zip_code":"89086",
+    "phone":"7022379359",
+    "sca_ref":"6315424"
+  },
+  {
+    "name":"Luminescence Aesthetics",
+    "address":"14201 Berkshire Lane N",
+    "city":"Dayton",
+    "state":"minnesota",
+    "zip_code":"55327",
+    "phone":"763-670-3743",
+    "sca_ref":"6321047"
+  },
+  {
+    "name":"Tuscany Retreat",
+    "address":"1388 Cambridge Drive",
+    "city":"Idaho Falls",
+    "state":"ID",
+    "zip_code":"83401",
+    "phone":"2088211691",
+    "sca_ref":"6328318"
+  },
+  {
+    "name":"Skinwell LLC \/ SkinWell Studio",
+    "address":"133 SW Century Drive Suite 104",
+    "city":"Bend",
+    "state":"Oregon",
+    "zip_code":"97702",
+    "phone":"5412137524",
+    "sca_ref":"6328915"
+  },
+  {
+    "name":"JOLIE KRISTINE BUDAU",
+    "address":"14010 RUE SAINT TROPEZ",
+    "city":"Del Mar",
+    "state":"California",
+    "zip_code":"92014",
+    "phone":"8588883018",
+    "sca_ref":"6333250"
+  },
+  {
+    "name":"Smoke and Honey Aesthetics",
+    "address":"3939 S McCarran blvd",
+    "city":"Reno",
+    "state":"NV",
+    "zip_code":"89502",
+    "phone":"7758422266",
+    "sca_ref":"6334607"
+  },
+  {
+    "name":"Beauty by Livie",
+    "address":"706 18th Ave S",
+    "city":"Nashville",
+    "state":"TN",
+    "zip_code":"37203",
+    "phone":"8603333769",
+    "sca_ref":"6340398"
+  },
+  {
+    "name":"L.O. Aesthetic Studio",
+    "address":"3738 Osage Beach Pkwy Suite 102",
+    "city":"Osage Beach",
+    "state":"MO",
+    "zip_code":"65065",
+    "phone":"3192131969",
+    "sca_ref":"6353720"
+  },
+  {
+    "name":"The Glowhive Skin Studio",
+    "address":"1301 Lake Air Dr",
+    "city":"Waco",
+    "state":"Texas",
+    "zip_code":"76710",
+    "phone":"254-548-5888",
+    "sca_ref":"6355994"
+  },
+  {
+    "name":"C&S Aesthetics",
+    "address":"19630 Rinaldi Street 369",
+    "city":"Porter Ranch",
+    "state":"CA",
+    "zip_code":"91326",
+    "phone":"6265247040",
+    "sca_ref":"6356817"
+  },
+  {
+    "name":"Eunoia Medispa a physician assistant corp",
+    "address":"1528 constitution blvd",
+    "city":"Salinas",
+    "state":"Ca",
+    "zip_code":"93905",
+    "phone":"8312108143",
+    "sca_ref":"6357061"
+  },
+  {
+    "name":"Meraki Massage And Skin",
+    "address":"1414 S 324th St , Ste B-206",
+    "city":"Federal Way",
+    "state":"WA",
+    "zip_code":"98003",
+    "phone":"2532300771",
+    "sca_ref":"6364821"
+  },
+  {
+    "name":"Kimtox Skin Studio",
+    "address":"10020 N. Rodney Parham Rd., Suite C",
+    "city":"Little Rock",
+    "state":"AR",
+    "zip_code":"72227",
+    "phone":"5019109522",
+    "sca_ref":"6368564"
+  },
+  {
+    "name":"BotoxRN and Medspa Corp.",
+    "address":"13511 Southwest Fwy",
+    "city":"Sugar Land",
+    "state":"Texas",
+    "zip_code":"77004",
+    "phone":"8322686976",
+    "sca_ref":"6369981"
+  },
+  {
+    "name":"Epic Care",
+    "address":"114 La Casa Via #210",
+    "city":"Walnut Creek",
+    "state":"CA",
+    "zip_code":"94598",
+    "phone":"9254872843",
+    "sca_ref":"6370386"
+  },
+  {
+    "name":"The Mend LLC",
+    "address":"PO BOX 1204",
+    "city":"Meeker",
+    "state":"CO",
+    "zip_code":"81641",
+    "phone":"9709893226",
+    "sca_ref":"6391082"
+  },
+  {
+    "name":"The Glow Lab",
+    "address":"4365 E Pecos Rd Unit 117",
+    "city":"Gilbert",
+    "state":"AZ",
+    "zip_code":"85297",
+    "phone":"4807717202",
+    "sca_ref":"6397349"
+  },
+  {
+    "name":"Skin lux the med lounge",
+    "address":"12846 south fwy, unit 140",
+    "city":"Burleson",
+    "state":"Tx",
+    "zip_code":"76028",
+    "phone":"8176700444",
+    "sca_ref":"6397823"
+  },
+  {
+    "name":"Pure Excellence Esthetics",
+    "address":"1172 basalt ridge loop",
+    "city":"castle rock",
+    "state":"co",
+    "zip_code":"80108",
+    "phone":"7202821900",
+    "sca_ref":"6397936"
+  },
+  {
+    "name":"Skincraft LA",
+    "address":"14228 Erwin St., Apt. 6",
+    "city":"Van Nuys",
+    "state":"CA",
+    "zip_code":"91403",
+    "phone":"4136278294",
+    "sca_ref":"6400506"
+  },
+  {
+    "name":"Vein and Laser Institute",
+    "address":"3907 Calumet Ave",
+    "city":"Valparaiso",
+    "state":"IN",
+    "zip_code":"46383",
+    "phone":"219-736-8118",
+    "sca_ref":"6404670"
+  },
+  {
+    "name":"Skin One Studio",
+    "address":"939 Market Court, Unit 1",
+    "city":"Vernon Hills",
+    "state":"IL",
+    "zip_code":"60061",
+    "phone":"18152367106",
+    "sca_ref":"6407274"
+  },
+  {
+    "name":"Cactus Lash & Skin Studio",
+    "address":"514 E Pierson St, Unit 2",
+    "city":"Phoenix",
+    "state":"Arizona",
+    "zip_code":"85012",
+    "phone":"6024321122",
+    "sca_ref":"6409123"
+  },
+  {
+    "name":"Spa Sway Domain, LLC",
+    "address":"11011 Domain Drive Ste 124",
+    "city":"Austin",
+    "state":"Tx",
+    "zip_code":"78758",
+    "phone":"5127501114",
+    "sca_ref":"6434257"
+  },
+  {
+    "name":"Electric Skin Studio",
+    "address":"1200 N El Dorado Pl",
+    "city":"Tucson",
+    "state":"AZ",
+    "zip_code":"85715",
+    "phone":"5205573584",
+    "sca_ref":"6439293"
+  },
+  {
+    "name":"Atrium Aesthetics",
+    "address":"1550 Humboldt rd Suite 6",
+    "city":"Chico",
+    "state":"California",
+    "zip_code":"95928",
+    "phone":"5307206973",
+    "sca_ref":"6441222"
+  },
+  {
+    "name":"Simply Skin Medspa",
+    "address":"317 n Minnesota st",
+    "city":"New Ulm",
+    "state":"Minnesota",
+    "zip_code":"56073",
+    "phone":"5077661498",
+    "sca_ref":"6453533"
+  },
+  {
+    "name":"Skinn Haus",
+    "address":"455 San Benito St Suite 28",
+    "city":"Hollister",
+    "state":"Ca",
+    "zip_code":"95023",
+    "phone":"8312457422",
+    "sca_ref":"6456326"
+  },
+  {
+    "name":"New Visage",
+    "address":"108 N 11th street",
+    "city":"Morehead City",
+    "state":"North Carolina",
+    "zip_code":"28557",
+    "phone":"252-808-2639",
+    "sca_ref":"6458518"
+  },
+  {
+    "name":"The Modern Aesthetic",
+    "address":"6633 e greenway parkway #2111",
+    "city":"Scottsdale",
+    "state":"AZ",
+    "zip_code":"85254",
+    "phone":"6022918350",
+    "sca_ref":"6478506"
+  },
+  {
+    "name":"Agoddess Spa & Wellness, LLC",
+    "address":"8080 N.Central Expressway Suite 1250",
+    "city":"Dallas",
+    "state":"TX",
+    "zip_code":"75206",
+    "phone":"469-807-1002",
+    "sca_ref":"6491551"
+  },
+  {
+    "name":"Remedy Skin Studio",
+    "address":"1211 Lake Avenue, Suite 101",
+    "city":"Berthoud",
+    "state":"Colorado",
+    "zip_code":"80513",
+    "phone":"970-532-2755",
+    "sca_ref":"6491900"
+  },
+  {
+    "name":"Lux n\u2019 Lavish Esthetics",
+    "address":"1694 E. Cheyenne Mtn Blvd",
+    "city":"Colorado Springs",
+    "state":"Co",
+    "zip_code":"80906",
+    "phone":"7196619656",
+    "sca_ref":"6504017"
+  },
+  {
+    "name":"Visag\u00e8 Esthetiqu\u00e8",
+    "address":"710 Franklin Avenue",
+    "city":"Franklin Square",
+    "state":"New York",
+    "zip_code":"11010",
+    "phone":"5168603100",
+    "sca_ref":"6523594"
+  },
+  {
+    "name":"Prescribed Health + Beauty",
+    "address":"2680 S Val Vista, Suite 140",
+    "city":"Gilbert",
+    "state":"AZ",
+    "zip_code":"85295",
+    "phone":"4357578824",
+    "sca_ref":"6525972"
+  },
+  {
+    "name":"The Acne Concept",
+    "address":"390 Oak Ave, Suite G",
+    "city":"CARLSBAD",
+    "state":"CA",
+    "zip_code":"92011",
+    "phone":"8583351137",
+    "sca_ref":"6525976"
+  },
+  {
+    "name":"Purely Aesthetic PLLC",
+    "address":"629 S. Hazel Ct",
+    "city":"Gilbert",
+    "state":"Arizona",
+    "zip_code":"85296",
+    "phone":"6025070102",
+    "sca_ref":"6526669"
+  },
+  {
+    "name":"Katrina Skin Studio",
+    "address":"128 Enchanted Parkway Suite 106",
+    "city":"Saint Louis",
+    "state":"Missouri",
+    "zip_code":"63021",
+    "phone":"6189605596",
+    "sca_ref":"6545185"
+  },
+  {
+    "name":"OC Skin Vibes",
+    "address":"29692 Jarrett Circle",
+    "city":"Laguna Niguel",
+    "state":"CA",
+    "zip_code":"92677",
+    "phone":"9493375678",
+    "sca_ref":"6545401"
+  },
+  {
+    "name":"ME Aesthetics & Wellness",
+    "address":"3093 citrus circle suite 102",
+    "city":"Walnut Creek",
+    "state":"Ca",
+    "zip_code":"94598",
+    "phone":"925-250-5155",
+    "sca_ref":"6548966"
+  },
+  {
+    "name":"Poke Me Pretty",
+    "address":"9437 W Weeping Willow Rd",
+    "city":"Peoria",
+    "state":"AZ",
+    "zip_code":"85383",
+    "phone":"4802621178",
+    "sca_ref":"6550479"
+  },
+  {
+    "name":"Blue Divine Aesthetics",
+    "address":"107 West Paces Ferry Road",
+    "city":"Atlanta",
+    "state":"GA",
+    "zip_code":"30305",
+    "phone":"4044674232",
+    "sca_ref":"6565587"
+  },
+  {
+    "name":"Summerville Medical Spa",
+    "address":"299 Midland Parkway",
+    "city":"Summerville",
+    "state":"SC",
+    "zip_code":"29485",
+    "phone":"8432857820",
+    "sca_ref":"6575300"
+  },
+  {
+    "name":"Hydrinity",
+    "address":"3039 WALDON PARK DR",
+    "city":"Orion Charter Township",
+    "state":"MI",
+    "zip_code":"48359-1335",
+    "phone":"4409154882",
+    "sca_ref":"6576595"
+  },
+  {
+    "name":"SkinRX",
+    "address":"361 W Southlake Blvd Ste 120",
+    "city":"Southlake",
+    "state":"Texas",
+    "zip_code":"76006",
+    "phone":"817-410-1415",
+    "sca_ref":"6583426"
+  },
+  {
+    "name":"LK Esthetics",
+    "address":"7357 County Road 5 NW",
+    "city":"Princeton",
+    "state":"Minnesota",
+    "zip_code":"55371",
+    "phone":"6127413951",
+    "sca_ref":"6588263"
+  },
+  {
+    "name":"Skin Fusion Spa",
+    "address":"3501 30th Ave, Suite 213",
+    "city":"Astoria",
+    "state":"NY",
+    "zip_code":"11103",
+    "phone":"917-979-7029",
+    "sca_ref":"6594302"
+  },
+  {
+    "name":"Glow With Jaz",
+    "address":"3628 Walnut Hills Rd. Suite 112",
+    "city":"Orange",
+    "state":"OH",
+    "zip_code":"44122",
+    "phone":"2162304222",
+    "sca_ref":"6602073"
+  },
+  {
+    "name":"Reign Medical Aesthetics",
+    "address":"290 Citrus Tower Blvd, Ste 110",
+    "city":"Clermont",
+    "state":"FL",
+    "zip_code":"34711",
+    "phone":"3522414221",
+    "sca_ref":"6607600"
+  },
+  {
+    "name":"Atelier Skin, LLC",
+    "address":"4140 CEDAR LN",
+    "city":"Medford",
+    "state":"OR",
+    "zip_code":"97501",
+    "phone":"5418401456",
+    "sca_ref":"6608336"
+  },
+  {
+    "name":"Skin Club",
+    "address":"403 N L Street Suite C",
+    "city":"Dinuba",
+    "state":"California",
+    "zip_code":"93618",
+    "phone":"559-344-3734",
+    "sca_ref":"6614885"
+  },
+  {
+    "name":"Michele Aesthetics",
+    "address":"7070 Knights Ct, Suite 401",
+    "city":"Missouri City",
+    "state":"TX",
+    "zip_code":"77459",
+    "phone":"5047298049",
+    "sca_ref":"6614927"
+  },
+  {
+    "name":"Plastics Medpa",
+    "address":"3501 N Scottsdale Rd STE 226,",
+    "city":"Scottsdale",
+    "state":"Arizona",
+    "zip_code":"85251",
+    "phone":"4809313008",
+    "sca_ref":"6615260"
+  },
+  {
+    "name":"tesia lee esthetics",
+    "address":"13627 Chandler Blvd",
+    "city":"Sherman Oaks",
+    "state":"CA",
+    "zip_code":"91401",
+    "phone":"6262428730",
+    "sca_ref":"6616704"
+  },
+  {
+    "name":"The Aesthetics Lounge and Spa",
+    "address":"12301 Lake Underhill Road. STE 105",
+    "city":"Orlando",
+    "state":"FL",
+    "zip_code":"32828",
+    "phone":"407-347-4770",
+    "sca_ref":"6624956"
+  },
+  {
+    "name":"Creole Contour Aesthetics",
+    "address":"11617 Spring Cypress Rd, Unit A, Suite 15",
+    "city":"Tomball",
+    "state":"TX",
+    "zip_code":"77377",
+    "phone":"8326452844",
+    "sca_ref":"6625120"
+  },
+  {
+    "name":"Francheska Esthetics",
+    "address":"4012 Cortez Road W #2206",
+    "city":"Bradenton",
+    "state":"Florida",
+    "zip_code":"34210",
+    "phone":"941-962-7450",
+    "sca_ref":"6634179"
+  },
+  {
+    "name":"Revive + Bloom Aesthetics",
+    "address":"636 Delaware Ave",
+    "city":"Delmar",
+    "state":"NY",
+    "zip_code":"12054",
+    "phone":"5184247429",
+    "sca_ref":"6664206"
+  },
+  {
+    "name":"Skin Rituals by Jess",
+    "address":"756 Warrendale Ave",
+    "city":"Simi Valley",
+    "state":"CA",
+    "zip_code":"93065-7050",
+    "phone":"8054158439",
+    "sca_ref":"6674264"
+  },
+  {
+    "name":"Raw Beauty Skin + Wellness Spa",
+    "address":"505 S. Main St",
+    "city":"Stillwater",
+    "state":"OK",
+    "zip_code":"74074",
+    "phone":"6205154328",
+    "sca_ref":"6682557"
+  },
+  {
+    "name":"Werschler Aesthetics",
+    "address":"324 South Sherman Street",
+    "city":"Spokane",
+    "state":"WA",
+    "zip_code":"99202",
+    "phone":"6783466605",
+    "sca_ref":"6683780"
+  },
+  {
+    "name":"Courtney Jorgensen",
+    "address":"1438 w 11150 s",
+    "city":"South Jordan",
+    "state":"UT",
+    "zip_code":"84095",
+    "phone":"435-229-7583",
+    "sca_ref":"6685641"
+  },
+  {
+    "name":"Align Aesthetics",
+    "address":"3434 Houma Blvd, Suite 201",
+    "city":"Metairie",
+    "state":"LA",
+    "zip_code":"70006",
+    "phone":"504-547-7463",
+    "sca_ref":"6688331"
+  },
+  {
+    "name":"Blush Aesthetics",
+    "address":"808 Beech St",
+    "city":"Valparaiso",
+    "state":"IN",
+    "zip_code":"46383",
+    "phone":"2192412850",
+    "sca_ref":"6690562"
+  },
+  {
+    "name":"Here She Glows",
+    "address":"28835 Oakpath Drive",
+    "city":"Agoura Hills",
+    "state":"CA",
+    "zip_code":"91301",
+    "phone":"8184145777",
+    "sca_ref":"6692106"
+  },
+  {
+    "name":"Sands Aesthetics + Plastic Surgery",
+    "address":"3100 Galleria Dr., Suite 302",
+    "city":"Metairie",
+    "state":"La",
+    "zip_code":"70001",
+    "phone":"504-888-4297",
+    "sca_ref":"6696381"
+  },
+  {
+    "name":"Ophelia Aesthetics",
+    "address":"17705 Hale Ave suite I-5",
+    "city":"Morgan Hill",
+    "state":"California",
+    "zip_code":"95037",
+    "phone":"4086075428",
+    "sca_ref":"6696859"
+  },
+  {
+    "name":"Roman Esthetics",
+    "address":"5115 W Bell Rd",
+    "city":"Glendale",
+    "state":"AZ",
+    "zip_code":"85308",
+    "phone":"6029001241",
+    "sca_ref":"6698787"
+  },
+  {
+    "name":"Glow Getter",
+    "address":"97 Storer Avenue Unit D2",
+    "city":"Staten Island",
+    "state":"New York",
+    "zip_code":"10307",
+    "phone":"718-569-5261",
+    "sca_ref":"6704326"
+  },
+  {
+    "name":"Skin Aesthetics by Erika",
+    "address":"6693 Folsom Auburn Rd.",
+    "city":"Folsom",
+    "state":"CA",
+    "zip_code":"95630",
+    "phone":"9163059100",
+    "sca_ref":"6705636"
+  },
+  {
+    "name":"Faces Advanced Skincare",
+    "address":"250 Vallombrosa Ave Suite 125",
+    "city":"Chico",
+    "state":"California",
+    "zip_code":"95928",
+    "phone":"8056379534",
+    "sca_ref":"6710439"
+  },
+  {
+    "name":"Avilla Esthetics",
+    "address":"4101 Tully Rd Ste 101",
+    "city":"Modesto",
+    "state":"Ca",
+    "zip_code":"95356",
+    "phone":"2095415744",
+    "sca_ref":"6735613"
+  },
+  {
+    "name":"Clinic Concierge",
+    "address":"2966 Park Hill Drive",
+    "city":"Fort Worth",
+    "state":"texas",
+    "zip_code":"76109",
+    "phone":"(817) 697-1401",
+    "sca_ref":"6748335"
+  },
+  {
+    "name":"Moonphase Esthetics",
+    "address":"4436 S Harvard Ave Suite 3",
+    "city":"Tulsa",
+    "state":"OK",
+    "zip_code":"74135",
+    "phone":"9188845733",
+    "sca_ref":"6752718"
+  },
+  {
+    "name":"Daydreamskincare.amira",
+    "address":"9575 Reseda Blvd Apt 157",
+    "city":"Northridge",
+    "state":"CA",
+    "zip_code":"91324",
+    "phone":"8187446463",
+    "sca_ref":"6759400"
+  },
+  {
+    "name":"Renewal Aesthetics and Sexual Wellness",
+    "address":"11762 S State St",
+    "city":"Draper",
+    "state":"Utah",
+    "zip_code":"84020",
+    "phone":"8015208458",
+    "sca_ref":"6759844"
+  },
+  {
+    "name":"Refined Aesthetics and Wellness",
+    "address":"1594 N 160 W Suite 120",
+    "city":"Logan",
+    "state":"UT",
+    "zip_code":"84341",
+    "phone":"4358819962",
+    "sca_ref":"6760880"
+  },
+  {
+    "name":"Angel Rose Aesthetics  & Wellness",
+    "address":"423 Weathersby Rd, Suite 160",
+    "city":"Hattiesburg",
+    "state":"MS",
+    "zip_code":"39402",
+    "phone":"7693906407",
+    "sca_ref":"6764093"
+  },
+  {
+    "name":"Desired Skn",
+    "address":"11216 Sibert St.",
+    "city":"Santa Fe Springs",
+    "state":"CA",
+    "zip_code":"90670",
+    "phone":"562)484-1084",
+    "sca_ref":"6789975"
+  },
+  {
+    "name":"ENLIVEN Medical",
+    "address":"4646 s highland dr.    STE 100",
+    "city":"Millcreek",
+    "state":"UT",
+    "zip_code":"84117",
+    "phone":"8019100853",
+    "sca_ref":"6803519"
+  },
+  {
+    "name":"Abeille Aesthetics",
+    "address":"1214 13th Avenue",
+    "city":"Grafton",
+    "state":"WI",
+    "zip_code":"53024",
+    "phone":"(414) 416-8769",
+    "sca_ref":"6811983"
+  },
+  {
+    "name":"Broadway Med Spa",
+    "address":"9777 S Yosemite Street, Suite 220",
+    "city":"Lone Tree",
+    "state":"Colorado",
+    "zip_code":"80124",
+    "phone":"303-680-8989",
+    "sca_ref":"6812619"
+  },
+  {
+    "name":"Glamorous Beauties Esthetics",
+    "address":"971 Well Springs Rd Apt 23N",
+    "city":"midvale",
+    "state":"Utah",
+    "zip_code":"84047",
+    "phone":"8018755366",
+    "sca_ref":"6827730"
+  },
+  {
+    "name":"Face Form Aesthetics",
+    "address":"623 Stewart Ave Suite 106",
+    "city":"Garden City",
+    "state":"NY",
+    "zip_code":"11530",
+    "phone":"5165008353",
+    "sca_ref":"6843006"
+  },
+  {
+    "name":"Skin360",
+    "address":"3031 W March Ln Suite # 104-S",
+    "city":"Stockton",
+    "state":"Ca",
+    "zip_code":"95219",
+    "phone":"2095057804",
+    "sca_ref":"6860772"
+  },
+  {
+    "name":"Revitalize Medical Spa",
+    "address":"10137 Riverside Parkway",
+    "city":"Tulsa",
+    "state":"Oklahoma",
+    "zip_code":"74137",
+    "phone":"918.409.2604",
+    "sca_ref":"6872124"
+  },
+  {
+    "name":"Sace Aesthetics",
+    "address":"5600 E Russell Rd, Unit 136",
+    "city":"Las Vegas",
+    "state":"NV",
+    "zip_code":"89122",
+    "phone":"7024179300",
+    "sca_ref":"6888747"
+  },
+  {
+    "name":"Skin By Lexie",
+    "address":"45 Quail Ct",
+    "city":"Walnut Creek",
+    "state":"CA",
+    "zip_code":"94596",
+    "phone":"9252709685",
+    "sca_ref":"6897461"
+  },
+  {
+    "name":"Elevate Esthetics",
+    "address":"3947 E. Dartmouth St.",
+    "city":"Mesa",
+    "state":"AZ",
+    "zip_code":"85205",
+    "phone":"4807378258",
+    "sca_ref":"6913871"
+  },
+  {
+    "name":"Extraordinary Beauty Spa",
+    "address":"1901 4th ave",
+    "city":"san diego",
+    "state":"ca",
+    "zip_code":"92101",
+    "phone":"858-832-0172",
+    "sca_ref":"6931969"
+  },
+  {
+    "name":"NUGlow by Meg",
+    "address":"22309 641st ave",
+    "city":"Gibbon",
+    "state":"MN",
+    "zip_code":"55335",
+    "phone":"5072760324",
+    "sca_ref":"6932712"
+  },
+  {
+    "name":"Y Plastic Surgery",
+    "address":"3330 Preston Ridge Rd.",
+    "city":"Alpharetta",
+    "state":"GA",
+    "zip_code":"30005",
+    "phone":"4048224402",
+    "sca_ref":"6949587"
+  },
+  {
+    "name":"Moksha Aesthetics",
+    "address":"10220 River Rd",
+    "city":"Potomac",
+    "state":"MD",
+    "zip_code":"20854",
+    "phone":"7274927650",
+    "sca_ref":"6951238"
+  },
+  {
+    "name":"Sade Skin Co",
+    "address":"6780 Jamestown Drive",
+    "city":"Alpharetta",
+    "state":"GA",
+    "zip_code":"300005",
+    "phone":"4708679780",
+    "sca_ref":"6961260"
+  },
+  {
+    "name":"Canova Aesthetics",
+    "address":"230 W King St",
+    "city":"Martinsburg",
+    "state":"WV",
+    "zip_code":"25401",
+    "phone":"6814467038",
+    "sca_ref":"6964639"
+  },
+  {
+    "name":"theKCesti LLC",
+    "address":"441 E 19th St.",
+    "city":"Kansas City",
+    "state":"Missouri",
+    "zip_code":"64108",
+    "phone":"8165603454",
+    "sca_ref":"6973893"
+  },
+  {
+    "name":"The Body Lab",
+    "address":"2100 Dr Martin Luther King Jr St N, Unit C",
+    "city":"ST. PETERSBURG",
+    "state":"FL",
+    "zip_code":"33703",
+    "phone":"7272786601",
+    "sca_ref":"7000664"
+  },
+  {
+    "name":"The C Studio Medical Associates, Inc.",
+    "address":"27674 Newhall Ranch Rd C85",
+    "city":"Valencia",
+    "state":"California",
+    "zip_code":"91355",
+    "phone":"8184815340",
+    "sca_ref":"7019164"
+  },
+  {
+    "name":"Aneu Beauty LLC",
+    "address":"226 Myrtle Street E, Ste 1A",
+    "city":"Stillwater",
+    "state":"Minnesota",
+    "zip_code":"55082",
+    "phone":"6513230554",
+    "sca_ref":"7023959"
+  },
+  {
+    "name":"Beauty By Brit",
+    "address":"101 E Main St, Unit 102",
+    "city":"Monroe",
+    "state":"WA",
+    "zip_code":"98272",
+    "phone":"4256471651",
+    "sca_ref":"7026301"
+  },
+  {
+    "name":"HONEY ROSE AESTHETICS",
+    "address":"8114 112th Street Court East",
+    "city":"Puyallup",
+    "state":"WA",
+    "zip_code":"98373",
+    "phone":"2537532332",
+    "sca_ref":"7032109"
+  },
+  {
+    "name":"All Skin Aesthetics",
+    "address":"6750 W. Thunderbird Rd B104",
+    "city":"Peoria",
+    "state":"AZ",
+    "zip_code":"85381",
+    "phone":"6027505989",
+    "sca_ref":"7032558"
+  },
+  {
+    "name":"The Spa face & body",
+    "address":"1113 15th Street",
+    "city":"Lawrenceville",
+    "state":"IL",
+    "zip_code":"62439",
+    "phone":"6189434426",
+    "sca_ref":"7035757"
+  },
+  {
+    "name":"Esthetic Glow",
+    "address":"6552 Bolsa Ave, Ste E",
+    "city":"Huntington Beach",
+    "state":"CA",
+    "zip_code":"92647",
+    "phone":"7143175885",
+    "sca_ref":"7053464"
+  },
+  {
+    "name":"Beauty Skin and Laser Studio",
+    "address":"1905 Townehouse Dr",
+    "city":"Coram",
+    "state":"NY",
+    "zip_code":"11727",
+    "phone":"6318163233",
+    "sca_ref":"7060703"
+  },
+  {
+    "name":"Aestheticsbyhadil",
+    "address":"889 Date Street, Unit 402",
+    "city":"San Diego",
+    "state":"CA",
+    "zip_code":"92101",
+    "phone":"7603332336",
+    "sca_ref":"7077828"
+  },
+  {
+    "name":"RefineU MedSpa",
+    "address":"13301 N. Meridian Ave Suite 300A",
+    "city":"Oklahoma City",
+    "state":"Oklahoma",
+    "zip_code":"73120",
+    "phone":"4058495391",
+    "sca_ref":"7081037"
+  },
+  {
+    "name":"Holaday Aesthetics",
+    "address":"1214 Frederick Ave.",
+    "city":"St. Joseph",
+    "state":"MO",
+    "zip_code":"64501",
+    "phone":"8162445430",
+    "sca_ref":"7082121"
+  },
+  {
+    "name":"Zora Beauty LLC",
+    "address":"559 S. Deseret Dr. Suite 102",
+    "city":"Kaysville, UT",
+    "state":"UT",
+    "zip_code":"84037-1227",
+    "phone":"385-209-2912",
+    "sca_ref":"7108961"
+  },
+  {
+    "name":"Haus of Aesthetics",
+    "address":"705 E. 900 S.",
+    "city":"Salt Lake City",
+    "state":"UT",
+    "zip_code":"84105",
+    "phone":"8012441760",
+    "sca_ref":"7109178"
+  },
+  {
+    "name":"Bare complexion acne and skincare",
+    "address":"300 E Santa Clara St, Suite 108",
+    "city":"Ventura",
+    "state":"CA",
+    "zip_code":"93001",
+    "phone":"8056563724",
+    "sca_ref":"7127368"
+  },
+  {
+    "name":"Genesis Med Spa",
+    "address":"255 Boderman Lane",
+    "city":"Bloomsdale",
+    "state":"MO",
+    "zip_code":"63627",
+    "phone":"5734839700",
+    "sca_ref":"7171619"
+  },
+  {
+    "name":"Injectology Aesthetics",
+    "address":"1408 Live Oak Blvd, Suite C",
+    "city":"Yuba City",
+    "state":"CA",
+    "zip_code":"95991",
+    "phone":"5308226105",
+    "sca_ref":"7178002"
+  },
+  {
+    "name":"Olive You Aesthetics",
+    "address":"210 Hi Point Road",
+    "city":"Chesterfield",
+    "state":"Missouri",
+    "zip_code":"63005",
+    "phone":"3144021989",
+    "sca_ref":"7188235"
+  },
+  {
+    "name":"Amanda Taylor Esthetics",
+    "address":"6960 Zelzah Ave",
+    "city":"Reseda",
+    "state":"CA",
+    "zip_code":"91335",
+    "phone":"8184396793",
+    "sca_ref":"7189261"
+  },
+  {
+    "name":"Medical Aesthetic Art Institute",
+    "address":"640 E 700 S",
+    "city":"St George",
+    "state":"UT",
+    "zip_code":"84770",
+    "phone":"4359228330",
+    "sca_ref":"7195133"
+  },
+  {
+    "name":"Everyday Esthetics",
+    "address":"207 N Gilbert Rd Ste 103",
+    "city":"Gilbert",
+    "state":"AZ",
+    "zip_code":"85234",
+    "phone":"4805291111",
+    "sca_ref":"7200896"
+  },
+  {
+    "name":"Redeeming Radiance Skin Studio",
+    "address":"1827 McGee Street, unit h",
+    "city":"Kansas City",
+    "state":"MO",
+    "zip_code":"64108",
+    "phone":"4029814900",
+    "sca_ref":"7226697"
+  },
+  {
+    "name":"Peaches Aren\u2019t Perfect",
+    "address":"3007 E Cruise Way",
+    "city":"Salt Lake City",
+    "state":"UT",
+    "zip_code":"84109",
+    "phone":"2069092631",
+    "sca_ref":"7233320"
+  },
+  {
+    "name":"REV aesthetics",
+    "address":"3900 Market Street",
+    "city":"Camp Hill",
+    "state":"Pennsylvania",
+    "zip_code":"17011",
+    "phone":"7177125729",
+    "sca_ref":"7244433"
+  },
+  {
+    "name":"K*SPENCE AESTHETICS",
+    "address":"2121 Newcastle Ave. STE.C",
+    "city":"Cardiff by the Sea",
+    "state":"California",
+    "zip_code":"92007",
+    "phone":"7602163033",
+    "sca_ref":"7253931"
+  },
+  {
+    "name":"Connies Skin Solutions LLC",
+    "address":"59-136 Kamehameha hwy",
+    "city":"Haleiwa",
+    "state":"HI",
+    "zip_code":"96712",
+    "phone":"8086381898",
+    "sca_ref":"7301637"
+  },
+  {
+    "name":"Skin Restore",
+    "address":"312, Avenida De La Estrella",
+    "city":"San Clemente",
+    "state":"CA",
+    "zip_code":"92672",
+    "phone":"9496900094",
+    "sca_ref":"7323725"
+  },
+  {
+    "name":"BioImage",
+    "address":"6200 Regional Plaza Suite 1600",
+    "city":"Abilene",
+    "state":"Texas",
+    "zip_code":"79606",
+    "phone":"325-665-6782",
+    "sca_ref":"7338798"
+  },
+  {
+    "name":"Bare Esthetics",
+    "address":"105-09 Metropolitan Ave",
+    "city":"Forest Hills",
+    "state":"NY",
+    "zip_code":"11375",
+    "phone":"9172545115",
+    "sca_ref":"7345561"
+  },
+  {
+    "name":"Talia Padilla Esthetics",
+    "address":"1015 Holly Dr",
+    "city":"Lodi",
+    "state":"Ca",
+    "zip_code":"95240",
+    "phone":"2093296100",
+    "sca_ref":"7345796"
+  },
+  {
+    "name":"Prescription Aesthetic and Wellness Spa",
+    "address":"700 Montgomery Hwy, Suite 230",
+    "city":"Vestavia",
+    "state":"AL",
+    "zip_code":"35216",
+    "phone":"205-908-0748",
+    "sca_ref":"7370160"
+  },
+  {
+    "name":"AIVI Aesthetics Skin Health Clinic",
+    "address":"28720 Roadside Dr Ste 373",
+    "city":"Agoura Hills",
+    "state":"CA",
+    "zip_code":"91301",
+    "phone":"8188519900",
+    "sca_ref":"7371827"
+  },
+  {
+    "name":"Gl\u00f6",
+    "address":"6700 Indiana Ave, Suite 210",
+    "city":"Riverside",
+    "state":"CA",
+    "zip_code":"92506",
+    "phone":"9513478555",
+    "sca_ref":"7373255"
+  },
+  {
+    "name":"Pure Vitality Med Spa",
+    "address":"113 Renee Ford Rd",
+    "city":"Locust",
+    "state":"NC",
+    "zip_code":"28097",
+    "phone":"704-985-6185",
+    "sca_ref":"7406742"
+  },
+  {
+    "name":"Lillie Aesthetics x Vital Skin",
+    "address":"5010 Clifford Road",
+    "city":"Perry Hall",
+    "state":"MD",
+    "zip_code":"21128",
+    "phone":"4102999145",
+    "sca_ref":"7437650"
+  },
+  {
+    "name":"Assembled Esthetics",
+    "address":"5622 Warner Drive",
+    "city":"Brandon",
+    "state":"Mississippi",
+    "zip_code":"39042",
+    "phone":"6015407874",
+    "sca_ref":"7512563"
+  },
+  {
+    "name":"Skin by Sylvie",
+    "address":"9150 Wilshire Blvd, Suite 306",
+    "city":"Beverly Hills",
+    "state":"CA",
+    "zip_code":"90212",
+    "phone":"3234506142",
+    "sca_ref":"7572714"
+  },
+  {
+    "name":"The Grove Spa",
+    "address":"328 W 63rd St",
+    "city":"KANSAS CITY",
+    "state":"MO",
+    "zip_code":"64113",
+    "phone":"816-834-9100",
+    "sca_ref":"7593248"
+  },
+  {
+    "name":"Alpenglow Health Collective",
+    "address":"2355 Old Trail Road, Apt 4",
+    "city":"Avon",
+    "state":"CO",
+    "zip_code":"81620",
+    "phone":"8435306541",
+    "sca_ref":"7626253"
+  },
+  {
+    "name":"Honor\u00e9 Skin Clinic",
+    "address":"3635 S Val Vista Dr. Suite 203",
+    "city":"Gilbert",
+    "state":"AZ",
+    "zip_code":"85297",
+    "phone":"4805169468",
+    "sca_ref":"7632943"
+  },
+  {
+    "name":"Corner Stone Spa Salon",
+    "address":"213 S. Division St",
+    "city":"Stoughton",
+    "state":"Wisconsin",
+    "zip_code":"53589",
+    "phone":"6088735542",
+    "sca_ref":"7646328"
+  },
+  {
+    "name":"Nashville Skin Studio",
+    "address":"9160 Carothers parkway suite 101",
+    "city":"Franklin",
+    "state":"Tennessee",
+    "zip_code":"37067",
+    "phone":"6158159571",
+    "sca_ref":"7669288"
+  },
+  {
+    "name":"Pack Med Spa",
+    "address":"1217 Oak Knoll Dr,",
+    "city":"Fort Worth",
+    "state":"Texas",
+    "zip_code":"76117",
+    "phone":"8178316141",
+    "sca_ref":"7734918"
+  },
+  {
+    "name":"L Wellness",
+    "address":"81 Highland Ave Suite 240",
+    "city":"Bethlehem",
+    "state":"PA",
+    "zip_code":"18017",
+    "phone":"6109369155",
+    "sca_ref":"7799193"
+  },
+  {
+    "name":"\u00c1ine Healthcare",
+    "address":"732 E. Warner Rd",
+    "city":"Gilbert",
+    "state":"AZ",
+    "zip_code":"85296",
+    "phone":"480-939-3230",
+    "sca_ref":"7825513"
+  },
+  {
+    "name":"Sunny skincare studio",
+    "address":"1896 S 52 E",
+    "city":"Idaho falls",
+    "state":"IDAHO",
+    "zip_code":"83401",
+    "phone":"2085697015",
+    "sca_ref":"7844509"
+  },
+  {
+    "name":"Angel Aesthetics",
+    "address":"3400 E Bayaud Ave Suite 333",
+    "city":"Denver",
+    "state":"Colorado",
+    "zip_code":"80209",
+    "phone":"303-709-9026",
+    "sca_ref":"7880346"
+  },
+  {
+    "name":"Skin By Women",
+    "address":"4-901 Kuhio Hwy, Suite G",
+    "city":"Kapa\u02bba",
+    "state":"Hawaii",
+    "zip_code":"96746",
+    "phone":"(808) 346-0939",
+    "sca_ref":"7882217"
+  },
+  {
+    "name":"Saltz Plastic Surgery & Spa Vitoria",
+    "address":"5445 South Highland Dr",
+    "city":"Salt Lake City",
+    "state":"Utah",
+    "zip_code":"84117",
+    "phone":"8012749500",
+    "sca_ref":"7905235"
+  },
+  {
+    "name":"J\u2019ADE FACE AND BODY",
+    "address":"190 Keawe St. Ste 30",
+    "city":"Hilo",
+    "state":"Hawaii",
+    "zip_code":"96720",
+    "phone":"(808)304-1913",
+    "sca_ref":"7927321"
+  },
+  {
+    "name":"Jalalabadi Plastic Surgery",
+    "address":"416 N Bedford Dr., Ste.311",
+    "city":"Beverly Hills",
+    "state":"CA",
+    "zip_code":"90210",
+    "phone":"(310) 620-2111",
+    "sca_ref":"7959974"
+  },
+  {
+    "name":"NELLY B BEAUTY STUDIO",
+    "address":"268 N LINCOLN AVE #9",
+    "city":"CORONA",
+    "state":"CA",
+    "zip_code":"92882",
+    "phone":"909-999-2866",
+    "sca_ref":"7964256"
+  },
+  {
+    "name":"Lake Travis Laser Skincare & Aesthetics",
+    "address":"107 RR 620 S Unit 202",
+    "city":"Lakeway",
+    "state":"Texas",
+    "zip_code":"78734",
+    "phone":"512-766-9396",
+    "sca_ref":"7980585"
+  },
+  {
+    "name":"A Nu U Aesthetics",
+    "address":"285 N. NY 303   suite #14",
+    "city":"Congers",
+    "state":"NY",
+    "zip_code":"10920",
+    "phone":"9149064782",
+    "sca_ref":"8032779"
+  },
+  {
+    "name":"Lisa Blu Beauty",
+    "address":"15 Tirremia Drive",
+    "city":"Dana Point",
+    "state":"Ca",
+    "zip_code":"92629",
+    "phone":"7608314293",
+    "sca_ref":"8034819"
+  },
+  {
+    "name":"Thrive Aesthetics and Wellness",
+    "address":"6405 S 3000 E, Ste 101 Room 9",
+    "city":"Holladay",
+    "state":"UT",
+    "zip_code":"84121",
+    "phone":"801-209-7299",
+    "sca_ref":"8046582"
+  },
+  {
+    "name":"J Marie Skin Studio",
+    "address":"1125 Neon Forest Cir #100",
+    "city":"Longmont",
+    "state":"CO",
+    "zip_code":"80504",
+    "phone":"303-641-8670",
+    "sca_ref":"8055897"
+  },
+  {
+    "name":"DMC Aesthetics",
+    "address":"10042 E Old Vail Road",
+    "city":"Tucson",
+    "state":"Az",
+    "zip_code":"85747",
+    "phone":"520-240-2634",
+    "sca_ref":"8064905"
+  },
+  {
+    "name":"Staci Christie Skincare",
+    "address":"317 N. El Camino Real, Suite 102",
+    "city":"Encinitas",
+    "state":"CA",
+    "zip_code":"92024",
+    "phone":"7606330123",
+    "sca_ref":"8065723"
+  },
+  {
+    "name":"Mindful Women Spa & Medical",
+    "address":"1525 East 6000 South, Suite D",
+    "city":"South Ogden",
+    "state":"Utah",
+    "zip_code":"84405",
+    "phone":"8013375818",
+    "sca_ref":"8122615"
+  },
+  {
+    "name":"Kore Aesthetics",
+    "address":"2450 S 4th Ave #110",
+    "city":"YUMA",
+    "state":"AZ",
+    "zip_code":"85364",
+    "phone":"9285816608",
+    "sca_ref":"8129021"
+  },
+  {
+    "name":"Deosoli Beauty",
+    "address":"3775 S Chaparral Rd",
+    "city":"Apache Junction",
+    "state":"AZ",
+    "zip_code":"85119",
+    "phone":"4802749945",
+    "sca_ref":"8151855"
+  },
+  {
+    "name":"Shear magic and more",
+    "address":"253 Bill Brice Lane",
+    "city":"Leakey",
+    "state":"TX",
+    "zip_code":"78873",
+    "phone":"2105913925",
+    "sca_ref":"8200380"
+  },
+  {
+    "name":"ZK Aesthetics",
+    "address":"1675 Alhambra Blvd",
+    "city":"Sacramento",
+    "state":"CA",
+    "zip_code":"95816",
+    "phone":"9165880898",
+    "sca_ref":"8238981"
+  },
+  {
+    "name":"Modern Aesthetics and Wellness",
+    "address":"8735 Sierra College Blvd Suite 100",
+    "city":"Roseville",
+    "state":"CA",
+    "zip_code":"95661",
+    "phone":"9169533248",
+    "sca_ref":"8244378"
+  },
+  {
+    "name":"Celestial Aesthetics",
+    "address":"115 W 6th St",
+    "city":"Leadville",
+    "state":"CO",
+    "zip_code":"80461",
+    "phone":"9704716632",
+    "sca_ref":"8269168"
+  },
+  {
+    "name":"DMC Aesthetics",
+    "address":"10042 E Old Vail Road",
+    "city":"Tucson",
+    "state":"Az",
+    "zip_code":"85747",
+    "phone":"520-240-2634",
+    "sca_ref":"8348438"
+  },
+  {
+    "name":"MELA Medical Spa",
+    "address":"5855 Creek Station Drive",
+    "city":"Pensacola",
+    "state":"FL",
+    "zip_code":"32504",
+    "phone":"8503751272",
+    "sca_ref":"8391985"
+  },
+  {
+    "name":"Morgan\u2019s Beauty Bar",
+    "address":"825 Highway 12 West",
+    "city":"Kosciusko",
+    "state":"Mississippi",
+    "zip_code":"39090",
+    "phone":"6019068555",
+    "sca_ref":"8396617"
+  },
+  {
+    "name":"Aesthetics by Meg",
+    "address":"8642 East Hillview Street",
+    "city":"Mesa",
+    "state":"AZ",
+    "zip_code":"85207",
+    "phone":"4356596901",
+    "sca_ref":"8456404"
+  },
+  {
+    "name":"Beautiful Med Spa",
+    "address":"901 S. Coast Dr. Unit 120B, Studio 14",
+    "city":"Costa Mesa",
+    "state":"CA",
+    "zip_code":"92626",
+    "phone":"7148558958",
+    "sca_ref":"8466531"
+  },
+  {
+    "name":"The Aesthetic Journey",
+    "address":"647 Camino De Los Mares, #224",
+    "city":"San Clemente",
+    "state":"CA",
+    "zip_code":"92673",
+    "phone":"7604200223",
+    "sca_ref":"8471765"
+  },
+  {
+    "name":"Evolve Skin Spa + Wellness",
+    "address":"3044 Harding Street",
+    "city":"Carlsbad",
+    "state":"CA",
+    "zip_code":"92008",
+    "phone":"7605761558",
+    "sca_ref":"8477946"
+  },
+  {
+    "name":"Elite Aesthetics Skin Clinic",
+    "address":"2298 W Horizon Ridge Pkwy #209",
+    "city":"Henderson",
+    "state":"NV",
+    "zip_code":"89052",
+    "phone":"7025306408",
+    "sca_ref":"8481272"
+  },
+  {
+    "name":"Syree Aesthetics",
+    "address":"21 Ryerson Ave",
+    "city":"Paterson",
+    "state":"NEW JERSEY",
+    "zip_code":"07502",
+    "phone":"8626688681",
+    "sca_ref":"8526971"
+  },
+  {
+    "name":"Aimora",
+    "address":"900 Valley Rd Unit B8",
+    "city":"Clifton",
+    "state":"NJ",
+    "zip_code":"07013",
+    "phone":"9732966977",
+    "sca_ref":"8570150"
+  },
+  {
+    "name":"The Skin Sanctum",
+    "address":"2048 Larimer St Suite 200",
+    "city":"Denver",
+    "state":"CO",
+    "zip_code":"80205",
+    "phone":"9894151261",
+    "sca_ref":"8571817"
+  },
+  {
+    "name":"5280 Vitality Aesthetics & Wellness",
+    "address":"8751 E Hampden Avenue, #A3",
+    "city":"Denver",
+    "state":"CO",
+    "zip_code":"80231",
+    "phone":"7207982005",
+    "sca_ref":"8588563"
+  },
+  {
+    "name":"Face to Face Spa",
+    "address":"35 Goodman Rd W, Ste F",
+    "city":"Southaven",
+    "state":"MS",
+    "zip_code":"38671",
+    "phone":"3053323182",
+    "sca_ref":"8600549"
+  },
+  {
+    "name":"K2 Aesthetics and Wellness",
+    "address":"1276 E. George Washington Blvd",
+    "city":"St. George",
+    "state":"UT",
+    "zip_code":"84790",
+    "phone":"4356685018",
+    "sca_ref":"8634794"
+  },
+  {
+    "name":"Inner beauty MD",
+    "address":"92 delaware ave",
+    "city":"dumont",
+    "state":"new jersey",
+    "zip_code":"07628",
+    "phone":"9088381471",
+    "sca_ref":"8642817"
+  },
+  {
+    "name":"SkinScience Medical Spa",
+    "address":"140 Gregory Lane Suite 290",
+    "city":"Pleasant Hill",
+    "state":"Ca",
+    "zip_code":"94523",
+    "phone":"9253342210",
+    "sca_ref":"8682787"
+  },
+  {
+    "name":"St. George MEDSPA",
+    "address":"348 n bluff street, 102",
+    "city":"st.george",
+    "state":"UT",
+    "zip_code":"84770",
+    "phone":"4354140722",
+    "sca_ref":"8737827"
+  },
+  {
+    "name":"St George Med Spa",
+    "address":"348 N Bluff St st 102",
+    "city":"st George",
+    "state":"Utah",
+    "zip_code":"84770",
+    "phone":"4354140722",
+    "sca_ref":"8737871"
+  },
+  {
+    "name":"Kalliste Esthetics",
+    "address":"201 s Wilcox st",
+    "city":"Castle rock",
+    "state":"Co",
+    "zip_code":"80104",
+    "phone":"8033949590",
+    "sca_ref":"8744443"
+  },
+  {
+    "name":"The Beauty Bar MN",
+    "address":"5338 Rose Road",
+    "city":"Hermantown",
+    "state":"MN",
+    "zip_code":"55811",
+    "phone":"218-341-0983",
+    "sca_ref":"8744535"
+  },
+  {
+    "name":"Walter J. Joseph, MD",
+    "address":"1123 N Formosa Ave #5",
+    "city":"West Hollywood",
+    "state":"CA",
+    "zip_code":"90046",
+    "phone":"2019134763",
+    "sca_ref":"8770584"
+  },
+  {
+    "name":"Shi Shi Aesthetics LLC",
+    "address":"45 S Harrison St",
+    "city":"Denver",
+    "state":"CO",
+    "zip_code":"80209",
+    "phone":"3033744151",
+    "sca_ref":"8777251"
+  },
+  {
+    "name":"Leo Beauty Aesthetics",
+    "address":"9475 s rainbow blvd",
+    "city":"Las vegas",
+    "state":"NV",
+    "zip_code":"89139",
+    "phone":"7024093967",
+    "sca_ref":"8844418"
+  },
+  {
+    "name":"SkinCareProfessor",
+    "address":"1110 south Swall drive",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zip_code":"90035",
+    "phone":"3108908284",
+    "sca_ref":"8853198"
+  },
+  {
+    "name":"IV and ME LLC",
+    "address":"2811 W. Agua Fria fwy suite 1, studio 1",
+    "city":"Phoenix",
+    "state":"Arizona",
+    "zip_code":"85381",
+    "phone":"9036029161",
+    "sca_ref":"8927239"
+  },
+  {
+    "name":"The Stepanyan Clinic, Inc.",
+    "address":"15490 Ventura Blvd. #111",
+    "city":"Sherman Oaks",
+    "state":"CA",
+    "zip_code":"91403",
+    "phone":"8186409054",
+    "sca_ref":"8934308"
+  },
+  {
+    "name":"Salt and Sky Wellness",
+    "address":"580 North Maple Ave, 2nd Floor",
+    "city":"Ridgewood",
+    "state":"NJ",
+    "zip_code":"07450",
+    "phone":"2012506840",
+    "sca_ref":"8947991"
+  },
+  {
+    "name":"Gulf Coast Med Spa",
+    "address":"3780 Milano Lakes circle , apt 103",
+    "city":"Naples",
+    "state":"FL",
+    "zip_code":"34114",
+    "phone":"3862953144",
+    "sca_ref":"8961123"
+  },
+  {
+    "name":"Silkey Skin MD",
+    "address":"192 S Main Street",
+    "city":"Kaysville",
+    "state":"UT",
+    "zip_code":"84037",
+    "phone":"7142222623",
+    "sca_ref":"8979741"
+  },
+  {
+    "name":"Facial Artistry and Aesthetics",
+    "address":"1745 E SKYLINE DR UNIT 101",
+    "city":"Tucson",
+    "state":"Arizona",
+    "zip_code":"85718",
+    "phone":"5207901234",
+    "sca_ref":"9020484"
+  },
+  {
+    "name":"Silkey Skin MD",
+    "address":"192 S Main Street",
+    "city":"Kaysville",
+    "state":"UT",
+    "zip_code":"84037",
+    "phone":"8018822200",
+    "sca_ref":"9032690"
+  },
+  {
+    "name":"Remedy Skin Lab",
+    "address":"23373 Camino Terraza Rd",
+    "city":"Corona",
+    "state":"CA",
+    "zip_code":"92883",
+    "phone":"9518087713",
+    "sca_ref":"9072620"
+  },
+  {
+    "name":"Honey Aesthetics Clinic",
+    "address":"1700 Plymouth Rd",
+    "city":"Minnetonka",
+    "state":"Minnesota",
+    "zip_code":"55305",
+    "phone":"6129632784",
+    "sca_ref":"9076866"
+  },
+  {
+    "name":"A\u00e8re Aesthetics",
+    "address":"7400 E Crestline Cir Ste 130",
+    "city":"Greenwood Village",
+    "state":"Colorado",
+    "zip_code":"80111-3655",
+    "phone":"303-834-3395",
+    "sca_ref":"9168110"
+  },
+  {
+    "name":"Skin Results",
+    "address":"5115 N Scottsdale Road #24",
+    "city":"Scottsdale",
+    "state":"AZ",
+    "zip_code":"85250",
+    "phone":"6027812197",
+    "sca_ref":"9185746"
+  },
+  {
+    "name":"Center for Plastic Surgery",
+    "address":"3180 49th St. S.",
+    "city":"FARGO",
+    "state":"ND",
+    "zip_code":"58104",
+    "phone":"7014122400",
+    "sca_ref":"9191988"
+  },
+  {
+    "name":"Studio of Makeup & Skin Health",
+    "address":"9199 Reisterstown Road #104A",
+    "city":"Owings Mills",
+    "state":"MD",
+    "zip_code":"21117",
+    "phone":"410-902-7422",
+    "sca_ref":"9210534"
+  },
+  {
+    "name":"Beauty Innovations",
+    "address":"4268 Lincoln Blvd",
+    "city":"Marina del Rey",
+    "state":"CA",
+    "zip_code":"90292",
+    "phone":"3107801602",
+    "sca_ref":"9218070"
+  },
+  {
+    "name":"ABK SKIN",
+    "address":"500 W Trade St Apt 1001",
+    "city":"Charlotte",
+    "state":"NC",
+    "zip_code":"28202",
+    "phone":"8153195076",
+    "sca_ref":"9267227"
+  },
+  {
+    "name":"Betsy Kelly Beauty",
+    "address":"106 Trofello Ln.",
+    "city":"Aliso Viejo",
+    "state":"CA",
+    "zip_code":"92656",
+    "phone":"646-283-6510",
+    "sca_ref":"9270242"
+  },
+  {
+    "name":"Clinical Skin Aesthetics",
+    "address":"20301 SW Acacia St suite 100",
+    "city":"Newport Beach",
+    "state":"CA",
+    "zip_code":"92660",
+    "phone":"9496878904",
+    "sca_ref":"9325405"
+  }
+]
