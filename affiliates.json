@@ -6,7 +6,7 @@
     "state": "LA",
     "zip_code": 99123,
     "phone": "555-555-1234",
-    "custom_referral_link": "chris"
+    "sca_ref": "chris"
   },
   {
     "name": "Dunes Med Spa",
@@ -15,7 +15,7 @@
     "state": "SC",
     "zip_code": 29577,
     "phone": "843-839-1935",
-    "custom_referral_link": "dunesmedspa"
+    "sca_ref": "dunesmedspa"
   },
   {
     "name": "Aesthete",
@@ -24,7 +24,7 @@
     "state": "WA",
     "zip_code": 98004,
     "phone": "4258946282",
-    "custom_referral_link": "aesthete"
+    "sca_ref": "aesthete"
   },
   {
     "name": "Savanna Boda",
@@ -33,7 +33,7 @@
     "state": "Texas",
     "zip_code": 76247,
     "phone": "9724409997",
-    "custom_referral_link": "savannaboda"
+    "sca_ref": "savannaboda"
   },
   {
     "name": "Skin By Lauryn",
@@ -42,7 +42,7 @@
     "state": "GA",
     "zip_code": 30307,
     "phone": "404-914-0064",
-    "custom_referral_link": "skinbylauryn"
+    "sca_ref": "skinbylauryn"
   },
   {
     "name": "Luxe Skin Aesthetics",
@@ -51,7 +51,7 @@
     "state": "Alabama",
     "zip_code": 35055,
     "phone": "2568411690",
-    "custom_referral_link": "luxeskinaesthetics"
+    "sca_ref": "luxeskinaesthetics"
   },
   {
     "name": "The Luxe Medspa",
@@ -60,7 +60,7 @@
     "state": "Georgia",
     "zip_code": 30127,
     "phone": "7702037480",
-    "custom_referral_link": "theluxemedspa"
+    "sca_ref": "theluxemedspa"
   },
   {
     "name": "The Skin Lounge",
@@ -69,7 +69,7 @@
     "state": "New Jersey",
     "zip_code": "07928",
     "phone": "9083092224",
-    "custom_referral_link": "theskinlounge"
+    "sca_ref": "theskinlounge"
   },
   {
     "name": "Lotus Skin + Brow",
@@ -78,7 +78,7 @@
     "state": "Georgia",
     "zip_code": 30161,
     "phone": "7068029898",
-    "custom_referral_link": "lotusskinandbrow"
+    "sca_ref": "lotusskinandbrow"
   },
   {
     "name": "Beverly Hills Rejuvenation Center",
@@ -87,7 +87,7 @@
     "state": "TX",
     "zip_code": 78209,
     "phone": "210-774-4655",
-    "custom_referral_link": "bhrcmedspa"
+    "sca_ref": "bhrcmedspa"
   },
   {
     "name": "Casa Bella Aesthetics",
@@ -96,7 +96,7 @@
     "state": "TX",
     "zip_code": 77385,
     "phone": "(936) 444-5606",
-    "custom_referral_link": "casabellaaesthetics"
+    "sca_ref": "casabellaaesthetics"
   },
   {
     "name": "Next Level Aesthetics",
@@ -105,7 +105,7 @@
     "state": "TX",
     "zip_code": 76701,
     "phone": "2546528095",
-    "custom_referral_link": "nextlevelaesthetics"
+    "sca_ref": "nextlevelaesthetics"
   },
   {
     "name": "Graceful Touch Esthetics",
@@ -114,7 +114,7 @@
     "state": "Tx",
     "zip_code": 77511,
     "phone": "940-923-5191",
-    "custom_referral_link": "gracefultouchesthetics"
+    "sca_ref": "gracefultouchesthetics"
   },
   {
     "name": "Georgia Skin Specialists",
@@ -123,7 +123,7 @@
     "state": "GA",
     "zip_code": 30318,
     "phone": "6784634526",
-    "custom_referral_link": "georgiaskinspecialists"
+    "sca_ref": "georgiaskinspecialists"
   },
   {
     "name": "Pelle Dolce Medical Aesthetics",
@@ -132,7 +132,7 @@
     "state": "CT",
     "zip_code": "06067",
     "phone": "2034106436",
-    "custom_referral_link": "pelledolcemedicalaesthetics"
+    "sca_ref": "pelledolcemedicalaesthetics"
   },
   {
     "name": "WINK MEDICAL AESTHETICS",
@@ -141,7 +141,7 @@
     "state": "TEXAS",
     "zip_code": 78734,
     "phone": "512-263-2400",
-    "custom_referral_link": "winkmed"
+    "sca_ref": "winkmed"
   },
   {
     "name": "AYA Medical Spa",
@@ -150,7 +150,7 @@
     "state": "ga",
     "zip_code": 30326,
     "phone": "404-842-1772",
-    "custom_referral_link": "ayamedspa"
+    "sca_ref": "ayamedspa"
   },
   {
     "name": "Luxe Skin Clinic",
@@ -159,7 +159,7 @@
     "state": "TX",
     "zip_code": 78254,
     "phone": "2105446676",
-    "custom_referral_link": "luxeskinclinic"
+    "sca_ref": "luxeskinclinic"
   },
   {
     "name": "Aesthetics of Atlanta and wellness",
@@ -168,7 +168,7 @@
     "state": "GA",
     "zip_code": 30328,
     "phone": "6787908354",
-    "custom_referral_link": "aestheticsofatlanta"
+    "sca_ref": "aestheticsofatlanta"
   },
   {
     "name": "Cosmic Glow Aesthetics",
@@ -177,7 +177,7 @@
     "state": "PA",
     "zip_code": 17033,
     "phone": "7175805866",
-    "custom_referral_link": "cosmicglowaesthetics"
+    "sca_ref": "cosmicglowaesthetics"
   },
   {
     "name": "Neighborhood Wellness Clinic",
@@ -186,7 +186,7 @@
     "state": "TX",
     "zip_code": 78154,
     "phone": null,
-    "custom_referral_link": "neighborhoodwellnessclinic"
+    "sca_ref": "neighborhoodwellnessclinic"
   },
   {
     "name": "Renew Vitality Clinic",
@@ -195,7 +195,7 @@
     "state": "Tx",
     "zip_code": 76712,
     "phone": "2542162343",
-    "custom_referral_link": "renewvitalityclinic"
+    "sca_ref": "renewvitalityclinic"
   },
   {
     "name": "Illumatox Aesthetic Studio",
@@ -204,7 +204,7 @@
     "state": "WI",
     "zip_code": 54130,
     "phone": "920-585-8115",
-    "custom_referral_link": "illumatoxaestheticstudio"
+    "sca_ref": "illumatoxaestheticstudio"
   },
   {
     "name": "The Aesthetic Room by Damore Dentistry LLC",
@@ -213,7 +213,7 @@
     "state": "NJ",
     "zip_code": "08012",
     "phone": "8562286688",
-    "custom_referral_link": "theaestheticroom"
+    "sca_ref": "theaestheticroom"
   },
   {
     "name": "Tox Josh Studios",
@@ -222,7 +222,7 @@
     "state": "TN",
     "zip_code": 37027,
     "phone": "6156287671",
-    "custom_referral_link": "toxjosh"
+    "sca_ref": "toxjosh"
   },
   {
     "name": "Duluth Med Spa",
@@ -231,7 +231,7 @@
     "state": "MN",
     "zip_code": 55811,
     "phone": "2184811800",
-    "custom_referral_link": "duluthmedspa"
+    "sca_ref": "duluthmedspa"
   },
   {
     "name": "The Lip Bunny Beauty",
@@ -240,7 +240,7 @@
     "state": "Massachusetts",
     "zip_code": "02720",
     "phone": "401-865-0795",
-    "custom_referral_link": "lipbunnybeauty"
+    "sca_ref": "lipbunnybeauty"
   },
   {
     "name": "Beauty Wise",
@@ -249,7 +249,7 @@
     "state": "Tx",
     "zip_code": 78201,
     "phone": "2102909444",
-    "custom_referral_link": "beautywise"
+    "sca_ref": "beautywise"
   },
   {
     "name": "Dew Skin Studio",
@@ -258,7 +258,7 @@
     "state": "SC",
     "zip_code": 29401,
     "phone": "8439911160",
-    "custom_referral_link": "dewskinstudios"
+    "sca_ref": "dewskinstudios"
   },
   {
     "name": "Esthetics By Cati",
@@ -267,7 +267,7 @@
     "state": "NY",
     "zip_code": 14092,
     "phone": "7169465842",
-    "custom_referral_link": "estheticsbycati"
+    "sca_ref": "estheticsbycati"
   },
   {
     "name": "Serein Aesthetics",
@@ -276,7 +276,7 @@
     "state": "Maryland",
     "zip_code": 21117,
     "phone": "4108241313",
-    "custom_referral_link": "sereinaesthetics"
+    "sca_ref": "sereinaesthetics"
   },
   {
     "name": "The Lip Bunny Beauty",
@@ -285,7 +285,7 @@
     "state": "MA",
     "zip_code": "02720",
     "phone": "401-865-0795",
-    "custom_referral_link": "thelipbunnybeauty"
+    "sca_ref": "thelipbunnybeauty"
   },
   {
     "name": "Atlanta Skin Wellness Center",
@@ -294,7 +294,7 @@
     "state": "Georgia",
     "zip_code": 30328,
     "phone": "4044464840",
-    "custom_referral_link": "atlantaskinwellnesscenter"
+    "sca_ref": "atlantaskinwellnesscenter"
   },
   {
     "name": "Dr. Solomon Azouz",
@@ -303,7 +303,7 @@
     "state": "TX",
     "zip_code": 75230,
     "phone": "9727028888",
-    "custom_referral_link": "drsolomonazouz"
+    "sca_ref": "drsolomonazouz"
   },
   {
     "name": "AraBella Aeathetics",
@@ -312,7 +312,7 @@
     "state": "GA",
     "zip_code": 30518,
     "phone": "6787252308",
-    "custom_referral_link": "arabellaaesthetics"
+    "sca_ref": "arabellaaesthetics"
   },
   {
     "name": "LehCar Aesthetics",
@@ -321,7 +321,7 @@
     "state": "GA",
     "zip_code": 30041,
     "phone": "6787736117",
-    "custom_referral_link": "lehcaraesthetics"
+    "sca_ref": "lehcaraesthetics"
   },
   {
     "name": "Spa Bella",
@@ -330,7 +330,7 @@
     "state": "La",
     "zip_code": 71291,
     "phone": "3183482915",
-    "custom_referral_link": "spabella"
+    "sca_ref": "spabella"
   },
   {
     "name": "TORA",
@@ -339,7 +339,7 @@
     "state": "tx",
     "zip_code": 78382,
     "phone": "3614508029",
-    "custom_referral_link": "tora"
+    "sca_ref": "tora"
   },
   {
     "name": "ROYAL AESTHETICS",
@@ -348,7 +348,7 @@
     "state": "TX",
     "zip_code": 77384,
     "phone": "7138985846",
-    "custom_referral_link": "royalaesthetics"
+    "sca_ref": "royalaesthetics"
   },
   {
     "name": "Zaretsky Aesthetics",
@@ -357,7 +357,7 @@
     "state": "Texas",
     "zip_code": 77079,
     "phone": "832-295-3050",
-    "custom_referral_link": "zaretskyaesthetics"
+    "sca_ref": "zaretskyaesthetics"
   },
   {
     "name": "Art of Skin",
@@ -366,7 +366,7 @@
     "state": "Ga",
     "zip_code": 30329,
     "phone": "6786704495",
-    "custom_referral_link": "artofskin"
+    "sca_ref": "artofskin"
   },
   {
     "name": "Flourish wellness",
@@ -375,7 +375,7 @@
     "state": "AZ",
     "zip_code": 85140,
     "phone": "4807658795",
-    "custom_referral_link": "flourishwellness"
+    "sca_ref": "flourishwellness"
   },
   {
     "name": "Modern Looks Med Spa",
@@ -384,7 +384,7 @@
     "state": "georgia",
     "zip_code": 30328,
     "phone": "4044804015",
-    "custom_referral_link": "modernlooksmedspa"
+    "sca_ref": "modernlooksmedspa"
   },
   {
     "name": "Rosalind Michelle Skin Co",
@@ -393,7 +393,7 @@
     "state": "GA",
     "zip_code": 30083,
     "phone": "4047026477",
-    "custom_referral_link": "rosalindmichelleskinco"
+    "sca_ref": "rosalindmichelleskinco"
   },
   {
     "name": "Nakie Face",
@@ -402,7 +402,7 @@
     "state": "AZ",
     "zip_code": 85251,
     "phone": "4809353433",
-    "custom_referral_link": "nakieface"
+    "sca_ref": "nakieface"
   },
   {
     "name": "Skin Care By Monik",
@@ -411,7 +411,7 @@
     "state": "TX",
     "zip_code": 77441,
     "phone": "3467078543",
-    "custom_referral_link": "skincarebymonik"
+    "sca_ref": "skincarebymonik"
   },
   {
     "name": "Purple Peach Aesthetics",
@@ -420,7 +420,7 @@
     "state": "Texas",
     "zip_code": 77511,
     "phone": "8323880508",
-    "custom_referral_link": "purplepeachaesthetics"
+    "sca_ref": "purplepeachaesthetics"
   },
   {
     "name": "Glow by Gabrielle",
@@ -429,7 +429,7 @@
     "state": "New Jersey",
     "zip_code": "07702",
     "phone": "7324259810",
-    "custom_referral_link": "glowbygabrielle"
+    "sca_ref": "glowbygabrielle"
   },
   {
     "name": "The Derm Bar MD",
@@ -438,7 +438,7 @@
     "state": "TN",
     "zip_code": 37923,
     "phone": "8655560543",
-    "custom_referral_link": "thedermbarmd"
+    "sca_ref": "thedermbarmd"
   },
   {
     "name": "Mne Aesthetics",
@@ -447,7 +447,7 @@
     "state": "Texas",
     "zip_code": 77479,
     "phone": "3463150430",
-    "custom_referral_link": "mneaesthetics"
+    "sca_ref": "mneaesthetics"
   },
   {
     "name": "The Lash Designory d.b.a Morgan Rackley Skincare",
@@ -456,7 +456,7 @@
     "state": "GA",
     "zip_code": 30329,
     "phone": "7708968326",
-    "custom_referral_link": "luminousskinatlanta"
+    "sca_ref": "luminousskinatlanta"
   },
   {
     "name": "The Skin Gallery Medspa",
@@ -465,7 +465,7 @@
     "state": "Texas",
     "zip_code": 77339,
     "phone": "8322178684",
-    "custom_referral_link": "theskingallerymedspa"
+    "sca_ref": "theskingallerymedspa"
   },
   {
     "name": "True Skin Oasis",
@@ -474,7 +474,7 @@
     "state": "NJ",
     "zip_code": "08109",
     "phone": "8569243301",
-    "custom_referral_link": "trueskinoasis"
+    "sca_ref": "trueskinoasis"
   },
   {
     "name": "Poke Me Pretty",
@@ -483,7 +483,7 @@
     "state": "AZ",
     "zip_code": 85382,
     "phone": "4806736297",
-    "custom_referral_link": "pokemepretty"
+    "sca_ref": "pokemepretty"
   },
   {
     "name": "Allura Medical Esthetics",
@@ -492,7 +492,7 @@
     "state": "Rhode Island",
     "zip_code": "02906",
     "phone": "401-309-8227",
-    "custom_referral_link": "alluramedicalesthetics"
+    "sca_ref": "alluramedicalesthetics"
   },
   {
     "name": "Anderson Aesthetics",
@@ -501,7 +501,7 @@
     "state": "Georgia",
     "zip_code": 30009,
     "phone": "4042564247",
-    "custom_referral_link": "andersonaesthetics"
+    "sca_ref": "andersonaesthetics"
   },
   {
     "name": "Jilan Wise Aesthetics",
@@ -510,7 +510,7 @@
     "state": "NV",
     "zip_code": 89052,
     "phone": "7029693020",
-    "custom_referral_link": "jilanwiseaesthetics"
+    "sca_ref": "jilanwiseaesthetics"
   },
   {
     "name": "FACEBYMACE",
@@ -519,7 +519,7 @@
     "state": "UT",
     "zip_code": 84045,
     "phone": "9705819367",
-    "custom_referral_link": "facebymace"
+    "sca_ref": "facebymace"
   },
   {
     "name": "Clover Skin Inc",
@@ -528,7 +528,7 @@
     "state": "UT",
     "zip_code": 84042,
     "phone": "6024991021",
-    "custom_referral_link": "cloverskininc"
+    "sca_ref": "cloverskininc"
   },
   {
     "name": "Luxe Lift Aesthetics & Women\u2019s Wellness",
@@ -537,7 +537,7 @@
     "state": "IL",
     "zip_code": 61832,
     "phone": "2176660401",
-    "custom_referral_link": "luxeliftaesthetics"
+    "sca_ref": "luxeliftaesthetics"
   },
   {
     "name": "LAZ Skincare INC",
@@ -546,7 +546,7 @@
     "state": "New York",
     "zip_code": "10003-3240",
     "phone": "3475065880",
-    "custom_referral_link": "lazskincare"
+    "sca_ref": "lazskincare"
   },
   {
     "name": "SkinAesthetics",
@@ -555,7 +555,7 @@
     "state": "TX",
     "zip_code": 77435,
     "phone": "713-855-7993",
-    "custom_referral_link": "skinaesthetics"
+    "sca_ref": "skinaesthetics"
   },
   {
     "name": "Geo Aesthetics",
@@ -564,7 +564,7 @@
     "state": "Oklahoma",
     "zip_code": "74133-2662",
     "phone": "9567395387",
-    "custom_referral_link": "geoaesthetics"
+    "sca_ref": "geoaesthetics"
   },
   {
     "name": "The Little Brow Room",
@@ -573,7 +573,7 @@
     "state": "WI",
     "zip_code": 54601,
     "phone": "6085197037",
-    "custom_referral_link": "thelittlebrowroom"
+    "sca_ref": "thelittlebrowroom"
   },
   {
     "name": "lux injectables",
@@ -582,7 +582,7 @@
     "state": "florida",
     "zip_code": 33765,
     "phone": "7276988225",
-    "custom_referral_link": "injectorjess"
+    "sca_ref": "injectorjess"
   },
   {
     "name": "Ageless Med Spa",
@@ -591,7 +591,7 @@
     "state": "Texas",
     "zip_code": 77494,
     "phone": "2813923700",
-    "custom_referral_link": "agelessmedspa"
+    "sca_ref": "agelessmedspa"
   },
   {
     "name": "Amoura Esthetics",
@@ -600,7 +600,7 @@
     "state": "OR",
     "zip_code": 97229,
     "phone": "9712175025",
-    "custom_referral_link": "amouraesthetics"
+    "sca_ref": "amouraesthetics"
   },
   {
     "name": "Evoultion Skyn Aesthetics",
@@ -609,7 +609,7 @@
     "state": "CA",
     "zip_code": 92501,
     "phone": "9512584646",
-    "custom_referral_link": "evoultionskynaesthetics"
+    "sca_ref": "evoultionskynaesthetics"
   },
   {
     "name": "Mad Skin",
@@ -618,7 +618,7 @@
     "state": "UT",
     "zip_code": 84043,
     "phone": "7023056600",
-    "custom_referral_link": "madskin"
+    "sca_ref": "madskin"
   },
   {
     "name": "DRVN Aesthetics",
@@ -627,7 +627,7 @@
     "state": "TX",
     "zip_code": 77304,
     "phone": "281-720-6300",
-    "custom_referral_link": "drvnaesthetics"
+    "sca_ref": "drvnaesthetics"
   },
   {
     "name": "Corrective Skin Christy",
@@ -636,7 +636,7 @@
     "state": "UT",
     "zip_code": 84045,
     "phone": "9207160890",
-    "custom_referral_link": "correctiveskinchristy"
+    "sca_ref": "correctiveskinchristy"
   },
   {
     "name": "Satori Skin Studio",
@@ -645,7 +645,7 @@
     "state": "TX",
     "zip_code": 75093,
     "phone": "4693639935",
-    "custom_referral_link": "satoriskinstudio"
+    "sca_ref": "satoriskinstudio"
   },
   {
     "name": "Skin By Nicole",
@@ -654,7 +654,7 @@
     "state": "TEXAS",
     "zip_code": 78757,
     "phone": "(512) 856-9620",
-    "custom_referral_link": "skinbynicole"
+    "sca_ref": "skinbynicole"
   },
   {
     "name": "Pampering Aesthetics",
@@ -663,7 +663,7 @@
     "state": "Tx",
     "zip_code": 78154,
     "phone": "2107013887",
-    "custom_referral_link": "pamperingaesthetics"
+    "sca_ref": "pamperingaesthetics"
   },
   {
     "name": "Alluring Aesthetics",
@@ -672,7 +672,7 @@
     "state": "TX",
     "zip_code": 78248,
     "phone": "2107415389",
-    "custom_referral_link": "alluringaesthetics"
+    "sca_ref": "alluringaesthetics"
   },
   {
     "name": "Timeless Beauty Aesthetics",
@@ -681,7 +681,7 @@
     "state": "TX",
     "zip_code": 78257,
     "phone": "2107125431",
-    "custom_referral_link": "timelessbeautyaesthetics"
+    "sca_ref": "timelessbeautyaesthetics"
   },
   {
     "name": "Henara Skin Company",
@@ -690,7 +690,7 @@
     "state": "TX",
     "zip_code": 78745,
     "phone": "5125060535",
-    "custom_referral_link": "henaraskincompany"
+    "sca_ref": "henaraskincompany"
   },
   {
     "name": "Bulverde Medspa",
@@ -699,7 +699,7 @@
     "state": "TX",
     "zip_code": 78163,
     "phone": "8304995950",
-    "custom_referral_link": "bulverdemedspa"
+    "sca_ref": "bulverdemedspa"
   },
   {
     "name": "Aesthetic & Acupuncture Clinic of Texas",
@@ -708,7 +708,7 @@
     "state": "TX",
     "zip_code": 77833,
     "phone": "9794216300",
-    "custom_referral_link": "aestheticacupunctureclinic"
+    "sca_ref": "aestheticacupunctureclinic"
   },
   {
     "name": "House of Preservation",
@@ -717,7 +717,7 @@
     "state": "TX",
     "zip_code": 75201,
     "phone": "4695713740",
-    "custom_referral_link": "houseofpreservation"
+    "sca_ref": "houseofpreservation"
   },
   {
     "name": "You Holistic",
@@ -726,7 +726,7 @@
     "state": "NH",
     "zip_code": "03833",
     "phone": "6033092030",
-    "custom_referral_link": "youholistic"
+    "sca_ref": "youholistic"
   },
   {
     "name": "Blushisme by Aldana Aesthetics",
@@ -735,7 +735,7 @@
     "state": "TX",
     "zip_code": 79938,
     "phone": "9158733255",
-    "custom_referral_link": "blushismebyaldanaaesthetics"
+    "sca_ref": "blushismebyaldanaaesthetics"
   },
   {
     "name": "Vital Skin & Body LLC.",
@@ -744,7 +744,7 @@
     "state": "TX",
     "zip_code": 76502,
     "phone": "12549314323",
-    "custom_referral_link": "vitalskinbody"
+    "sca_ref": "vitalskinbody"
   },
   {
     "name": "Skin Boutique by Angelique",
@@ -753,7 +753,7 @@
     "state": "Texas",
     "zip_code": 78626,
     "phone": "5122931778",
-    "custom_referral_link": "skinboutiquebyangelique"
+    "sca_ref": "skinboutiquebyangelique"
   },
   {
     "name": "Enamor Aesthetics and Co",
@@ -762,7 +762,7 @@
     "state": "Utah",
     "zip_code": 84604,
     "phone": "4804402906",
-    "custom_referral_link": "enamoraesthetics"
+    "sca_ref": "enamoraesthetics"
   },
   {
     "name": "Luxe Skin Clinic",
@@ -771,7 +771,7 @@
     "state": "TX",
     "zip_code": 78254,
     "phone": "2105446676",
-    "custom_referral_link": "luxeskinclinictx"
+    "sca_ref": "luxeskinclinictx"
   },
   {
     "name": "Pretty Little Lines",
@@ -780,7 +780,7 @@
     "state": "UT",
     "zip_code": 84655,
     "phone": "8017627192",
-    "custom_referral_link": "prettylittlelines"
+    "sca_ref": "prettylittlelines"
   },
   {
     "name": "The AZ Esthetician",
@@ -789,7 +789,7 @@
     "state": "AZ",
     "zip_code": 85142,
     "phone": "8168727205",
-    "custom_referral_link": "theazesthetician"
+    "sca_ref": "theazesthetician"
   },
   {
     "name": "Desert Dream Esthetics",
@@ -798,7 +798,7 @@
     "state": "AZ",
     "zip_code": 85018,
     "phone": "4802995183",
-    "custom_referral_link": "desertdreamesthetics"
+    "sca_ref": "desertdreamesthetics"
   },
   {
     "name": "Faces From Paris",
@@ -807,7 +807,7 @@
     "state": "PA",
     "zip_code": 17011,
     "phone": null,
-    "custom_referral_link": "facesfromparis"
+    "sca_ref": "facesfromparis"
   },
   {
     "name": "Gabbytheaesthetician",
@@ -816,7 +816,7 @@
     "state": "TEXAS",
     "zip_code": 78414,
     "phone": "3616924676",
-    "custom_referral_link": "gabbytheaesthetician"
+    "sca_ref": "gabbytheaesthetician"
   },
   {
     "name": "All Things Aesthetics",
@@ -825,7 +825,7 @@
     "state": "GA",
     "zip_code": 30357,
     "phone": "4702318846",
-    "custom_referral_link": "allthingsaesthetics"
+    "sca_ref": "allthingsaesthetics"
   },
   {
     "name": "Afina Beauty and Wellness",
@@ -834,7 +834,7 @@
     "state": "texas",
     "zip_code": 77505,
     "phone": "2817441345",
-    "custom_referral_link": "afinabeautyandwellness"
+    "sca_ref": "afinabeautyandwellness"
   },
   {
     "name": "LE'BODY SPA & WELLNESS",
@@ -843,7 +843,7 @@
     "state": "TX",
     "zip_code": 78621,
     "phone": "15129401107",
-    "custom_referral_link": "lebodyspa"
+    "sca_ref": "lebodyspa"
   },
   {
     "name": "Alchemy Beauty",
@@ -852,7 +852,7 @@
     "state": "TX",
     "zip_code": 78757,
     "phone": "512-768-7179",
-    "custom_referral_link": "alchemybeauty"
+    "sca_ref": "alchemybeauty"
   },
   {
     "name": "Aggieland Aesthetics",
@@ -861,7 +861,7 @@
     "state": "TX",
     "zip_code": 77803,
     "phone": "9794500979",
-    "custom_referral_link": "aggielandaesthetics"
+    "sca_ref": "aggielandaesthetics"
   },
   {
     "name": "Glow Haus",
@@ -870,7 +870,7 @@
     "state": "CA",
     "zip_code": 90254,
     "phone": "3109469318",
-    "custom_referral_link": "glowhaus"
+    "sca_ref": "glowhaus"
   },
   {
     "name": "AESTHETIC NURSE JACK - KT SKIN",
@@ -879,7 +879,7 @@
     "state": "TX",
     "zip_code": 77571,
     "phone": "8325149520",
-    "custom_referral_link": "aestheticnursejack"
+    "sca_ref": "aestheticnursejack"
   },
   {
     "name": "Alchemy Aesthetics Co.",
@@ -888,7 +888,7 @@
     "state": "TX",
     "zip_code": 78130,
     "phone": "8303023977",
-    "custom_referral_link": "alchemyaestheticsco"
+    "sca_ref": "alchemyaestheticsco"
   },
   {
     "name": "Healing Touch Beauty Spa",
@@ -897,7 +897,7 @@
     "state": "CA",
     "zip_code": 91364,
     "phone": null,
-    "custom_referral_link": "healingtouch"
+    "sca_ref": "healingtouch"
   },
   {
     "name": "Skinbyhannahholley",
@@ -906,7 +906,7 @@
     "state": "Nevada",
     "zip_code": 89117,
     "phone": "7026729221",
-    "custom_referral_link": "skinbyhannahholley"
+    "sca_ref": "skinbyhannahholley"
   },
   {
     "name": "Lotti Aesthetics & Wellness",
@@ -915,7 +915,7 @@
     "state": "UT",
     "zip_code": 84025,
     "phone": "8018421749",
-    "custom_referral_link": "lottiaesthetics"
+    "sca_ref": "lottiaesthetics"
   },
   {
     "name": "Dezthetics Skincare Studio LLC",
@@ -924,7 +924,7 @@
     "state": "Texas",
     "zip_code": 76116,
     "phone": "5188607881",
-    "custom_referral_link": "deztheticsskincare"
+    "sca_ref": "deztheticsskincare"
   },
   {
     "name": "Cloud28 Aesthetics, LLC",
@@ -933,7 +933,7 @@
     "state": "Texas",
     "zip_code": 79912,
     "phone": "9155038432",
-    "custom_referral_link": "cloud28aesthetics"
+    "sca_ref": "cloud28aesthetics"
   },
   {
     "name": "Principle Artistry",
@@ -942,7 +942,7 @@
     "state": "AZ",
     "zip_code": 85338,
     "phone": "5203297131",
-    "custom_referral_link": "principleartistry"
+    "sca_ref": "principleartistry"
   },
   {
     "name": "WN. Skin",
@@ -951,7 +951,7 @@
     "state": "OK",
     "zip_code": 73013,
     "phone": "4056237949",
-    "custom_referral_link": "wnskin"
+    "sca_ref": "wnskin"
   },
   {
     "name": "Skincareby_meg",
@@ -960,7 +960,7 @@
     "state": "NJ",
     "zip_code": "08012",
     "phone": "8563045770",
-    "custom_referral_link": "skincarebymeg"
+    "sca_ref": "skincarebymeg"
   },
   {
     "name": "Smart Skin Med Spa",
@@ -969,7 +969,7 @@
     "state": "al",
     "zip_code": 35209,
     "phone": "2059681301",
-    "custom_referral_link": "smartskinmedspa"
+    "sca_ref": "smartskinmedspa"
   },
   {
     "name": "Eternal Beauty Spa",
@@ -978,7 +978,7 @@
     "state": "KS",
     "zip_code": 67209,
     "phone": "3168416453",
-    "custom_referral_link": "eternalbeautyspa"
+    "sca_ref": "eternalbeautyspa"
   },
   {
     "name": "Just Peachy Esthetics",
@@ -987,7 +987,7 @@
     "state": "WI",
     "zip_code": 53144,
     "phone": "2623836167",
-    "custom_referral_link": "justpeachyesthetics"
+    "sca_ref": "justpeachyesthetics"
   },
   {
     "name": "ayla Med Spa",
@@ -996,7 +996,7 @@
     "state": "Arizona",
     "zip_code": 85255,
     "phone": "6027556861",
-    "custom_referral_link": "aylamedspa"
+    "sca_ref": "aylamedspa"
   },
   {
     "name": "Be Confident Aesthetics",
@@ -1005,7 +1005,7 @@
     "state": "CA",
     "zip_code": 95747,
     "phone": "2097439915",
-    "custom_referral_link": "beconfidentaesthetics"
+    "sca_ref": "beconfidentaesthetics"
   },
   {
     "name": "The Advanced Aesthetician",
@@ -1014,7 +1014,7 @@
     "state": "OR",
     "zip_code": 97224,
     "phone": "5038048357",
-    "custom_referral_link": "theadvancedaesthetician"
+    "sca_ref": "theadvancedaesthetician"
   },
   {
     "name": "Ethereal Skin Medical Spa",
@@ -1023,7 +1023,7 @@
     "state": "PA",
     "zip_code": 15317,
     "phone": "4127153692",
-    "custom_referral_link": "etherealskinmedicalspa"
+    "sca_ref": "etherealskinmedicalspa"
   },
   {
     "name": "LH Spa & Rejuvenation",
@@ -1032,7 +1032,7 @@
     "state": "New Jersey",
     "zip_code": "07940",
     "phone": "9733772000",
-    "custom_referral_link": "lhsparejuvenation"
+    "sca_ref": "lhsparejuvenation"
   },
   {
     "name": "beautyxjaney",
@@ -1041,7 +1041,7 @@
     "state": "CA",
     "zip_code": 91604,
     "phone": "6127706390",
-    "custom_referral_link": "beautyxjaney"
+    "sca_ref": "beautyxjaney"
   },
   {
     "name": "Skyn X Cyn",
@@ -1050,7 +1050,7 @@
     "state": "CA",
     "zip_code": 90069,
     "phone": "3108738464",
-    "custom_referral_link": "skynxcyn"
+    "sca_ref": "skynxcyn"
   },
   {
     "name": "Bella Donna Skin Studio",
@@ -1059,7 +1059,7 @@
     "state": "CA",
     "zip_code": 92629,
     "phone": "9492387202",
-    "custom_referral_link": "belladonnaskinstudio"
+    "sca_ref": "belladonnaskinstudio"
   },
   {
     "name": "the aesthetic collective",
@@ -1068,7 +1068,7 @@
     "state": "Tx",
     "zip_code": 78602,
     "phone": "15129579638",
-    "custom_referral_link": "theaestheticcollective"
+    "sca_ref": "theaestheticcollective"
   },
   {
     "name": "Skin and Tonic",
@@ -1077,7 +1077,7 @@
     "state": "NV",
     "zip_code": 89044,
     "phone": "702-854-6654",
-    "custom_referral_link": "skinandtonic"
+    "sca_ref": "skinandtonic"
   },
   {
     "name": "Laserderm Medispa",
@@ -1086,7 +1086,7 @@
     "state": "MA",
     "zip_code": "01545",
     "phone": "15087527113",
-    "custom_referral_link": "laserdermmedispa"
+    "sca_ref": "laserdermmedispa"
   },
   {
     "name": "Facial Studio Magdalena",
@@ -1095,7 +1095,7 @@
     "state": "IL",
     "zip_code": 60654,
     "phone": "773-501-5440",
-    "custom_referral_link": "facialstudiomagdalena"
+    "sca_ref": "facialstudiomagdalena"
   },
   {
     "name": "MECO BEAUTY",
@@ -1104,7 +1104,7 @@
     "state": "AZ",
     "zip_code": 85282,
     "phone": "4802710078",
-    "custom_referral_link": "mecobeauty"
+    "sca_ref": "mecobeauty"
   },
   {
     "name": "Luminous Glow Med Spa",
@@ -1113,7 +1113,7 @@
     "state": "TX",
     "zip_code": 76226,
     "phone": "972-345-8900",
-    "custom_referral_link": "luminousglowmedspa"
+    "sca_ref": "luminousglowmedspa"
   },
   {
     "name": "allythe.esti",
@@ -1122,7 +1122,7 @@
     "state": "NE",
     "zip_code": 68847,
     "phone": "6363575856",
-    "custom_referral_link": "thespakearney"
+    "sca_ref": "thespakearney"
   },
   {
     "name": "The Skin Suite by Kristen",
@@ -1131,7 +1131,7 @@
     "state": "NJ",
     "zip_code": "08088",
     "phone": "6092322513",
-    "custom_referral_link": "skinsuitebykristen"
+    "sca_ref": "skinsuitebykristen"
   },
   {
     "name": "Frances Parker Aesthetics",
@@ -1140,7 +1140,7 @@
     "state": "Tennessee",
     "zip_code": 38139,
     "phone": "9014912585",
-    "custom_referral_link": "francesparkeraesthetics"
+    "sca_ref": "francesparkeraesthetics"
   },
   {
     "name": "Bespoke Aesthetics",
@@ -1149,7 +1149,7 @@
     "state": "AZ",
     "zip_code": 85254,
     "phone": null,
-    "custom_referral_link": "bespokeaesthetics"
+    "sca_ref": "bespokeaesthetics"
   },
   {
     "name": "Alexanne Aesthetics",
@@ -1158,7 +1158,7 @@
     "state": "Texas",
     "zip_code": 77650,
     "phone": "7134192484",
-    "custom_referral_link": "alexanneaesthetics"
+    "sca_ref": "alexanneaesthetics"
   },
   {
     "name": "Bella Vita Med Spa",
@@ -1167,7 +1167,7 @@
     "state": "TX",
     "zip_code": 76543,
     "phone": "2542919718",
-    "custom_referral_link": "bellavitamedspa"
+    "sca_ref": "bellavitamedspa"
   },
   {
     "name": "Elevated Aesthetics",
@@ -1176,7 +1176,7 @@
     "state": "NC",
     "zip_code": 27530,
     "phone": "9194299532",
-    "custom_referral_link": "mcLambwellness"
+    "sca_ref": "mcLambwellness"
   },
   {
     "name": "B3 Performance & Aesthetic Medicine",
@@ -1185,7 +1185,7 @@
     "state": "IL",
     "zip_code": 62704,
     "phone": "12175085859",
-    "custom_referral_link": "b3performance"
+    "sca_ref": "b3performance"
   },
   {
     "name": "Bare Aesthetics NJ",
@@ -1194,7 +1194,7 @@
     "state": "New Jersey",
     "zip_code": "07102",
     "phone": "5513380671",
-    "custom_referral_link": "bareaestheticsnj"
+    "sca_ref": "bareaestheticsnj"
   },
   {
     "name": "Skn by Kacie",
@@ -1203,7 +1203,7 @@
     "state": "UT",
     "zip_code": 84057,
     "phone": "8014725398",
-    "custom_referral_link": "sknbykacie"
+    "sca_ref": "sknbykacie"
   },
   {
     "name": "Amadi Aesthetics Plastic Surgery",
@@ -1212,7 +1212,7 @@
     "state": "WA",
     "zip_code": 98119,
     "phone": "2062164500",
-    "custom_referral_link": "amadiaesthetics"
+    "sca_ref": "amadiaesthetics"
   },
   {
     "name": "Facial Aesthetics Team",
@@ -1221,7 +1221,7 @@
     "state": "Texas",
     "zip_code": 77024,
     "phone": "713-637-9001",
-    "custom_referral_link": "facialaestheticsteam"
+    "sca_ref": "facialaestheticsteam"
   },
   {
     "name": "Jordan Macall Skincare",
@@ -1230,7 +1230,7 @@
     "state": "NM",
     "zip_code": 87107,
     "phone": "5056889937",
-    "custom_referral_link": "jordanmacallskincare"
+    "sca_ref": "jordanmacallskincare"
   },
   {
     "name": "Poise Aesthetics",
@@ -1239,7 +1239,7 @@
     "state": "Kansas",
     "zip_code": 67037,
     "phone": "3167793445",
-    "custom_referral_link": "poiseaesthetics"
+    "sca_ref": "poiseaesthetics"
   },
   {
     "name": "Trouvaille Med Spa Tinley Park",
@@ -1248,7 +1248,7 @@
     "state": "Illinois",
     "zip_code": 60478,
     "phone": "708-966-0788",
-    "custom_referral_link": "trouvaillemedspa"
+    "sca_ref": "trouvaillemedspa"
   },
   {
     "name": "Claire O'bryan, NP",
@@ -1257,7 +1257,7 @@
     "state": "SC",
     "zip_code": "29451-2241",
     "phone": "8438196691",
-    "custom_referral_link": "claireobryan"
+    "sca_ref": "claireobryan"
   },
   {
     "name": "Complexion Medspa & Aesthetics",
@@ -1266,7 +1266,7 @@
     "state": "NC",
     "zip_code": 28512,
     "phone": "2527730841",
-    "custom_referral_link": "complexionmedspa"
+    "sca_ref": "complexionmedspa"
   },
   {
     "name": "Ageless Med Spa",
@@ -1275,7 +1275,7 @@
     "state": "IL",
     "zip_code": 62035,
     "phone": null,
-    "custom_referral_link": "agelessmedspa2"
+    "sca_ref": "agelessmedspa2"
   },
   {
     "name": "Nikki G Aesthetics, LLC",
@@ -1284,7 +1284,7 @@
     "state": "IL",
     "zip_code": "60136-9718",
     "phone": "6304261128",
-    "custom_referral_link": "nikkigaesthetics"
+    "sca_ref": "nikkigaesthetics"
   },
   {
     "name": "Karli Jillian Esthetics LLC",
@@ -1293,7 +1293,7 @@
     "state": "NY",
     "zip_code": 12189,
     "phone": "9179740125",
-    "custom_referral_link": "karlijillianesthetics"
+    "sca_ref": "karlijillianesthetics"
   },
   {
     "name": "Brilliance Beauty Bar",
@@ -1302,7 +1302,7 @@
     "state": "AZ",
     "zip_code": 85308,
     "phone": "4805358899",
-    "custom_referral_link": "brilliancebeautybar"
+    "sca_ref": "brilliancebeautybar"
   },
   {
     "name": "Esthetics by Chelaine",
@@ -1311,7 +1311,7 @@
     "state": "OR",
     "zip_code": 97439,
     "phone": "(541)419-5534",
-    "custom_referral_link": "estheticsbychelaine"
+    "sca_ref": "estheticsbychelaine"
   },
   {
     "name": "Vixen Esthetics",
@@ -1320,7 +1320,7 @@
     "state": "Texas",
     "zip_code": 78735,
     "phone": "5125377274",
-    "custom_referral_link": "vixenesthetics"
+    "sca_ref": "vixenesthetics"
   },
   {
     "name": "Kalon Clinic",
@@ -1329,7 +1329,7 @@
     "state": "LA",
     "zip_code": 70754,
     "phone": "2256866305",
-    "custom_referral_link": "kalonclinic"
+    "sca_ref": "kalonclinic"
   },
   {
     "name": "Joon Aesthetics Bar",
@@ -1338,7 +1338,7 @@
     "state": "Texas",
     "zip_code": 78613,
     "phone": "8306130350",
-    "custom_referral_link": "joonaestheticsbar"
+    "sca_ref": "joonaestheticsbar"
   },
   {
     "name": "LV Skin Aesthetics.com",
@@ -1347,7 +1347,7 @@
     "state": "texas",
     "zip_code": 75035,
     "phone": "972-294-5362",
-    "custom_referral_link": "lvskin"
+    "sca_ref": "lvskin"
   },
   {
     "name": "Bombshell Skin Clinic",
@@ -1356,7 +1356,7 @@
     "state": "TX",
     "zip_code": 78258,
     "phone": "210-772-5662",
-    "custom_referral_link": "bombshellskin"
+    "sca_ref": "bombshellskin"
   },
   {
     "name": "AMAZIN AESTHETICS",
@@ -1365,7 +1365,7 @@
     "state": "Colorado",
     "zip_code": 80237,
     "phone": "3039315226",
-    "custom_referral_link": "amazinaesthetics"
+    "sca_ref": "amazinaesthetics"
   },
   {
     "name": "Revived skin",
@@ -1374,7 +1374,7 @@
     "state": "TX",
     "zip_code": 79932,
     "phone": "9155497780",
-    "custom_referral_link": "revivedskin"
+    "sca_ref": "revivedskin"
   },
   {
     "name": "skin cabinet",
@@ -1383,7 +1383,7 @@
     "state": "TX",
     "zip_code": 76201,
     "phone": "3144350853",
-    "custom_referral_link": "skincabinet"
+    "sca_ref": "skincabinet"
   },
   {
     "name": "LV Skin Aesthetics",
@@ -1392,7 +1392,7 @@
     "state": "Texas",
     "zip_code": 75035,
     "phone": "9722945362",
-    "custom_referral_link": "lvskinaesthetics"
+    "sca_ref": "lvskinaesthetics"
   },
   {
     "name": "Elevare MD",
@@ -1401,7 +1401,7 @@
     "state": "IL",
     "zip_code": 60657,
     "phone": "773-598-4440",
-    "custom_referral_link": "elevaremd"
+    "sca_ref": "elevaremd"
   },
   {
     "name": "Skin Esteem with Danielle",
@@ -1410,7 +1410,7 @@
     "state": "Missouri",
     "zip_code": 63301,
     "phone": "3144590704",
-    "custom_referral_link": "skinesteem"
+    "sca_ref": "skinesteem"
   },
   {
     "name": "Inject Beauty",
@@ -1419,7 +1419,7 @@
     "state": "La",
     "zip_code": 71291,
     "phone": "3182356153",
-    "custom_referral_link": "injectbeauty"
+    "sca_ref": "injectbeauty"
   },
   {
     "name": "Dermatology Physicians, Inc.",
@@ -1428,7 +1428,7 @@
     "state": "Pennsylvania",
     "zip_code": 17602,
     "phone": "17173926267",
-    "custom_referral_link": "dermatologyphysiciansinc"
+    "sca_ref": "dermatologyphysiciansinc"
   },
   {
     "name": "BB Aesthetics",
@@ -1437,7 +1437,7 @@
     "state": "NC",
     "zip_code": 27893,
     "phone": "2522304183",
-    "custom_referral_link": "bbaesthetics"
+    "sca_ref": "bbaesthetics"
   },
   {
     "name": "Dyana Raskin Aesthetics",
@@ -1446,7 +1446,7 @@
     "state": "New York",
     "zip_code": 11102,
     "phone": "3474213287",
-    "custom_referral_link": "dyanaraskin"
+    "sca_ref": "dyanaraskin"
   },
   {
     "name": "flawless ON FIFTH",
@@ -1455,7 +1455,7 @@
     "state": "CA",
     "zip_code": 92590,
     "phone": "9513824726",
-    "custom_referral_link": "flawlessonfifth"
+    "sca_ref": "flawlessonfifth"
   },
   {
     "name": "Beauty Room",
@@ -1464,7 +1464,7 @@
     "state": "CA",
     "zip_code": 95023,
     "phone": "4084309350",
-    "custom_referral_link": "beautyroom"
+    "sca_ref": "beautyroom"
   },
   {
     "name": "Charlotte James Skincare",
@@ -1473,7 +1473,7 @@
     "state": "California",
     "zip_code": 90064,
     "phone": "3104785100",
-    "custom_referral_link": "charlottejames"
+    "sca_ref": "charlottejames"
   },
   {
     "name": "KLAR Skin & Medical Spa",
@@ -1482,7 +1482,7 @@
     "state": "WI",
     "zip_code": 53549,
     "phone": "2627164476",
-    "custom_referral_link": "klarskin"
+    "sca_ref": "klarskin"
   },
   {
     "name": "Lotus & Sage Beauty",
@@ -1491,7 +1491,7 @@
     "state": "CA",
     "zip_code": 95662,
     "phone": "9165750563",
-    "custom_referral_link": "lotussagebeauty"
+    "sca_ref": "lotussagebeauty"
   },
   {
     "name": "La Fleur Aesthetics",
@@ -1500,7 +1500,7 @@
     "state": "NC",
     "zip_code": 27540,
     "phone": "919-899-1443",
-    "custom_referral_link": "lafleuraesthetics"
+    "sca_ref": "lafleuraesthetics"
   },
   {
     "name": "Ovation Med Spa",
@@ -1509,7 +1509,7 @@
     "state": "TX",
     "zip_code": 77056,
     "phone": "7139362490",
-    "custom_referral_link": "ovationmedspa"
+    "sca_ref": "ovationmedspa"
   },
   {
     "name": "Glow by the Coast Esthetics",
@@ -1518,7 +1518,7 @@
     "state": "CA",
     "zip_code": 93455,
     "phone": "6198766963",
-    "custom_referral_link": "glowbythecoast"
+    "sca_ref": "glowbythecoast"
   },
   {
     "name": "AesthetiX Skin Lounge",
@@ -1527,7 +1527,7 @@
     "state": "OK",
     "zip_code": 73134,
     "phone": "4052545520",
-    "custom_referral_link": "aesthetixskinlounge"
+    "sca_ref": "aesthetixskinlounge"
   },
   {
     "name": "April Marie Glow",
@@ -1536,7 +1536,7 @@
     "state": "Arizona",
     "zip_code": 85233,
     "phone": null,
-    "custom_referral_link": "aprilmarieglow"
+    "sca_ref": "aprilmarieglow"
   },
   {
     "name": "Iuvenis Aesthetics",
@@ -1545,7 +1545,7 @@
     "state": "IL",
     "zip_code": 62450,
     "phone": "8128819701",
-    "custom_referral_link": "Iuvenisaesthetics"
+    "sca_ref": "Iuvenisaesthetics"
   },
   {
     "name": "Skin by Katherine",
@@ -1554,7 +1554,7 @@
     "state": "NY",
     "zip_code": 11714,
     "phone": "5162369652",
-    "custom_referral_link": "skinbykatherine"
+    "sca_ref": "skinbykatherine"
   },
   {
     "name": "The Pink Canoe Studio",
@@ -1563,7 +1563,7 @@
     "state": "CO",
     "zip_code": 80917,
     "phone": "7193554087",
-    "custom_referral_link": "thepinkcanoe"
+    "sca_ref": "thepinkcanoe"
   },
   {
     "name": "Meraki Aesthetics",
@@ -1572,7 +1572,7 @@
     "state": "new york",
     "zip_code": 11030,
     "phone": "9177050251",
-    "custom_referral_link": "merakiaesthetics"
+    "sca_ref": "merakiaesthetics"
   },
   {
     "name": "OA Facial Plastics",
@@ -1581,7 +1581,7 @@
     "state": "Indiana",
     "zip_code": 46032,
     "phone": "3177086984",
-    "custom_referral_link": "oafacialplastics"
+    "sca_ref": "oafacialplastics"
   },
   {
     "name": "Modern Skin Med Spa",
@@ -1590,7 +1590,7 @@
     "state": "Tx",
     "zip_code": 75078,
     "phone": "2148177390",
-    "custom_referral_link": "modernskinmedspa"
+    "sca_ref": "modernskinmedspa"
   },
   {
     "name": "360 Esthetics",
@@ -1599,7 +1599,7 @@
     "state": "Texas",
     "zip_code": 78539,
     "phone": "830-278-0778",
-    "custom_referral_link": "360esthetics"
+    "sca_ref": "360esthetics"
   },
   {
     "name": "C2 Aesthetics",
@@ -1608,7 +1608,7 @@
     "state": "TX",
     "zip_code": 78641,
     "phone": "737-843-4400",
-    "custom_referral_link": "C2aesthetics"
+    "sca_ref": "C2aesthetics"
   },
   {
     "name": "Renew Skincare Med Spa",
@@ -1617,7 +1617,7 @@
     "state": "Texas",
     "zip_code": 76107,
     "phone": "8179171769",
-    "custom_referral_link": "renewskincare"
+    "sca_ref": "renewskincare"
   },
   {
     "name": "Uptown Aesthetics",
@@ -1626,7 +1626,7 @@
     "state": "IL",
     "zip_code": 60068,
     "phone": "(847) 873-2848",
-    "custom_referral_link": "uptownaesthetics"
+    "sca_ref": "uptownaesthetics"
   },
   {
     "name": "True Skin by Lauren",
@@ -1635,7 +1635,7 @@
     "state": "WI",
     "zip_code": 53122,
     "phone": "9202296182",
-    "custom_referral_link": "trueskinbylauren"
+    "sca_ref": "trueskinbylauren"
   },
   {
     "name": "Aesthetics By Vanessa",
@@ -1644,7 +1644,7 @@
     "state": "CA",
     "zip_code": 94513,
     "phone": "9253251820",
-    "custom_referral_link": "aestheticsbyvanessa"
+    "sca_ref": "aestheticsbyvanessa"
   },
   {
     "name": "Tulua Aesthetics and Wellness",
@@ -1653,7 +1653,7 @@
     "state": "Texas",
     "zip_code": 77478,
     "phone": "832-702-0440",
-    "custom_referral_link": "tuluaaesthetics"
+    "sca_ref": "tuluaaesthetics"
   },
   {
     "name": "The Little Orchid Aesthetics",
@@ -1662,7 +1662,7 @@
     "state": "CO",
     "zip_code": 80022,
     "phone": "7206904699",
-    "custom_referral_link": "thelittleorchid"
+    "sca_ref": "thelittleorchid"
   },
   {
     "name": "BLU Medical Aesthetics",
@@ -1671,7 +1671,7 @@
     "state": "CO",
     "zip_code": 80122,
     "phone": "3037205625",
-    "custom_referral_link": "blumedicalaesthetics"
+    "sca_ref": "blumedicalaesthetics"
   },
   {
     "name": "Mercy Med Spa",
@@ -1680,7 +1680,7 @@
     "state": "Texas",
     "zip_code": 78596,
     "phone": "9566477920",
-    "custom_referral_link": "mercymedspa"
+    "sca_ref": "mercymedspa"
   },
   {
     "name": "Glow Aesthetics LLC",
@@ -1689,7 +1689,7 @@
     "state": "Georgia",
     "zip_code": 30701,
     "phone": "7705483318",
-    "custom_referral_link": "glowaesthetics"
+    "sca_ref": "glowaesthetics"
   },
   {
     "name": "Inspiredskincarebr@gmail.com",
@@ -1698,7 +1698,7 @@
     "state": "Louisiana",
     "zip_code": 70809,
     "phone": "2257761999",
-    "custom_referral_link": "inspiredskincare"
+    "sca_ref": "inspiredskincare"
   },
   {
     "name": "Clarity spa",
@@ -1707,7 +1707,7 @@
     "state": "Ny",
     "zip_code": 11561,
     "phone": "5165437793",
-    "custom_referral_link": "clarityspa"
+    "sca_ref": "clarityspa"
   },
   {
     "name": "Skin IQ Havasu",
@@ -1716,7 +1716,7 @@
     "state": "AZ",
     "zip_code": 86403,
     "phone": "9287330987",
-    "custom_referral_link": "skiniqhavasu"
+    "sca_ref": "skiniqhavasu"
   },
   {
     "name": "Lizii Skincare Studio",
@@ -1725,7 +1725,7 @@
     "state": "NV",
     "zip_code": "89120-4433",
     "phone": "7027230098",
-    "custom_referral_link": "liziiskincare"
+    "sca_ref": "liziiskincare"
   },
   {
     "name": "My Skin Care Girl LLC",
@@ -1734,7 +1734,7 @@
     "state": "DE",
     "zip_code": 19809,
     "phone": "3027431230",
-    "custom_referral_link": "myskincaregirl"
+    "sca_ref": "myskincaregirl"
   },
   {
     "name": "Serving Skin Aesthetics",
@@ -1743,7 +1743,7 @@
     "state": "TX",
     "zip_code": 75056,
     "phone": "4692743164",
-    "custom_referral_link": "servingskin"
+    "sca_ref": "servingskin"
   },
   {
     "name": "Kerry Lorene Skin",
@@ -1752,7 +1752,7 @@
     "state": "TX",
     "zip_code": 78738,
     "phone": "5129717322",
-    "custom_referral_link": "kerrylorene"
+    "sca_ref": "kerrylorene"
   },
   {
     "name": "Studio E",
@@ -1761,7 +1761,7 @@
     "state": "ID",
     "zip_code": 83702,
     "phone": "208-409-4846",
-    "custom_referral_link": "studioe"
+    "sca_ref": "studioe"
   },
   {
     "name": "Alice Khalkad House of Skin",
@@ -1770,7 +1770,7 @@
     "state": "NY",
     "zip_code": 11548,
     "phone": "3472570199",
-    "custom_referral_link": "alicekhalkadhouseofskin"
+    "sca_ref": "alicekhalkadhouseofskin"
   },
   {
     "name": "ABA Aesthetics",
@@ -1779,7 +1779,7 @@
     "state": "Texas",
     "zip_code": 75032,
     "phone": "4693352222",
-    "custom_referral_link": "abaaesthetics"
+    "sca_ref": "abaaesthetics"
   },
   {
     "name": "PhoebeGlow Aesthetics",
@@ -1788,7 +1788,7 @@
     "state": "TX",
     "zip_code": 75077,
     "phone": "4692379509",
-    "custom_referral_link": "phoebeGlowaesthetics"
+    "sca_ref": "phoebeGlowaesthetics"
   },
   {
     "name": "Skin Binge",
@@ -1797,7 +1797,7 @@
     "state": "UT",
     "zip_code": 84401,
     "phone": "385-626-2730",
-    "custom_referral_link": "skinbinge"
+    "sca_ref": "skinbinge"
   },
   {
     "name": "True Derm MedSpa",
@@ -1806,7 +1806,7 @@
     "state": "CO",
     "zip_code": 80016,
     "phone": "7208005716",
-    "custom_referral_link": "truedermmedspa"
+    "sca_ref": "truedermmedspa"
   },
   {
     "name": "CK beauty bar",
@@ -1815,7 +1815,7 @@
     "state": "IL",
     "zip_code": 62025,
     "phone": "6188665207",
-    "custom_referral_link": "ckbeautybar"
+    "sca_ref": "ckbeautybar"
   },
   {
     "name": "MONTROSE DERMATOLOGY",
@@ -1824,7 +1824,7 @@
     "state": "Colorado",
     "zip_code": 81401,
     "phone": "9709644036",
-    "custom_referral_link": "montrosedermatology"
+    "sca_ref": "montrosedermatology"
   },
   {
     "name": "GLOKC",
@@ -1833,7 +1833,7 @@
     "state": "OK",
     "zip_code": 73142,
     "phone": "5806561780",
-    "custom_referral_link": "glokc"
+    "sca_ref": "glokc"
   },
   {
     "name": "Desert Aesthetics by April LLC",
@@ -1842,7 +1842,7 @@
     "state": "UT",
     "zip_code": 84065,
     "phone": "7027288245",
-    "custom_referral_link": "desertaesthetics"
+    "sca_ref": "desertaesthetics"
   },
   {
     "name": "SKN at Franks Dermatology",
@@ -1851,7 +1851,7 @@
     "state": "AR",
     "zip_code": 72212,
     "phone": "5018598973",
-    "custom_referral_link": "sknatfranksdermatology"
+    "sca_ref": "sknatfranksdermatology"
   },
   {
     "name": "FIRST BODY",
@@ -1860,7 +1860,7 @@
     "state": "GA",
     "zip_code": 30009,
     "phone": "7707692649",
-    "custom_referral_link": "firstbody"
+    "sca_ref": "firstbody"
   },
   {
     "name": "Hope Concierge Aesthetics",
@@ -1869,7 +1869,7 @@
     "state": "LA",
     "zip_code": 70006,
     "phone": "5042356640",
-    "custom_referral_link": "hopeconcierge"
+    "sca_ref": "hopeconcierge"
   },
   {
     "name": "The Aesthetic Life",
@@ -1878,7 +1878,7 @@
     "state": "UT",
     "zip_code": 84087,
     "phone": "8014994991",
-    "custom_referral_link": "theaestheticlife"
+    "sca_ref": "theaestheticlife"
   },
   {
     "name": "Ageless Aesthetics by Sonia",
@@ -1887,7 +1887,7 @@
     "state": "GA",
     "zip_code": 30318,
     "phone": "4046906880",
-    "custom_referral_link": "agelessaesthetics"
+    "sca_ref": "agelessaesthetics"
   },
   {
     "name": "Sanctuary Skincare",
@@ -1896,7 +1896,7 @@
     "state": "TX",
     "zip_code": 78230,
     "phone": "2403280984",
-    "custom_referral_link": "sanctuaryskincare"
+    "sca_ref": "sanctuaryskincare"
   },
   {
     "name": "Blissful Glow Aesthetics LLC",
@@ -1905,7 +1905,7 @@
     "state": "MO",
     "zip_code": 63122,
     "phone": "6362190581",
-    "custom_referral_link": "blissfulglow"
+    "sca_ref": "blissfulglow"
   },
   {
     "name": "Rosa Alba Skincare",
@@ -1914,7 +1914,7 @@
     "state": "KS",
     "zip_code": 66211,
     "phone": "9132400997",
-    "custom_referral_link": "rosaalba"
+    "sca_ref": "rosaalba"
   },
   {
     "name": "Pure Hydration and Aesthetics",
@@ -1923,7 +1923,7 @@
     "state": "UT",
     "zip_code": 84720,
     "phone": "435 590 3471",
-    "custom_referral_link": "purehydration"
+    "sca_ref": "purehydration"
   },
   {
     "name": "Blue Divine Aesthetics",
@@ -1932,7 +1932,7 @@
     "state": "GA",
     "zip_code": 30305,
     "phone": "4044674232",
-    "custom_referral_link": "bluedivine"
+    "sca_ref": "bluedivine"
   },
   {
     "name": "Evoke Aesthetics",
@@ -1941,7 +1941,7 @@
     "state": "CA",
     "zip_code": 91302,
     "phone": "3105646794",
-    "custom_referral_link": "evokeaesthetics"
+    "sca_ref": "evokeaesthetics"
   },
   {
     "name": "Glam Rose Skin",
@@ -1950,7 +1950,7 @@
     "state": "NY",
     "zip_code": 14606,
     "phone": "5857090210",
-    "custom_referral_link": "glamroseskin"
+    "sca_ref": "glamroseskin"
   },
   {
     "name": "Serene Esthetics",
@@ -1959,7 +1959,7 @@
     "state": "CA",
     "zip_code": 93901,
     "phone": "8312063253",
-    "custom_referral_link": "sereneesthetics"
+    "sca_ref": "sereneesthetics"
   },
   {
     "name": "KT Aesthetics and Beauty",
@@ -1968,7 +1968,7 @@
     "state": "AR",
     "zip_code": 71602,
     "phone": "8705407179",
-    "custom_referral_link": "ktaesthetics"
+    "sca_ref": "ktaesthetics"
   },
   {
     "name": "Mongael Aesthetics",
@@ -1977,7 +1977,7 @@
     "state": "IL",
     "zip_code": 60611,
     "phone": "(312) 806-2946",
-    "custom_referral_link": "mongaelaesthetics"
+    "sca_ref": "mongaelaesthetics"
   },
   {
     "name": "Sydney Scarpino Aesthetics",
@@ -1986,7 +1986,7 @@
     "state": "CO",
     "zip_code": 80134,
     "phone": "3039995318",
-    "custom_referral_link": "sydneyscarpino"
+    "sca_ref": "sydneyscarpino"
   },
   {
     "name": "Golden Hour Skincare",
@@ -1995,7 +1995,7 @@
     "state": "TX",
     "zip_code": 78704,
     "phone": "(512) 537-5506",
-    "custom_referral_link": "goldenhourskincare"
+    "sca_ref": "goldenhourskincare"
   },
   {
     "name": "Rooted Culture Aesthetics",
@@ -2004,7 +2004,7 @@
     "state": "WI",
     "zip_code": 53572,
     "phone": "6082796373",
-    "custom_referral_link": "rootedculture"
+    "sca_ref": "rootedculture"
   },
   {
     "name": "Beaut\u00e9 Haus",
@@ -2013,7 +2013,7 @@
     "state": "Idaho",
     "zip_code": 83642,
     "phone": "2088097575",
-    "custom_referral_link": "beautehaus"
+    "sca_ref": "beautehaus"
   },
   {
     "name": "Sydnee Short Aesthetics",
@@ -2022,7 +2022,7 @@
     "state": "Az",
     "zip_code": 85120,
     "phone": "4802959281",
-    "custom_referral_link": "Sydneeshort"
+    "sca_ref": "Sydneeshort"
   },
   {
     "name": "Luminosity Skin Care",
@@ -2031,7 +2031,7 @@
     "state": "IL",
     "zip_code": 60107,
     "phone": "2245187151",
-    "custom_referral_link": "luminosityskincare"
+    "sca_ref": "luminosityskincare"
   },
   {
     "name": "Meraki skin and beauty",
@@ -2040,7 +2040,7 @@
     "state": "WA",
     "zip_code": 98611,
     "phone": "3604313975",
-    "custom_referral_link": "merakiskin"
+    "sca_ref": "merakiskin"
   },
   {
     "name": "Joelle Aesthetics NY",
@@ -2049,7 +2049,7 @@
     "state": "NY",
     "zip_code": 10512,
     "phone": "8459047550",
-    "custom_referral_link": "joelleaesthetics"
+    "sca_ref": "joelleaesthetics"
   },
   {
     "name": "Vivify Body & Co.",
@@ -2058,7 +2058,7 @@
     "state": "New York",
     "zip_code": 11215,
     "phone": "929-491-0048",
-    "custom_referral_link": "vivifybody"
+    "sca_ref": "vivifybody"
   },
   {
     "name": "Family Medicine Associates PA",
@@ -2067,7 +2067,7 @@
     "state": "TX",
     "zip_code": 78572,
     "phone": "9033318106",
-    "custom_referral_link": "familymedicineassociates"
+    "sca_ref": "familymedicineassociates"
   },
   {
     "name": "Indy esthetics | skin studio",
@@ -2076,7 +2076,7 @@
     "state": "OK",
     "zip_code": 73120,
     "phone": "4058244716",
-    "custom_referral_link": "indyesthetics"
+    "sca_ref": "indyesthetics"
   },
   {
     "name": "Pelle Medical Spa",
@@ -2085,7 +2085,7 @@
     "state": "nh",
     "zip_code": 33031,
     "phone": "6036277000",
-    "custom_referral_link": "pellemedicalspa"
+    "sca_ref": "pellemedicalspa"
   },
   {
     "name": "Avail Aesthetics",
@@ -2094,7 +2094,7 @@
     "state": "NC",
     "zip_code": 27608,
     "phone": "9193225440",
-    "custom_referral_link": "availaesthetics"
+    "sca_ref": "availaesthetics"
   },
   {
     "name": "NIMA",
@@ -2103,7 +2103,7 @@
     "state": "UT",
     "zip_code": 84095,
     "phone": "8448996462",
-    "custom_referral_link": "nima"
+    "sca_ref": "nima"
   },
   {
     "name": "NIMA",
@@ -2112,7 +2112,7 @@
     "state": "NV",
     "zip_code": 89113,
     "phone": "8448996462",
-    "custom_referral_link": "nimaspa"
+    "sca_ref": "nimaspa"
   },
   {
     "name": "Valiskin",
@@ -2121,7 +2121,7 @@
     "state": "CA",
     "zip_code": 91406,
     "phone": "7473043892",
-    "custom_referral_link": "valiskin"
+    "sca_ref": "valiskin"
   },
   {
     "name": "Dose of Youth",
@@ -2130,7 +2130,7 @@
     "state": "AZ",
     "zip_code": 85281,
     "phone": "4802978782",
-    "custom_referral_link": "doseofyouth"
+    "sca_ref": "doseofyouth"
   },
   {
     "name": "Vida Aesthetics and Wellness",
@@ -2139,7 +2139,7 @@
     "state": "Texas",
     "zip_code": 77006,
     "phone": "2819750251",
-    "custom_referral_link": "vidaaesthetics"
+    "sca_ref": "vidaaesthetics"
   },
   {
     "name": "SkinByLiss LLC",
@@ -2148,7 +2148,7 @@
     "state": "MO",
     "zip_code": 63031,
     "phone": "3143486293",
-    "custom_referral_link": "skinbyliss"
+    "sca_ref": "skinbyliss"
   },
   {
     "name": "Chalena M Esthetics",
@@ -2157,7 +2157,7 @@
     "state": "OK",
     "zip_code": 74070,
     "phone": "9189028716",
-    "custom_referral_link": "chalenamesthetics"
+    "sca_ref": "chalenamesthetics"
   },
   {
     "name": "Skin Stories Aesthetics",
@@ -2166,7 +2166,7 @@
     "state": "AZ",
     "zip_code": 85209,
     "phone": "4803382124",
-    "custom_referral_link": "skinstories"
+    "sca_ref": "skinstories"
   },
   {
     "name": "Revival Skin",
@@ -2175,7 +2175,7 @@
     "state": "Colorado",
     "zip_code": 80111,
     "phone": "6513996177",
-    "custom_referral_link": "revivalskin"
+    "sca_ref": "revivalskin"
   },
   {
     "name": "Leyla Sufi Beauty Company",
@@ -2184,7 +2184,7 @@
     "state": "MO",
     "zip_code": 64155,
     "phone": "8169747206",
-    "custom_referral_link": "leylasufibeauty"
+    "sca_ref": "leylasufibeauty"
   },
   {
     "name": "Align Medspa Orland Square Mall",
@@ -2193,7 +2193,7 @@
     "state": "Illinois",
     "zip_code": 60462,
     "phone": "4642037564",
-    "custom_referral_link": "alignmedspa"
+    "sca_ref": "alignmedspa"
   },
   {
     "name": "West Plano Medical Associates",
@@ -2202,7 +2202,7 @@
     "state": "Texas",
     "zip_code": 75093,
     "phone": "972-312-8429",
-    "custom_referral_link": "westplanomedical"
+    "sca_ref": "westplanomedical"
   },
   {
     "name": "Luminous You",
@@ -2211,7 +2211,7 @@
     "state": "CA",
     "zip_code": 95355,
     "phone": "2098602122",
-    "custom_referral_link": "luminousyou"
+    "sca_ref": "luminousyou"
   },
   {
     "name": "Glow Up Aesthetics",
@@ -2220,7 +2220,7 @@
     "state": "AZ",
     "zip_code": 85260,
     "phone": "6239105134",
-    "custom_referral_link": "glowupaesthetics"
+    "sca_ref": "glowupaesthetics"
   },
   {
     "name": "Brows and Beauty",
@@ -2229,7 +2229,7 @@
     "state": "GA",
     "zip_code": 31811,
     "phone": "7063158642",
-    "custom_referral_link": "browsandbeauty"
+    "sca_ref": "browsandbeauty"
   },
   {
     "name": "Camille Complexion LLC",
@@ -2238,7 +2238,7 @@
     "state": "UTAH",
     "zip_code": 84604,
     "phone": "8014720589",
-    "custom_referral_link": "camillecomplexion"
+    "sca_ref": "camillecomplexion"
   },
   {
     "name": "ReVibe Aesthetics",
@@ -2247,7 +2247,7 @@
     "state": "MN",
     "zip_code": 56073,
     "phone": "507-805-9548",
-    "custom_referral_link": "revibeaesthetics"
+    "sca_ref": "revibeaesthetics"
   },
   {
     "name": "Suede Aesthetics",
@@ -2256,7 +2256,7 @@
     "state": "Minnesota",
     "zip_code": 56001,
     "phone": "3202266098",
-    "custom_referral_link": "suedeaesthetics"
+    "sca_ref": "suedeaesthetics"
   },
   {
     "name": "Bubble bar spa",
@@ -2265,7 +2265,7 @@
     "state": "CA",
     "zip_code": 95973,
     "phone": "5309667292",
-    "custom_referral_link": "bubblebarspa"
+    "sca_ref": "bubblebarspa"
   },
   {
     "name": "JessAnne Aesthetics L.L.C.",
@@ -2274,7 +2274,7 @@
     "state": "Tx",
     "zip_code": 78023,
     "phone": "4326380642",
-    "custom_referral_link": "jessanneaesthetics"
+    "sca_ref": "jessanneaesthetics"
   },
   {
     "name": "GLOW Beauty Collective",
@@ -2283,7 +2283,7 @@
     "state": "WI",
     "zip_code": 54914,
     "phone": "9208899478",
-    "custom_referral_link": "glowbeauty"
+    "sca_ref": "glowbeauty"
   },
   {
     "name": "Laura Mendoza The Facialist",
@@ -2292,7 +2292,7 @@
     "state": "WA",
     "zip_code": 99338,
     "phone": "5094608154",
-    "custom_referral_link": "tranquilwaters"
+    "sca_ref": "tranquilwaters"
   },
   {
     "name": "Beauty nurse Nyc",
@@ -2301,7 +2301,7 @@
     "state": "NY",
     "zip_code": 10309,
     "phone": "7186195867",
-    "custom_referral_link": "beautynursenyc"
+    "sca_ref": "beautynursenyc"
   },
   {
     "name": "Shannon Lee Esthetics",
@@ -2310,7 +2310,7 @@
     "state": "NY",
     "zip_code": 10016,
     "phone": "6466813892",
-    "custom_referral_link": "shannonleeesthetics"
+    "sca_ref": "shannonleeesthetics"
   },
   {
     "name": "Park Place Medical Spa",
@@ -2319,7 +2319,7 @@
     "state": "IN",
     "zip_code": 46530,
     "phone": "5748500454",
-    "custom_referral_link": "parkplacemedicalspa"
+    "sca_ref": "parkplacemedicalspa"
   },
   {
     "name": "Wellbeing Medical Physician Assistant PC",
@@ -2328,7 +2328,7 @@
     "state": "CA",
     "zip_code": 90405,
     "phone": "4044058488",
-    "custom_referral_link": "wellbeingmedical"
+    "sca_ref": "wellbeingmedical"
   },
   {
     "name": "Lotus Skin + Brow",
@@ -2337,7 +2337,7 @@
     "state": "GA",
     "zip_code": 30161,
     "phone": "9072024560",
-    "custom_referral_link": "lotusskin"
+    "sca_ref": "lotusskin"
   },
   {
     "name": "Revive Aesthetics and Wellness",
@@ -2346,7 +2346,7 @@
     "state": "Nc",
     "zip_code": 28379,
     "phone": "9109951016",
-    "custom_referral_link": "reviveaesthetics"
+    "sca_ref": "reviveaesthetics"
   },
   {
     "name": "Belleza Spa",
@@ -2355,7 +2355,7 @@
     "state": "CO",
     "zip_code": 80112,
     "phone": "720-492-7150",
-    "custom_referral_link": "bellezaspa"
+    "sca_ref": "bellezaspa"
   },
   {
     "name": "Anissa Skincare Studio",
@@ -2364,7 +2364,7 @@
     "state": "Texas",
     "zip_code": 78746,
     "phone": "512-296-6543",
-    "custom_referral_link": "anissaskincare"
+    "sca_ref": "anissaskincare"
   },
   {
     "name": "Cara Luna Skincare",
@@ -2373,7 +2373,7 @@
     "state": "Ca",
     "zip_code": 93455,
     "phone": "8052682323",
-    "custom_referral_link": "caralunaskincare"
+    "sca_ref": "caralunaskincare"
   },
   {
     "name": "Smart Skin Med Spa",
@@ -2382,7 +2382,7 @@
     "state": "Alabama",
     "zip_code": 35209,
     "phone": "205-968-1301",
-    "custom_referral_link": "smartskinmedspa2"
+    "sca_ref": "smartskinmedspa2"
   },
   {
     "name": "Johnson Dermatology",
@@ -2391,7 +2391,7 @@
     "state": "Arkansas",
     "zip_code": 72916,
     "phone": "479-649-3376",
-    "custom_referral_link": "johnsondermatology"
+    "sca_ref": "johnsondermatology"
   },
   {
     "name": "HOUSE OF PRESERVATION",
@@ -2400,7 +2400,7 @@
     "state": "TX",
     "zip_code": 75201,
     "phone": "4695713740",
-    "custom_referral_link": "houseofpreservation2"
+    "sca_ref": "houseofpreservation2"
   },
   {
     "name": "FACELAB",
@@ -2409,7 +2409,7 @@
     "state": "OR",
     "zip_code": 97086,
     "phone": "5037377268",
-    "custom_referral_link": "facelab"
+    "sca_ref": "facelab"
   },
   {
     "name": "Glow within Aesthetics",
@@ -2418,7 +2418,7 @@
     "state": "OR",
     "zip_code": 97701,
     "phone": "5034591450",
-    "custom_referral_link": "glowwithinaesthetics"
+    "sca_ref": "glowwithinaesthetics"
   },
   {
     "name": "Femme Beauty ATX",
@@ -2427,7 +2427,7 @@
     "state": "TX",
     "zip_code": 78746,
     "phone": "9292951235",
-    "custom_referral_link": "femmebeauty"
+    "sca_ref": "femmebeauty"
   },
   {
     "name": "Elysian Aesthetics",
@@ -2436,7 +2436,7 @@
     "state": "MN",
     "zip_code": 55011,
     "phone": "651-300-2513",
-    "custom_referral_link": "elysianaesthetics"
+    "sca_ref": "elysianaesthetics"
   },
   {
     "name": "Hailey Frieden Esthetics",
@@ -2445,7 +2445,7 @@
     "state": "Utah",
     "zip_code": 84044,
     "phone": "8016360970",
-    "custom_referral_link": "haileyfriedenesthetics"
+    "sca_ref": "haileyfriedenesthetics"
   },
   {
     "name": "The Grove Spa",
@@ -2454,7 +2454,7 @@
     "state": "Missouri",
     "zip_code": 64113,
     "phone": "8168349100",
-    "custom_referral_link": "thegrovespa"
+    "sca_ref": "thegrovespa"
   },
   {
     "name": "Majestic Aesthetics & Wellness",
@@ -2463,7 +2463,7 @@
     "state": "Idaho",
     "zip_code": 83301,
     "phone": "2088860774",
-    "custom_referral_link": "majesticaesthetics"
+    "sca_ref": "majesticaesthetics"
   },
   {
     "name": "Radiance Rx Skin & Aesthetics",
@@ -2472,7 +2472,7 @@
     "state": "North Carolina",
     "zip_code": 27502,
     "phone": "9193034777",
-    "custom_referral_link": "radiancerxskin"
+    "sca_ref": "radiancerxskin"
   },
   {
     "name": "Navs Esthetics LLC",
@@ -2481,7 +2481,7 @@
     "state": "WA",
     "zip_code": 98055,
     "phone": "4255031892",
-    "custom_referral_link": "navsesthetics"
+    "sca_ref": "navsesthetics"
   },
   {
     "name": "Dream aesthetic",
@@ -2490,7 +2490,7 @@
     "state": "SC",
     "zip_code": 29206,
     "phone": "803-358-8375",
-    "custom_referral_link": "dreamaesthetic"
+    "sca_ref": "dreamaesthetic"
   },
   {
     "name": "NurturHer Aesthetics",
@@ -2499,7 +2499,7 @@
     "state": "WI",
     "zip_code": 53719,
     "phone": "6083135627",
-    "custom_referral_link": "nurturheraesthetics"
+    "sca_ref": "nurturheraesthetics"
   },
   {
     "name": "Tessa Grace Aesthetics",
@@ -2508,7 +2508,7 @@
     "state": "Wisconsin",
     "zip_code": 54911,
     "phone": "9206217251",
-    "custom_referral_link": "tessagrace"
+    "sca_ref": "tessagrace"
   },
   {
     "name": "THE MARINA METHOD at the Dermatology Institute",
@@ -2517,7 +2517,7 @@
     "state": "CA",
     "zip_code": 91754,
     "phone": "424-625-8556",
-    "custom_referral_link": "marinamethod"
+    "sca_ref": "marinamethod"
   },
   {
     "name": "Med Spa Express Aesthetics & Wellness",
@@ -2526,7 +2526,7 @@
     "state": "Iowa",
     "zip_code": 50574,
     "phone": "7123357434",
-    "custom_referral_link": "medspaexpress"
+    "sca_ref": "medspaexpress"
   },
   {
     "name": "AGLOW Aesthetics",
@@ -2535,7 +2535,7 @@
     "state": "MS",
     "zip_code": 38751,
     "phone": "6628367251",
-    "custom_referral_link": "aglowaesthetics"
+    "sca_ref": "aglowaesthetics"
   },
   {
     "name": "Black Lotus Skin Bar",
@@ -2544,7 +2544,7 @@
     "state": "Wi",
     "zip_code": 54443,
     "phone": "715-991-0911",
-    "custom_referral_link": "blacklotusskinbar"
+    "sca_ref": "blacklotusskinbar"
   },
   {
     "name": "Rocky Mountain Beauty Bar",
@@ -2553,7 +2553,7 @@
     "state": "CO",
     "zip_code": 80504,
     "phone": "720-464-1846",
-    "custom_referral_link": "rockymountain"
+    "sca_ref": "rockymountain"
   },
   {
     "name": "Pretty Please Aesthetics",
@@ -2562,7 +2562,7 @@
     "state": "CA",
     "zip_code": 95819,
     "phone": "2156945281",
-    "custom_referral_link": "prettyplease"
+    "sca_ref": "prettyplease"
   },
   {
     "name": "Glow & co.",
@@ -2571,7 +2571,7 @@
     "state": "Az",
     "zip_code": 85213,
     "phone": "4802218580",
-    "custom_referral_link": "glowco"
+    "sca_ref": "glowco"
   },
   {
     "name": "Christopher Chen M.D. Inc.",
@@ -2580,7 +2580,7 @@
     "state": "CA.",
     "zip_code": 94588,
     "phone": "9254612840",
-    "custom_referral_link": "christopherchen"
+    "sca_ref": "christopherchen"
   },
   {
     "name": "Dana Michele Makeup + Aesthetics",
@@ -2589,7 +2589,7 @@
     "state": "Wisconsin",
     "zip_code": 54915,
     "phone": "8473120071",
-    "custom_referral_link": "danamichele"
+    "sca_ref": "danamichele"
   },
   {
     "name": "The Aesthetic Studio",
@@ -2598,7 +2598,7 @@
     "state": "ID",
     "zip_code": 83642,
     "phone": "8013626375",
-    "custom_referral_link": "theaestheticstudio"
+    "sca_ref": "theaestheticstudio"
   },
   {
     "name": "Natasha Bullard Aesthetics",
@@ -2607,7 +2607,7 @@
     "state": "Ca",
     "zip_code": 93940,
     "phone": "831-750-9511",
-    "custom_referral_link": "natashabullard"
+    "sca_ref": "natashabullard"
   },
   {
     "name": "Lafranceaesthetics",
@@ -2616,7 +2616,7 @@
     "state": "Texas",
     "zip_code": 76092,
     "phone": "5802639034",
-    "custom_referral_link": "lafranceaesthetics"
+    "sca_ref": "lafranceaesthetics"
   },
   {
     "name": "Jazzlene Woodson",
@@ -2625,7 +2625,7 @@
     "state": "Arizona",
     "zip_code": 85296,
     "phone": "6027021932",
-    "custom_referral_link": "lushskinbabe"
+    "sca_ref": "lushskinbabe"
   },
   {
     "name": "LV Snatched Beauty Bar",
@@ -2634,7 +2634,7 @@
     "state": "NV",
     "zip_code": 89122,
     "phone": "7028009559",
-    "custom_referral_link": "lvsnatched"
+    "sca_ref": "lvsnatched"
   },
   {
     "name": "Lashxesthetic LLC",
@@ -2643,7 +2643,7 @@
     "state": "NV",
     "zip_code": 89086,
     "phone": "7022379359",
-    "custom_referral_link": "lashxesthetic"
+    "sca_ref": "lashxesthetic"
   },
   {
     "name": "Luminescence Aesthetics",
@@ -2652,7 +2652,7 @@
     "state": "minnesota",
     "zip_code": 55327,
     "phone": "763-670-3743",
-    "custom_referral_link": "luminescenceaesthetics"
+    "sca_ref": "luminescenceaesthetics"
   },
   {
     "name": "Tuscany Retreat",
@@ -2661,7 +2661,7 @@
     "state": "ID",
     "zip_code": 83401,
     "phone": "2088211691",
-    "custom_referral_link": "tuscanyretreat"
+    "sca_ref": "tuscanyretreat"
   },
   {
     "name": "Skinwell LLC / SkinWell Studio",
@@ -2670,7 +2670,7 @@
     "state": "Oregon",
     "zip_code": 97702,
     "phone": "5412137524",
-    "custom_referral_link": "skinwellstudio"
+    "sca_ref": "skinwellstudio"
   },
   {
     "name": "JOLIE KRISTINE BUDAU",
@@ -2679,7 +2679,7 @@
     "state": "California",
     "zip_code": 92014,
     "phone": "8588883018",
-    "custom_referral_link": "joliekristine"
+    "sca_ref": "joliekristine"
   },
   {
     "name": "Smoke and Honey Aesthetics",
@@ -2688,7 +2688,7 @@
     "state": "NV",
     "zip_code": 89502,
     "phone": "7758422266",
-    "custom_referral_link": "smokeandhoney"
+    "sca_ref": "smokeandhoney"
   },
   {
     "name": "Beauty by Livie",
@@ -2697,7 +2697,7 @@
     "state": "TN",
     "zip_code": 37203,
     "phone": "8603333769",
-    "custom_referral_link": "beautybylivie"
+    "sca_ref": "beautybylivie"
   },
   {
     "name": "L.O. Aesthetic Studio",
@@ -2706,7 +2706,7 @@
     "state": "MO",
     "zip_code": 65065,
     "phone": "3192131969",
-    "custom_referral_link": "loaestheticstudio"
+    "sca_ref": "loaestheticstudio"
   },
   {
     "name": "The Glowhive Skin Studio",
@@ -2715,7 +2715,7 @@
     "state": "Texas",
     "zip_code": 76710,
     "phone": "254-548-5888",
-    "custom_referral_link": "glowhive"
+    "sca_ref": "glowhive"
   },
   {
     "name": "C&S Aesthetics",
@@ -2724,7 +2724,7 @@
     "state": "CA",
     "zip_code": 91326,
     "phone": "6265247040",
-    "custom_referral_link": "csaesthetics"
+    "sca_ref": "csaesthetics"
   },
   {
     "name": "Eunoia Medispa a physician assistant corp",
@@ -2733,7 +2733,7 @@
     "state": "Ca",
     "zip_code": 93905,
     "phone": "8312108143",
-    "custom_referral_link": "eunoiamedispa"
+    "sca_ref": "eunoiamedispa"
   },
   {
     "name": "Meraki Massage And Skin",
@@ -2742,7 +2742,7 @@
     "state": "WA",
     "zip_code": 98003,
     "phone": "2532300771",
-    "custom_referral_link": "meraki"
+    "sca_ref": "meraki"
   },
   {
     "name": "Kimtox Skin Studio",
@@ -2751,7 +2751,7 @@
     "state": "AR",
     "zip_code": 72227,
     "phone": "5019109522",
-    "custom_referral_link": "kimtox"
+    "sca_ref": "kimtox"
   },
   {
     "name": "BotoxRN and Medspa Corp.",
@@ -2760,7 +2760,7 @@
     "state": "Texas",
     "zip_code": 77004,
     "phone": "8322686976",
-    "custom_referral_link": "botoxrn"
+    "sca_ref": "botoxrn"
   },
   {
     "name": "Epic Care",
@@ -2769,7 +2769,7 @@
     "state": "CA",
     "zip_code": 94598,
     "phone": "9254872843",
-    "custom_referral_link": "epiccare"
+    "sca_ref": "epiccare"
   },
   {
     "name": "The Mend LLC",
@@ -2778,7 +2778,7 @@
     "state": "CO",
     "zip_code": 81641,
     "phone": "9709893226",
-    "custom_referral_link": "themend"
+    "sca_ref": "themend"
   },
   {
     "name": "The Glow Lab",
@@ -2787,7 +2787,7 @@
     "state": "AZ",
     "zip_code": 85297,
     "phone": "4807717202",
-    "custom_referral_link": "theglowlab"
+    "sca_ref": "theglowlab"
   },
   {
     "name": "Skin lux the med lounge",
@@ -2796,7 +2796,7 @@
     "state": "Tx",
     "zip_code": 76028,
     "phone": "8176700444",
-    "custom_referral_link": null
+    "sca_ref": null
   },
   {
     "name": "Pure Excellence Esthetics",
@@ -2805,7 +2805,7 @@
     "state": "co",
     "zip_code": 80108,
     "phone": "7202821900",
-    "custom_referral_link": "pureexcellence"
+    "sca_ref": "pureexcellence"
   },
   {
     "name": "Skincraft LA",
@@ -2814,7 +2814,7 @@
     "state": "CA",
     "zip_code": 91403,
     "phone": "4136278294",
-    "custom_referral_link": "skincraftla"
+    "sca_ref": "skincraftla"
   },
   {
     "name": "Vein and Laser Institute",
@@ -2823,7 +2823,7 @@
     "state": "IN",
     "zip_code": 46383,
     "phone": "219-736-8118",
-    "custom_referral_link": "veinandlaserinstitute"
+    "sca_ref": "veinandlaserinstitute"
   },
   {
     "name": "Skin One Studio",
@@ -2832,7 +2832,7 @@
     "state": "IL",
     "zip_code": 60061,
     "phone": "18152367106",
-    "custom_referral_link": "skinonestudio"
+    "sca_ref": "skinonestudio"
   },
   {
     "name": "Cactus Lash & Skin Studio",
@@ -2841,7 +2841,7 @@
     "state": "Arizona",
     "zip_code": 85012,
     "phone": "6024321122",
-    "custom_referral_link": "cactuslash"
+    "sca_ref": "cactuslash"
   },
   {
     "name": "Spa Sway Domain, LLC",
@@ -2850,7 +2850,7 @@
     "state": "Tx",
     "zip_code": 78758,
     "phone": "5127501114",
-    "custom_referral_link": "spasway"
+    "sca_ref": "spasway"
   },
   {
     "name": "Electric Skin Studio",
@@ -2859,7 +2859,7 @@
     "state": "AZ",
     "zip_code": 85715,
     "phone": "5205573584",
-    "custom_referral_link": "electricskin"
+    "sca_ref": "electricskin"
   },
   {
     "name": "Atrium Aesthetics",
@@ -2868,7 +2868,7 @@
     "state": "California",
     "zip_code": 95928,
     "phone": "5307206973",
-    "custom_referral_link": "atriumaesthetics"
+    "sca_ref": "atriumaesthetics"
   },
   {
     "name": "Simply Skin Medspa",
@@ -2877,7 +2877,7 @@
     "state": "Minnesota",
     "zip_code": 56073,
     "phone": "5077661498",
-    "custom_referral_link": "simplyskinmedspa"
+    "sca_ref": "simplyskinmedspa"
   },
   {
     "name": "Skinn Haus",
@@ -2886,7 +2886,7 @@
     "state": "Ca",
     "zip_code": 95023,
     "phone": "8312457422",
-    "custom_referral_link": "skinnhaus"
+    "sca_ref": "skinnhaus"
   },
   {
     "name": "New Visage",
@@ -2895,7 +2895,7 @@
     "state": "North Carolina",
     "zip_code": 28557,
     "phone": "252-808-2639",
-    "custom_referral_link": "newvisage"
+    "sca_ref": "newvisage"
   },
   {
     "name": "The Modern Aesthetic",
@@ -2904,7 +2904,7 @@
     "state": "AZ",
     "zip_code": 85254,
     "phone": "6022918350",
-    "custom_referral_link": "themodernaesthetic"
+    "sca_ref": "themodernaesthetic"
   },
   {
     "name": "Agoddess Spa & Wellness, LLC",
@@ -2913,7 +2913,7 @@
     "state": "TX",
     "zip_code": 75206,
     "phone": "469-807-1002",
-    "custom_referral_link": "agoddessSpa"
+    "sca_ref": "agoddessSpa"
   },
   {
     "name": "Remedy Skin Studio",
@@ -2922,7 +2922,7 @@
     "state": "Colorado",
     "zip_code": 80513,
     "phone": "970-532-2755",
-    "custom_referral_link": "remedyskin"
+    "sca_ref": "remedyskin"
   },
   {
     "name": "Lux n\u2019 Lavish Esthetics",
@@ -2931,7 +2931,7 @@
     "state": "Co",
     "zip_code": 80906,
     "phone": "7196619656",
-    "custom_referral_link": "luxnlavish"
+    "sca_ref": "luxnlavish"
   },
   {
     "name": "Visag\u00e8 Esthetiqu\u00e8",
@@ -2940,7 +2940,7 @@
     "state": "New York",
     "zip_code": 11010,
     "phone": "5168603100",
-    "custom_referral_link": "visageesthetique"
+    "sca_ref": "visageesthetique"
   },
   {
     "name": "Prescribed Health + Beauty",
@@ -2949,7 +2949,7 @@
     "state": "AZ",
     "zip_code": 85295,
     "phone": "4357578824",
-    "custom_referral_link": "prescribedhealth"
+    "sca_ref": "prescribedhealth"
   },
   {
     "name": "The Acne Concept",
@@ -2958,7 +2958,7 @@
     "state": "CA",
     "zip_code": 92011,
     "phone": "8583351137",
-    "custom_referral_link": "theacneconcept"
+    "sca_ref": "theacneconcept"
   },
   {
     "name": "Purely Aesthetic PLLC",
@@ -2967,7 +2967,7 @@
     "state": "Arizona",
     "zip_code": 85296,
     "phone": "6025070102",
-    "custom_referral_link": "purelyaesthetic"
+    "sca_ref": "purelyaesthetic"
   },
   {
     "name": "Katrina Skin Studio",
@@ -2976,7 +2976,7 @@
     "state": "Missouri",
     "zip_code": 63021,
     "phone": "6189605596",
-    "custom_referral_link": "katrinaskinstudio"
+    "sca_ref": "katrinaskinstudio"
   },
   {
     "name": "OC Skin Vibes",
@@ -2985,7 +2985,7 @@
     "state": "CA",
     "zip_code": 92677,
     "phone": "9493375678",
-    "custom_referral_link": "ocskinvibes"
+    "sca_ref": "ocskinvibes"
   },
   {
     "name": "ME Aesthetics & Wellness",
@@ -2994,7 +2994,7 @@
     "state": "Ca",
     "zip_code": 94598,
     "phone": "925-250-5155",
-    "custom_referral_link": "meaesthetics"
+    "sca_ref": "meaesthetics"
   },
   {
     "name": "Poke Me Pretty",
@@ -3003,7 +3003,7 @@
     "state": "AZ",
     "zip_code": 85383,
     "phone": "4802621178",
-    "custom_referral_link": "pokemepretty2"
+    "sca_ref": "pokemepretty2"
   },
   {
     "name": "Blue Divine Aesthetics",
@@ -3012,7 +3012,7 @@
     "state": "GA",
     "zip_code": 30305,
     "phone": "4044674232",
-    "custom_referral_link": "bluedivineaesthetics"
+    "sca_ref": "bluedivineaesthetics"
   },
   {
     "name": "Summerville Medical Spa",
@@ -3021,7 +3021,7 @@
     "state": "SC",
     "zip_code": 29485,
     "phone": "8432857820",
-    "custom_referral_link": "summervillemedicalspa"
+    "sca_ref": "summervillemedicalspa"
   },
   {
     "name": "Hydrinity",
@@ -3030,7 +3030,7 @@
     "state": "MI",
     "zip_code": "48359-1335",
     "phone": "4409154882",
-    "custom_referral_link": "testwebsite"
+    "sca_ref": "testwebsite"
   },
   {
     "name": "SkinRX",
@@ -3039,7 +3039,7 @@
     "state": "Texas",
     "zip_code": 76006,
     "phone": "817-410-1415",
-    "custom_referral_link": "skinrx"
+    "sca_ref": "skinrx"
   },
   {
     "name": "LK Esthetics",
@@ -3048,7 +3048,7 @@
     "state": "Minnesota",
     "zip_code": 55371,
     "phone": "6127413951",
-    "custom_referral_link": "lkesthetics"
+    "sca_ref": "lkesthetics"
   },
   {
     "name": "Skin Fusion Spa",
@@ -3057,7 +3057,7 @@
     "state": "NY",
     "zip_code": 11103,
     "phone": "917-979-7029",
-    "custom_referral_link": "skinfusion"
+    "sca_ref": "skinfusion"
   },
   {
     "name": "Glow With Jaz",
@@ -3066,7 +3066,7 @@
     "state": "OH",
     "zip_code": 44122,
     "phone": "2162304222",
-    "custom_referral_link": "glowwithjaz"
+    "sca_ref": "glowwithjaz"
   },
   {
     "name": "Reign Medical Aesthetics",
@@ -3075,7 +3075,7 @@
     "state": "FL",
     "zip_code": 34711,
     "phone": "3522414221",
-    "custom_referral_link": "reignmedicalaesthetics"
+    "sca_ref": "reignmedicalaesthetics"
   },
   {
     "name": "Atelier Skin, LLC",
@@ -3084,7 +3084,7 @@
     "state": "OR",
     "zip_code": 97501,
     "phone": "5418401456",
-    "custom_referral_link": "atelierskin"
+    "sca_ref": "atelierskin"
   },
   {
     "name": "Skin Club",
@@ -3093,7 +3093,7 @@
     "state": "California",
     "zip_code": 93618,
     "phone": "559-344-3734",
-    "custom_referral_link": "skinclub"
+    "sca_ref": "skinclub"
   },
   {
     "name": "Michele Aesthetics",
@@ -3102,7 +3102,7 @@
     "state": "TX",
     "zip_code": 77459,
     "phone": "5047298049",
-    "custom_referral_link": "micheleaesthetics"
+    "sca_ref": "micheleaesthetics"
   },
   {
     "name": "Plastics Medpa",
@@ -3111,7 +3111,7 @@
     "state": "Arizona",
     "zip_code": 85251,
     "phone": "4809313008",
-    "custom_referral_link": "plasticsmedpa"
+    "sca_ref": "plasticsmedpa"
   },
   {
     "name": "tesia lee esthetics",
@@ -3120,7 +3120,7 @@
     "state": "CA",
     "zip_code": 91401,
     "phone": "6262428730",
-    "custom_referral_link": "tesialeeesthetics"
+    "sca_ref": "tesialeeesthetics"
   },
   {
     "name": "The Aesthetics Lounge and Spa",
@@ -3129,7 +3129,7 @@
     "state": "FL",
     "zip_code": 32828,
     "phone": "407-347-4770",
-    "custom_referral_link": "theaestheticslounge"
+    "sca_ref": "theaestheticslounge"
   },
   {
     "name": "Creole Contour Aesthetics",
@@ -3138,7 +3138,7 @@
     "state": "TX",
     "zip_code": 77377,
     "phone": "8326452844",
-    "custom_referral_link": "creolecontour"
+    "sca_ref": "creolecontour"
   },
   {
     "name": "Francheska Esthetics",
@@ -3147,7 +3147,7 @@
     "state": "Florida",
     "zip_code": 34210,
     "phone": "941-962-7450",
-    "custom_referral_link": "francheskaesthetics"
+    "sca_ref": "francheskaesthetics"
   },
   {
     "name": "Revive + Bloom Aesthetics",
@@ -3156,7 +3156,7 @@
     "state": "NY",
     "zip_code": 12054,
     "phone": "5184247429",
-    "custom_referral_link": "revivebloom"
+    "sca_ref": "revivebloom"
   },
   {
     "name": "Skin Rituals by Jess",
@@ -3165,7 +3165,7 @@
     "state": "CA",
     "zip_code": "93065-7050",
     "phone": "8054158439",
-    "custom_referral_link": "skinrituals"
+    "sca_ref": "skinrituals"
   },
   {
     "name": "Raw Beauty Skin + Wellness Spa",
@@ -3174,7 +3174,7 @@
     "state": "OK",
     "zip_code": 74074,
     "phone": "6205154328",
-    "custom_referral_link": "rawbeauty"
+    "sca_ref": "rawbeauty"
   },
   {
     "name": "Werschler Aesthetics",
@@ -3183,7 +3183,7 @@
     "state": "WA",
     "zip_code": 99202,
     "phone": "6783466605",
-    "custom_referral_link": "werschleraesthetics"
+    "sca_ref": "werschleraesthetics"
   },
   {
     "name": "Courtney Jorgensen",
@@ -3192,7 +3192,7 @@
     "state": "UT",
     "zip_code": 84095,
     "phone": "435-229-7583",
-    "custom_referral_link": "courtneyjorgensen"
+    "sca_ref": "courtneyjorgensen"
   },
   {
     "name": "Align Aesthetics",
@@ -3201,7 +3201,7 @@
     "state": "LA",
     "zip_code": 70006,
     "phone": "504-547-7463",
-    "custom_referral_link": "alignaesthetics"
+    "sca_ref": "alignaesthetics"
   },
   {
     "name": "Blush Aesthetics",
@@ -3210,7 +3210,7 @@
     "state": "IN",
     "zip_code": 46383,
     "phone": "2192412850",
-    "custom_referral_link": "blushaesthetics"
+    "sca_ref": "blushaesthetics"
   },
   {
     "name": "Here She Glows",
@@ -3219,7 +3219,7 @@
     "state": "CA",
     "zip_code": 91301,
     "phone": "8184145777",
-    "custom_referral_link": "heresheglows"
+    "sca_ref": "heresheglows"
   },
   {
     "name": "Sands Aesthetics + Plastic Surgery",
@@ -3228,7 +3228,7 @@
     "state": "La",
     "zip_code": 70001,
     "phone": "504-888-4297",
-    "custom_referral_link": "sandsaesthetics"
+    "sca_ref": "sandsaesthetics"
   },
   {
     "name": "Ophelia Aesthetics",
@@ -3237,7 +3237,7 @@
     "state": "California",
     "zip_code": 95037,
     "phone": "4086075428",
-    "custom_referral_link": "opheliaaesthetics"
+    "sca_ref": "opheliaaesthetics"
   },
   {
     "name": "Roman Esthetics",
@@ -3246,7 +3246,7 @@
     "state": "AZ",
     "zip_code": 85308,
     "phone": "6029001241",
-    "custom_referral_link": "romanesthetics"
+    "sca_ref": "romanesthetics"
   },
   {
     "name": "Glow Getter",
@@ -3255,7 +3255,7 @@
     "state": "New York",
     "zip_code": 10307,
     "phone": "718-569-5261",
-    "custom_referral_link": "glowgetter"
+    "sca_ref": "glowgetter"
   },
   {
     "name": "Skin Aesthetics by Erika",
@@ -3264,7 +3264,7 @@
     "state": "CA",
     "zip_code": 95746,
     "phone": "9163059100",
-    "custom_referral_link": "skinaestheticsbyerika"
+    "sca_ref": "skinaestheticsbyerika"
   },
   {
     "name": "Faces Advanced Skincare",
@@ -3273,7 +3273,7 @@
     "state": "California",
     "zip_code": 95928,
     "phone": "8056379534",
-    "custom_referral_link": "facesadvancedskincare"
+    "sca_ref": "facesadvancedskincare"
   },
   {
     "name": "Avilla Esthetics",
@@ -3282,7 +3282,7 @@
     "state": "Ca",
     "zip_code": 95356,
     "phone": "2095415744",
-    "custom_referral_link": "avillaesthetics"
+    "sca_ref": "avillaesthetics"
   },
   {
     "name": "Clinic Concierge",
@@ -3291,7 +3291,7 @@
     "state": "texas",
     "zip_code": 76109,
     "phone": "(817) 697-1401",
-    "custom_referral_link": "clinicconcierge"
+    "sca_ref": "clinicconcierge"
   },
   {
     "name": "Moonphase Esthetics",
@@ -3300,7 +3300,7 @@
     "state": "OK",
     "zip_code": 74135,
     "phone": "9188845733",
-    "custom_referral_link": "moonphaseesthetics"
+    "sca_ref": "moonphaseesthetics"
   },
   {
     "name": "Daydreamskincare.amira",
@@ -3309,7 +3309,7 @@
     "state": "CA",
     "zip_code": 91324,
     "phone": "8187446463",
-    "custom_referral_link": "daydreamskincare"
+    "sca_ref": "daydreamskincare"
   },
   {
     "name": "Renewal Aesthetics and Sexual Wellness",
@@ -3318,7 +3318,7 @@
     "state": "Utah",
     "zip_code": 84020,
     "phone": "8015208458",
-    "custom_referral_link": "renewalaesthetics"
+    "sca_ref": "renewalaesthetics"
   },
   {
     "name": "Refined Aesthetics and Wellness",
@@ -3327,7 +3327,7 @@
     "state": "UT",
     "zip_code": 84341,
     "phone": "4358819962",
-    "custom_referral_link": "refinedaesthetics"
+    "sca_ref": "refinedaesthetics"
   },
   {
     "name": "Angel Rose Aesthetics  & Wellness",
@@ -3336,7 +3336,7 @@
     "state": "MS",
     "zip_code": 39402,
     "phone": "7693906407",
-    "custom_referral_link": "angelrose"
+    "sca_ref": "angelrose"
   },
   {
     "name": "Desired Skn",
@@ -3345,7 +3345,7 @@
     "state": "CA",
     "zip_code": 90670,
     "phone": "562)484-1084",
-    "custom_referral_link": "desiredskn"
+    "sca_ref": "desiredskn"
   },
   {
     "name": "ENLIVEN Medical",
@@ -3354,7 +3354,7 @@
     "state": "UT",
     "zip_code": 84117,
     "phone": "8019100853",
-    "custom_referral_link": "enlivenmedical"
+    "sca_ref": "enlivenmedical"
   },
   {
     "name": "Abeille Aesthetics",
@@ -3363,7 +3363,7 @@
     "state": "WI",
     "zip_code": 53024,
     "phone": "(414) 416-8769",
-    "custom_referral_link": "abeilleaesthetics"
+    "sca_ref": "abeilleaesthetics"
   },
   {
     "name": "Broadway Med Spa",
@@ -3372,7 +3372,7 @@
     "state": "Colorado",
     "zip_code": 80124,
     "phone": "303-680-8989",
-    "custom_referral_link": "broadwaymedspa"
+    "sca_ref": "broadwaymedspa"
   },
   {
     "name": "Glamorous Beauties Esthetics",
@@ -3381,7 +3381,7 @@
     "state": "Utah",
     "zip_code": 84047,
     "phone": "8018755366",
-    "custom_referral_link": "glamorousbeauties"
+    "sca_ref": "glamorousbeauties"
   },
   {
     "name": "Face Form Aesthetics",
@@ -3390,7 +3390,7 @@
     "state": "NY",
     "zip_code": 11530,
     "phone": "5165008353",
-    "custom_referral_link": "faceform"
+    "sca_ref": "faceform"
   },
   {
     "name": "Skin360",
@@ -3399,7 +3399,7 @@
     "state": "Ca",
     "zip_code": 95219,
     "phone": "2095057804",
-    "custom_referral_link": "skin360"
+    "sca_ref": "skin360"
   },
   {
     "name": "Revitalize Medical Spa",
@@ -3408,7 +3408,7 @@
     "state": "Oklahoma",
     "zip_code": 74137,
     "phone": "918.409.2604",
-    "custom_referral_link": "revitalizemedicalspa"
+    "sca_ref": "revitalizemedicalspa"
   },
   {
     "name": "Sace Aesthetics",
@@ -3417,7 +3417,7 @@
     "state": "NV",
     "zip_code": 89122,
     "phone": "7024179300",
-    "custom_referral_link": "saceaesthetics"
+    "sca_ref": "saceaesthetics"
   },
   {
     "name": "Skin By Lexie",
@@ -3426,7 +3426,7 @@
     "state": "CA",
     "zip_code": 94596,
     "phone": "9252709685",
-    "custom_referral_link": "skinbylexie"
+    "sca_ref": "skinbylexie"
   },
   {
     "name": "Elevate Esthetics",
@@ -3435,7 +3435,7 @@
     "state": "AZ",
     "zip_code": 85205,
     "phone": "4807378258",
-    "custom_referral_link": "elevateesthetics"
+    "sca_ref": "elevateesthetics"
   },
   {
     "name": "Extraordinary Beauty Spa",
@@ -3444,7 +3444,7 @@
     "state": "ca",
     "zip_code": 92101,
     "phone": "858-832-0172",
-    "custom_referral_link": "extraordinarybeautyspa"
+    "sca_ref": "extraordinarybeautyspa"
   },
   {
     "name": "NUGlow by Meg",
@@ -3453,7 +3453,7 @@
     "state": "MN",
     "zip_code": 55335,
     "phone": "5072760324",
-    "custom_referral_link": "nuglow"
+    "sca_ref": "nuglow"
   },
   {
     "name": "Y Plastic Surgery",
@@ -3462,7 +3462,7 @@
     "state": "GA",
     "zip_code": 30005,
     "phone": "4048224402",
-    "custom_referral_link": "yplasticsurgery"
+    "sca_ref": "yplasticsurgery"
   },
   {
     "name": "Moksha Aesthetics",
@@ -3471,7 +3471,7 @@
     "state": "MD",
     "zip_code": 20854,
     "phone": "7274927650",
-    "custom_referral_link": "mokshaaesthetics"
+    "sca_ref": "mokshaaesthetics"
   },
   {
     "name": "Sade Skin Co",
@@ -3480,7 +3480,7 @@
     "state": "GA",
     "zip_code": 300005,
     "phone": "4708679780",
-    "custom_referral_link": "sadeskinco"
+    "sca_ref": "sadeskinco"
   },
   {
     "name": "Canova Aesthetics",
@@ -3489,7 +3489,7 @@
     "state": "WV",
     "zip_code": 25401,
     "phone": "6814467038",
-    "custom_referral_link": "canovaaesthetics"
+    "sca_ref": "canovaaesthetics"
   },
   {
     "name": "theKCesti LLC",
@@ -3498,7 +3498,7 @@
     "state": "Missouri",
     "zip_code": 64108,
     "phone": "8165603454",
-    "custom_referral_link": "thekcesti"
+    "sca_ref": "thekcesti"
   },
   {
     "name": "The Body Lab",
@@ -3507,7 +3507,7 @@
     "state": "FL",
     "zip_code": 33703,
     "phone": "7272786601",
-    "custom_referral_link": "thebodylab"
+    "sca_ref": "thebodylab"
   },
   {
     "name": "The C Studio Medical Associates, Inc.",
@@ -3516,7 +3516,7 @@
     "state": "California",
     "zip_code": 91355,
     "phone": "8184815340",
-    "custom_referral_link": "cstudio"
+    "sca_ref": "cstudio"
   },
   {
     "name": "Aneu Beauty LLC",
@@ -3525,7 +3525,7 @@
     "state": "Minnesota",
     "zip_code": 55082,
     "phone": "6513230554",
-    "custom_referral_link": "aneubeauty"
+    "sca_ref": "aneubeauty"
   },
   {
     "name": "Beauty By Brit",
@@ -3534,7 +3534,7 @@
     "state": "WA",
     "zip_code": 98272,
     "phone": "4256471651",
-    "custom_referral_link": "beautybybrit"
+    "sca_ref": "beautybybrit"
   },
   {
     "name": "HONEY ROSE AESTHETICS",
@@ -3543,7 +3543,7 @@
     "state": "WA",
     "zip_code": 98373,
     "phone": "2537532332",
-    "custom_referral_link": "honeyrose"
+    "sca_ref": "honeyrose"
   },
   {
     "name": "All Skin Aesthetics",
@@ -3552,7 +3552,7 @@
     "state": "AZ",
     "zip_code": 85381,
     "phone": "6027505989",
-    "custom_referral_link": "allskin"
+    "sca_ref": "allskin"
   },
   {
     "name": "The Spa face & body",
@@ -3561,7 +3561,7 @@
     "state": "IL",
     "zip_code": 62439,
     "phone": "6189434426",
-    "custom_referral_link": "thespa"
+    "sca_ref": "thespa"
   },
   {
     "name": "Esthetic Glow",
@@ -3570,7 +3570,7 @@
     "state": "CA",
     "zip_code": 92647,
     "phone": "7143175885",
-    "custom_referral_link": "estheticglow"
+    "sca_ref": "estheticglow"
   },
   {
     "name": "Beauty Skin and Laser Studio",
@@ -3579,7 +3579,7 @@
     "state": "NY",
     "zip_code": 11727,
     "phone": "6318163233",
-    "custom_referral_link": "beautyskin"
+    "sca_ref": "beautyskin"
   },
   {
     "name": "Aestheticsbyhadil",
@@ -3588,7 +3588,7 @@
     "state": "CA",
     "zip_code": 92101,
     "phone": "7603332336",
-    "custom_referral_link": "aestheticsbyhadil"
+    "sca_ref": "aestheticsbyhadil"
   },
   {
     "name": "RefineU MedSpa",
@@ -3597,7 +3597,7 @@
     "state": "Oklahoma",
     "zip_code": 73120,
     "phone": "4058495391",
-    "custom_referral_link": "refineumedspa"
+    "sca_ref": "refineumedspa"
   },
   {
     "name": "Holaday Aesthetics",
@@ -3606,7 +3606,7 @@
     "state": "MO",
     "zip_code": 64501,
     "phone": "8162445430",
-    "custom_referral_link": "holadayaesthetics"
+    "sca_ref": "holadayaesthetics"
   },
   {
     "name": "Zora Beauty LLC",
@@ -3615,7 +3615,7 @@
     "state": "UT",
     "zip_code": "84037-1227",
     "phone": "385-209-2912",
-    "custom_referral_link": "zorabeauty"
+    "sca_ref": "zorabeauty"
   },
   {
     "name": "Haus of Aesthetics",
@@ -3624,7 +3624,7 @@
     "state": "UT",
     "zip_code": 84105,
     "phone": "8012441760",
-    "custom_referral_link": "hausofaesthetics"
+    "sca_ref": "hausofaesthetics"
   },
   {
     "name": "Bare complexion acne and skincare",
@@ -3633,7 +3633,7 @@
     "state": "CA",
     "zip_code": 93001,
     "phone": "8056563724",
-    "custom_referral_link": "barecomplexion"
+    "sca_ref": "barecomplexion"
   },
   {
     "name": "Genesis Med Spa",
@@ -3642,7 +3642,7 @@
     "state": "MO",
     "zip_code": 63627,
     "phone": "5734839700",
-    "custom_referral_link": "genesismedspa"
+    "sca_ref": "genesismedspa"
   },
   {
     "name": "Injectology Aesthetics",
@@ -3651,7 +3651,7 @@
     "state": "CA",
     "zip_code": 95991,
     "phone": "5308226105",
-    "custom_referral_link": "injectology"
+    "sca_ref": "injectology"
   },
   {
     "name": "Olive You Aesthetics",
@@ -3660,7 +3660,7 @@
     "state": "Missouri",
     "zip_code": 63005,
     "phone": "3144021989",
-    "custom_referral_link": "oliveyouaesthetics"
+    "sca_ref": "oliveyouaesthetics"
   },
   {
     "name": "Amanda Taylor Esthetics",
@@ -3669,7 +3669,7 @@
     "state": "CA",
     "zip_code": 91335,
     "phone": "8184396793",
-    "custom_referral_link": "amandataylor"
+    "sca_ref": "amandataylor"
   },
   {
     "name": "Medical Aesthetic Art Institute",
@@ -3678,7 +3678,7 @@
     "state": "UT",
     "zip_code": 84770,
     "phone": "4359228330",
-    "custom_referral_link": "medicalaesthetic"
+    "sca_ref": "medicalaesthetic"
   },
   {
     "name": "Everyday Esthetics",
@@ -3687,7 +3687,7 @@
     "state": "AZ",
     "zip_code": 85234,
     "phone": "4805291111",
-    "custom_referral_link": "everydayesthetics"
+    "sca_ref": "everydayesthetics"
   },
   {
     "name": "Redeeming Radiance Skin Studio",
@@ -3696,7 +3696,7 @@
     "state": "MO",
     "zip_code": 64108,
     "phone": "4029814900",
-    "custom_referral_link": "redeemingradiance"
+    "sca_ref": "redeemingradiance"
   },
   {
     "name": "Peaches Aren\u2019t Perfect",
@@ -3705,7 +3705,7 @@
     "state": "UT",
     "zip_code": 84109,
     "phone": "2069092631",
-    "custom_referral_link": "peaches"
+    "sca_ref": "peaches"
   },
   {
     "name": "REV aesthetics",
@@ -3714,7 +3714,7 @@
     "state": "Pennsylvania",
     "zip_code": 17011,
     "phone": "7177125729",
-    "custom_referral_link": "rev"
+    "sca_ref": "rev"
   },
   {
     "name": "K*SPENCE AESTHETICS",
@@ -3723,7 +3723,7 @@
     "state": "California",
     "zip_code": 92007,
     "phone": "7602163033",
-    "custom_referral_link": "kspence"
+    "sca_ref": "kspence"
   },
   {
     "name": "Connies Skin Solutions LLC",
@@ -3732,7 +3732,7 @@
     "state": "HI",
     "zip_code": 96712,
     "phone": "8086381898",
-    "custom_referral_link": "conniesskinsolutions"
+    "sca_ref": "conniesskinsolutions"
   },
   {
     "name": "Skin Restore",
@@ -3741,7 +3741,7 @@
     "state": "CA",
     "zip_code": 92672,
     "phone": "9496900094",
-    "custom_referral_link": "skinrestore"
+    "sca_ref": "skinrestore"
   },
   {
     "name": "BioImage",
@@ -3750,7 +3750,7 @@
     "state": "Texas",
     "zip_code": 79606,
     "phone": "325-665-6782",
-    "custom_referral_link": "bioimage"
+    "sca_ref": "bioimage"
   },
   {
     "name": "Bare Esthetics",
@@ -3759,7 +3759,7 @@
     "state": "NY",
     "zip_code": 11375,
     "phone": "9172545115",
-    "custom_referral_link": "bareesthetics2"
+    "sca_ref": "bareesthetics2"
   },
   {
     "name": "Talia Padilla Esthetics",
@@ -3768,7 +3768,7 @@
     "state": "Ca",
     "zip_code": 95240,
     "phone": "2093296100",
-    "custom_referral_link": "Taliapadilla"
+    "sca_ref": "Taliapadilla"
   },
   {
     "name": "Prescription Aesthetic and Wellness Spa",
@@ -3777,7 +3777,7 @@
     "state": "AL",
     "zip_code": 35216,
     "phone": "205-908-0748",
-    "custom_referral_link": "prescriptionaesthetic"
+    "sca_ref": "prescriptionaesthetic"
   },
   {
     "name": "AIVI Aesthetics Skin Health Clinic",
@@ -3786,7 +3786,7 @@
     "state": "CA",
     "zip_code": 91301,
     "phone": "8188519900",
-    "custom_referral_link": "aiviaesthetics"
+    "sca_ref": "aiviaesthetics"
   },
   {
     "name": "Gl\u00f6",
@@ -3795,7 +3795,7 @@
     "state": "CA",
     "zip_code": 92506,
     "phone": "9513478555",
-    "custom_referral_link": "glo"
+    "sca_ref": "glo"
   },
   {
     "name": "Pure Vitality Med Spa",
@@ -3804,7 +3804,7 @@
     "state": "NC",
     "zip_code": 28097,
     "phone": "704-985-6185",
-    "custom_referral_link": "purevitality"
+    "sca_ref": "purevitality"
   },
   {
     "name": "Lillie Aesthetics x Vital Skin",
@@ -3813,7 +3813,7 @@
     "state": "MD",
     "zip_code": 21128,
     "phone": "4102999145",
-    "custom_referral_link": "lillieaesthetics"
+    "sca_ref": "lillieaesthetics"
   },
   {
     "name": "Assembled Esthetics",
@@ -3822,7 +3822,7 @@
     "state": "Mississippi",
     "zip_code": 39042,
     "phone": "6015407874",
-    "custom_referral_link": "assembledesthetics"
+    "sca_ref": "assembledesthetics"
   },
   {
     "name": "Skin by Sylvie",
@@ -3831,7 +3831,7 @@
     "state": "CA",
     "zip_code": 90212,
     "phone": "3234506142",
-    "custom_referral_link": "skinbysylvie"
+    "sca_ref": "skinbysylvie"
   },
   {
     "name": "The Grove Spa",
@@ -3840,7 +3840,7 @@
     "state": "MO",
     "zip_code": 64113,
     "phone": "816-834-9100",
-    "custom_referral_link": "grovespa"
+    "sca_ref": "grovespa"
   },
   {
     "name": "Alpenglow Health Collective",
@@ -3849,7 +3849,7 @@
     "state": "CO",
     "zip_code": 81620,
     "phone": "8435306541",
-    "custom_referral_link": "alpenglow"
+    "sca_ref": "alpenglow"
   },
   {
     "name": "Honor\u00e9 Skin Clinic",
@@ -3858,7 +3858,7 @@
     "state": "AZ",
     "zip_code": 85297,
     "phone": "4805169468",
-    "custom_referral_link": "rzmanagement"
+    "sca_ref": "rzmanagement"
   },
   {
     "name": "Corner Stone Spa Salon",
@@ -3867,7 +3867,7 @@
     "state": "Wisconsin",
     "zip_code": 53589,
     "phone": "6088735542",
-    "custom_referral_link": "cornerstone"
+    "sca_ref": "cornerstone"
   },
   {
     "name": "Nashville Skin Studio",
@@ -3876,7 +3876,7 @@
     "state": "Tennessee",
     "zip_code": 37067,
     "phone": "6158159571",
-    "custom_referral_link": "nashvilleskinstudio"
+    "sca_ref": "nashvilleskinstudio"
   },
   {
     "name": "Pack Med Spa",
@@ -3885,7 +3885,7 @@
     "state": "Texas",
     "zip_code": 76117,
     "phone": "8178316141",
-    "custom_referral_link": "packmedspa"
+    "sca_ref": "packmedspa"
   },
   {
     "name": "L Wellness",
@@ -3894,7 +3894,7 @@
     "state": "PA",
     "zip_code": 18017,
     "phone": "6109369155",
-    "custom_referral_link": "lwellness"
+    "sca_ref": "lwellness"
   },
   {
     "name": "\u00c1ine Healthcare",
@@ -3903,7 +3903,7 @@
     "state": "AZ",
     "zip_code": 85296,
     "phone": "480-939-3230",
-    "custom_referral_link": "ainehealthcare"
+    "sca_ref": "ainehealthcare"
   },
   {
     "name": "Sunny skincare studio",
@@ -3912,7 +3912,7 @@
     "state": "IDAHO",
     "zip_code": 83401,
     "phone": "2085697015",
-    "custom_referral_link": "sunnyskincare"
+    "sca_ref": "sunnyskincare"
   },
   {
     "name": "Angel Aesthetics",
@@ -3921,7 +3921,7 @@
     "state": "Colorado",
     "zip_code": 80209,
     "phone": "303-709-9026",
-    "custom_referral_link": "angelaesthetics"
+    "sca_ref": "angelaesthetics"
   },
   {
     "name": "Skin By Women",
@@ -3930,7 +3930,7 @@
     "state": "Hawaii",
     "zip_code": 96746,
     "phone": "(808) 346-0939",
-    "custom_referral_link": "skinbywomen"
+    "sca_ref": "skinbywomen"
   },
   {
     "name": "Saltz Plastic Surgery & Spa Vitoria",
@@ -3939,7 +3939,7 @@
     "state": "Utah",
     "zip_code": 84117,
     "phone": "8012749500",
-    "custom_referral_link": "saltzplasticsurgery"
+    "sca_ref": "saltzplasticsurgery"
   },
   {
     "name": "J\u2019ADE FACE AND BODY",
@@ -3948,7 +3948,7 @@
     "state": "Hawaii",
     "zip_code": 96720,
     "phone": "(808)304-1913",
-    "custom_referral_link": "jadeface"
+    "sca_ref": "jadeface"
   },
   {
     "name": "Jalalabadi Plastic Surgery",
@@ -3957,7 +3957,7 @@
     "state": "CA",
     "zip_code": 90210,
     "phone": "(310) 620-2111",
-    "custom_referral_link": "jalalabadi"
+    "sca_ref": "jalalabadi"
   },
   {
     "name": "NELLY B BEAUTY STUDIO",
@@ -3966,7 +3966,7 @@
     "state": "CA",
     "zip_code": 92882,
     "phone": "909-999-2866",
-    "custom_referral_link": "nellyb"
+    "sca_ref": "nellyb"
   },
   {
     "name": "Lake Travis Laser Skincare & Aesthetics",
@@ -3975,7 +3975,7 @@
     "state": "Texas",
     "zip_code": 78734,
     "phone": "512-766-9396",
-    "custom_referral_link": "laketravis"
+    "sca_ref": "laketravis"
   },
   {
     "name": "A Nu U Aesthetics",
@@ -3984,7 +3984,7 @@
     "state": "NY",
     "zip_code": 10920,
     "phone": "9149064782",
-    "custom_referral_link": "anuu"
+    "sca_ref": "anuu"
   },
   {
     "name": "Lisa Blu Beauty",
@@ -3993,7 +3993,7 @@
     "state": "Ca",
     "zip_code": 92629,
     "phone": "7608314293",
-    "custom_referral_link": "lisablu"
+    "sca_ref": "lisablu"
   },
   {
     "name": "Thrive Aesthetics and Wellness",
@@ -4002,7 +4002,7 @@
     "state": "UT",
     "zip_code": 84121,
     "phone": "801-209-7299",
-    "custom_referral_link": "thriveaesthetics"
+    "sca_ref": "thriveaesthetics"
   },
   {
     "name": "J Marie Skin Studio",
@@ -4011,7 +4011,7 @@
     "state": "CO",
     "zip_code": 80504,
     "phone": "303-641-8670",
-    "custom_referral_link": "jmarie"
+    "sca_ref": "jmarie"
   },
   {
     "name": "DMC Aesthetics",
@@ -4020,7 +4020,7 @@
     "state": "Az",
     "zip_code": 85747,
     "phone": "520-240-2634",
-    "custom_referral_link": "dmc"
+    "sca_ref": "dmc"
   },
   {
     "name": "Staci Christie Skincare",
@@ -4029,7 +4029,7 @@
     "state": "CA",
     "zip_code": 92024,
     "phone": "7606330123",
-    "custom_referral_link": "stacichristie"
+    "sca_ref": "stacichristie"
   },
   {
     "name": "Mindful Women Spa & Medical",
@@ -4038,7 +4038,7 @@
     "state": "Utah",
     "zip_code": 84405,
     "phone": "8013375818",
-    "custom_referral_link": "mindfulwomen"
+    "sca_ref": "mindfulwomen"
   },
   {
     "name": "Kore Aesthetics",
@@ -4047,7 +4047,7 @@
     "state": "AZ",
     "zip_code": 85364,
     "phone": "9285816608",
-    "custom_referral_link": "koreaesthetics"
+    "sca_ref": "koreaesthetics"
   },
   {
     "name": "Deosoli Beauty",
@@ -4056,7 +4056,7 @@
     "state": "AZ",
     "zip_code": 85119,
     "phone": "4802749945",
-    "custom_referral_link": "deosolibeauty"
+    "sca_ref": "deosolibeauty"
   },
   {
     "name": "Shear magic and more",
@@ -4065,7 +4065,7 @@
     "state": "TX",
     "zip_code": 78873,
     "phone": "2105913925",
-    "custom_referral_link": "shearmagic"
+    "sca_ref": "shearmagic"
   },
   {
     "name": "ZK Aesthetics",
@@ -4074,7 +4074,7 @@
     "state": "CA",
     "zip_code": 95816,
     "phone": "9165880898",
-    "custom_referral_link": "zkaesthetics"
+    "sca_ref": "zkaesthetics"
   },
   {
     "name": "Modern Aesthetics and Wellness",
@@ -4083,7 +4083,7 @@
     "state": "CA",
     "zip_code": 95661,
     "phone": "9169533248",
-    "custom_referral_link": "modernaesthetics"
+    "sca_ref": "modernaesthetics"
   },
   {
     "name": "Celestial Aesthetics",
@@ -4092,7 +4092,7 @@
     "state": "CO",
     "zip_code": 80461,
     "phone": "9704716632",
-    "custom_referral_link": "celestialaesthetics"
+    "sca_ref": "celestialaesthetics"
   },
   {
     "name": "DMC Aesthetics",
@@ -4101,7 +4101,7 @@
     "state": "Az",
     "zip_code": 85747,
     "phone": "520-240-2634",
-    "custom_referral_link": "dmcaesthetics"
+    "sca_ref": "dmcaesthetics"
   },
   {
     "name": "MELA Medical Spa",
@@ -4110,7 +4110,7 @@
     "state": "FL",
     "zip_code": 32504,
     "phone": "8503751272",
-    "custom_referral_link": "melamedical"
+    "sca_ref": "melamedical"
   },
   {
     "name": "Morgan\u2019s Beauty Bar",
@@ -4119,7 +4119,7 @@
     "state": "Mississippi",
     "zip_code": 39090,
     "phone": "6019068555",
-    "custom_referral_link": "morgansbeauty"
+    "sca_ref": "morgansbeauty"
   },
   {
     "name": "Aesthetics by Meg",
@@ -4128,7 +4128,7 @@
     "state": "AZ",
     "zip_code": 85207,
     "phone": "4356596901",
-    "custom_referral_link": "aestheticsbymeg"
+    "sca_ref": "aestheticsbymeg"
   },
   {
     "name": "Beautiful Med Spa",
@@ -4137,7 +4137,7 @@
     "state": "CA",
     "zip_code": 92626,
     "phone": "7148558958",
-    "custom_referral_link": "beautifulmedspa"
+    "sca_ref": "beautifulmedspa"
   },
   {
     "name": "The Aesthetic Journey",
@@ -4146,7 +4146,7 @@
     "state": "CA",
     "zip_code": 92673,
     "phone": "7604200223",
-    "custom_referral_link": "theaestheticjourney"
+    "sca_ref": "theaestheticjourney"
   },
   {
     "name": "Evolve Skin Spa + Wellness",
@@ -4155,7 +4155,7 @@
     "state": "CA",
     "zip_code": 92008,
     "phone": "7605761558",
-    "custom_referral_link": "evolveskin"
+    "sca_ref": "evolveskin"
   },
   {
     "name": "Elite Aesthetics Skin Clinic",
@@ -4164,7 +4164,7 @@
     "state": "NV",
     "zip_code": 89052,
     "phone": "7025306408",
-    "custom_referral_link": "eliteaesthetics"
+    "sca_ref": "eliteaesthetics"
   },
   {
     "name": "Syree Aesthetics",
@@ -4173,7 +4173,7 @@
     "state": "NEW JERSEY",
     "zip_code": "07502",
     "phone": "8626688681",
-    "custom_referral_link": "syreeaesthetics"
+    "sca_ref": "syreeaesthetics"
   },
   {
     "name": "Aimora",
@@ -4182,7 +4182,7 @@
     "state": "NJ",
     "zip_code": "07013",
     "phone": "9732966977",
-    "custom_referral_link": "aimora"
+    "sca_ref": "aimora"
   },
   {
     "name": "The Skin Sanctum",
@@ -4191,7 +4191,7 @@
     "state": "CO",
     "zip_code": 80205,
     "phone": "9894151261",
-    "custom_referral_link": "skinsanctum"
+    "sca_ref": "skinsanctum"
   },
   {
     "name": "5280 Vitality Aesthetics & Wellness",
@@ -4200,7 +4200,7 @@
     "state": "CO",
     "zip_code": 80231,
     "phone": "7207982005",
-    "custom_referral_link": "vitality"
+    "sca_ref": "vitality"
   },
   {
     "name": "Face to Face Spa",
@@ -4209,7 +4209,7 @@
     "state": "MS",
     "zip_code": 38671,
     "phone": "3053323182",
-    "custom_referral_link": "facetoface"
+    "sca_ref": "facetoface"
   },
   {
     "name": "K2 Aesthetics and Wellness",
@@ -4218,7 +4218,7 @@
     "state": "UT",
     "zip_code": 84790,
     "phone": "4356685018",
-    "custom_referral_link": "k2aesthetics"
+    "sca_ref": "k2aesthetics"
   },
   {
     "name": "Inner beauty MD",
@@ -4227,7 +4227,7 @@
     "state": "new jersey",
     "zip_code": "07628",
     "phone": "9088381471",
-    "custom_referral_link": "innerbeauty"
+    "sca_ref": "innerbeauty"
   },
   {
     "name": "SkinScience Medical Spa",
@@ -4236,7 +4236,7 @@
     "state": "Ca",
     "zip_code": 94523,
     "phone": "9253342210",
-    "custom_referral_link": "skinscience"
+    "sca_ref": "skinscience"
   },
   {
     "name": "St. George MEDSPA",
@@ -4245,7 +4245,7 @@
     "state": "UT",
     "zip_code": 84770,
     "phone": "4354140722",
-    "custom_referral_link": "stgeorge"
+    "sca_ref": "stgeorge"
   },
   {
     "name": "St George Med Spa",
@@ -4254,7 +4254,7 @@
     "state": "Utah",
     "zip_code": 84770,
     "phone": "4354140722",
-    "custom_referral_link": "stgseorgemedspa"
+    "sca_ref": "stgseorgemedspa"
   },
   {
     "name": "Kalliste Esthetics",
@@ -4263,7 +4263,7 @@
     "state": "Co",
     "zip_code": 80104,
     "phone": "8033949590",
-    "custom_referral_link": "kalliste"
+    "sca_ref": "kalliste"
   },
   {
     "name": "The Beauty Bar MN",
@@ -4272,7 +4272,7 @@
     "state": "MN",
     "zip_code": 55811,
     "phone": "218-341-0983",
-    "custom_referral_link": "beautybar"
+    "sca_ref": "beautybar"
   },
   {
     "name": "Walter J. Joseph, MD",
@@ -4281,7 +4281,7 @@
     "state": "CA",
     "zip_code": 90046,
     "phone": "2019134763",
-    "custom_referral_link": "walterjjoseph"
+    "sca_ref": "walterjjoseph"
   },
   {
     "name": "Shi Shi Aesthetics LLC",
@@ -4290,7 +4290,7 @@
     "state": "CO",
     "zip_code": 80209,
     "phone": "3033744151",
-    "custom_referral_link": "shishi"
+    "sca_ref": "shishi"
   },
   {
     "name": "Leo Beauty Aesthetics",
@@ -4299,7 +4299,7 @@
     "state": "NV",
     "zip_code": 89139,
     "phone": "7024093967",
-    "custom_referral_link": "leobeauty"
+    "sca_ref": "leobeauty"
   },
   {
     "name": "SkinCareProfessor",
@@ -4308,7 +4308,7 @@
     "state": "CA",
     "zip_code": 90035,
     "phone": "3108908284",
-    "custom_referral_link": "skincareprofessor"
+    "sca_ref": "skincareprofessor"
   },
   {
     "name": "IV and ME LLC",
@@ -4317,7 +4317,7 @@
     "state": "Arizona",
     "zip_code": 85381,
     "phone": "9036029161",
-    "custom_referral_link": "ivandme"
+    "sca_ref": "ivandme"
   },
   {
     "name": "The Stepanyan Clinic, Inc.",
@@ -4326,7 +4326,7 @@
     "state": "CA",
     "zip_code": 91403,
     "phone": "8186409054",
-    "custom_referral_link": "stepanyan"
+    "sca_ref": "stepanyan"
   },
   {
     "name": "Salt and Sky Wellness",
@@ -4335,7 +4335,7 @@
     "state": "NJ",
     "zip_code": "07450",
     "phone": "2012506840",
-    "custom_referral_link": "saltandsky"
+    "sca_ref": "saltandsky"
   },
   {
     "name": "Gulf Coast Med Spa",
@@ -4344,7 +4344,7 @@
     "state": "FL",
     "zip_code": 34114,
     "phone": "3862953144",
-    "custom_referral_link": "gulfcoast"
+    "sca_ref": "gulfcoast"
   },
   {
     "name": "Gi\u00f3va Aesthetics + Wellness",
@@ -4353,7 +4353,7 @@
     "state": "UT",
     "zip_code": 84037,
     "phone": "8018822200",
-    "custom_referral_link": "silkeyskin"
+    "sca_ref": "silkeyskin"
   },
   {
     "name": "Facial Artistry and Aesthetics",
@@ -4362,7 +4362,7 @@
     "state": "Arizona",
     "zip_code": 85718,
     "phone": "5207901234",
-    "custom_referral_link": "facialartistry"
+    "sca_ref": "facialartistry"
   },
   {
     "name": "Silkey Skin MD",
@@ -4371,7 +4371,7 @@
     "state": "UT",
     "zip_code": 84037,
     "phone": "8018822200",
-    "custom_referral_link": "silkeyskin2"
+    "sca_ref": "silkeyskin2"
   },
   {
     "name": "Remedy Skin Lab",
@@ -4380,7 +4380,7 @@
     "state": "CA",
     "zip_code": 92883,
     "phone": "9518087713",
-    "custom_referral_link": "remedyskin2"
+    "sca_ref": "remedyskin2"
   },
   {
     "name": "Honey Aesthetics Clinic",
@@ -4389,7 +4389,7 @@
     "state": "Minnesota",
     "zip_code": 55305,
     "phone": "6129632784",
-    "custom_referral_link": "honeyaesthetics"
+    "sca_ref": "honeyaesthetics"
   },
   {
     "name": "A\u00e8re Aesthetics",
@@ -4398,7 +4398,7 @@
     "state": "Colorado",
     "zip_code": "80111-3655",
     "phone": "303-834-3395",
-    "custom_referral_link": "aereaesthetics"
+    "sca_ref": "aereaesthetics"
   },
   {
     "name": "Skin Results",
@@ -4407,7 +4407,7 @@
     "state": "AZ",
     "zip_code": 85250,
     "phone": "6027812197",
-    "custom_referral_link": "skinresults"
+    "sca_ref": "skinresults"
   },
   {
     "name": "Center for Plastic Surgery",
@@ -4416,7 +4416,7 @@
     "state": "ND",
     "zip_code": 58104,
     "phone": "7014122400",
-    "custom_referral_link": "centerforplasticsurgery"
+    "sca_ref": "centerforplasticsurgery"
   },
   {
     "name": "Studio of Makeup & Skin Health",
@@ -4425,7 +4425,7 @@
     "state": "MD",
     "zip_code": 21117,
     "phone": "410-902-7422",
-    "custom_referral_link": "studioofmakeup"
+    "sca_ref": "studioofmakeup"
   },
   {
     "name": "Beauty Innovations",
@@ -4434,7 +4434,7 @@
     "state": "CA",
     "zip_code": 90292,
     "phone": "3107801602",
-    "custom_referral_link": "beautyinnovations"
+    "sca_ref": "beautyinnovations"
   },
   {
     "name": "ABK SKIN",
@@ -4443,7 +4443,7 @@
     "state": "NC",
     "zip_code": 28202,
     "phone": "8153195076",
-    "custom_referral_link": "abkskin"
+    "sca_ref": "abkskin"
   },
   {
     "name": "Betsy Kelly Beauty",
@@ -4452,7 +4452,7 @@
     "state": "CA",
     "zip_code": 92656,
     "phone": "646-283-6510",
-    "custom_referral_link": "betsykelly"
+    "sca_ref": "betsykelly"
   },
   {
     "name": "Clinical Skin Aesthetics",
@@ -4461,7 +4461,7 @@
     "state": "CA",
     "zip_code": 92660,
     "phone": "9496878904",
-    "custom_referral_link": "clinicalskin"
+    "sca_ref": "clinicalskin"
   },
   {
     "name": "Skin Resolutions",
@@ -4470,7 +4470,7 @@
     "state": "CA",
     "zip_code": 93101,
     "phone": "8055691923",
-    "custom_referral_link": "skinresolutions"
+    "sca_ref": "skinresolutions"
   },
   {
     "name": "OV Aesthetics",
@@ -4479,7 +4479,7 @@
     "state": "CA",
     "zip_code": 90212,
     "phone": "2282189590",
-    "custom_referral_link": "ovaesthetics"
+    "sca_ref": "ovaesthetics"
   },
   {
     "name": "Caela Esthetics",
@@ -4488,7 +4488,7 @@
     "state": "CA",
     "zip_code": 90069,
     "phone": "5202406493",
-    "custom_referral_link": "caelaesthetics"
+    "sca_ref": "caelaesthetics"
   },
   {
     "name": "Moderne Medical Aesthetics",
@@ -4497,7 +4497,7 @@
     "state": "AZ",
     "zip_code": 85260,
     "phone": "4804777726",
-    "custom_referral_link": "modernemedical"
+    "sca_ref": "modernemedical"
   },
   {
     "name": "Lane Beauty Professional",
@@ -4506,7 +4506,7 @@
     "state": "Colorado",
     "zip_code": 80206,
     "phone": "7205183225",
-    "custom_referral_link": "lanebeauty"
+    "sca_ref": "lanebeauty"
   },
   {
     "name": "Personal Use/ SkinLab",
@@ -4515,7 +4515,7 @@
     "state": "AZ",
     "zip_code": 85142,
     "phone": "4802519360",
-    "custom_referral_link": "skinlab"
+    "sca_ref": "skinlab"
   },
   {
     "name": "No Filter Brazilian Medspa",
@@ -4524,7 +4524,7 @@
     "state": "CA",
     "zip_code": 94401,
     "phone": "4158028620",
-    "custom_referral_link": "nofilter"
+    "sca_ref": "nofilter"
   },
   {
     "name": "Dali Aesthetic Collective LLC/ Skin By Dali",
@@ -4533,7 +4533,7 @@
     "state": "CA",
     "zip_code": 90266,
     "phone": "3105970945",
-    "custom_referral_link": "dali"
+    "sca_ref": "dali"
   },
   {
     "name": "Skin By Dali",
@@ -4542,7 +4542,7 @@
     "state": "California",
     "zip_code": 90266,
     "phone": "3105970945",
-    "custom_referral_link": "skinbydali"
+    "sca_ref": "skinbydali"
   },
   {
     "name": "Kingwood Skin Essentials",
@@ -4551,7 +4551,7 @@
     "state": "TEXAS",
     "zip_code": 77339,
     "phone": "832-777-6846",
-    "custom_referral_link": "kingwood"
+    "sca_ref": "kingwood"
   },
   {
     "name": "Lucent Aesthetics",
@@ -4560,16 +4560,7 @@
     "state": "NE",
     "zip_code": 68516,
     "phone": "4025256278",
-    "custom_referral_link": "lucent"
-  },
-  {
-    "name": "Chris Panzica",
-    "address": null,
-    "city": null,
-    "state": null,
-    "zip_code": null,
-    "phone": null,
-    "custom_referral_link": null
+    "sca_ref": "lucent"
   },
   {
     "name": "KM AESTHETICS",
@@ -4578,7 +4569,7 @@
     "state": "CO",
     "zip_code": 80203,
     "phone": "7208836041",
-    "custom_referral_link": "kmaesthetics"
+    "sca_ref": "kmaesthetics"
   },
   {
     "name": "Lux House of Beauty",
@@ -4587,7 +4578,7 @@
     "state": "CA",
     "zip_code": 91706,
     "phone": "6267410412",
-    "custom_referral_link": "luxhouse"
+    "sca_ref": "luxhouse"
   },
   {
     "name": "LA ViE MD",
@@ -4596,6 +4587,6 @@
     "state": "California",
     "zip_code": 94526,
     "phone": "8335284310",
-    "custom_referral_link": null
+    "sca_ref": null
   }
 ]
