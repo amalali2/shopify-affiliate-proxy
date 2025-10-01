@@ -1,3 +1,4 @@
+// pages/api/affiliates.js
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', 'https://www.hydrinity.com');
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
@@ -7,32 +8,35 @@ export default async function handler(req, res) {
     return res.status(200).end(); // Preflight OK
   }
 
+  const TOKEN = "pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO"; // 🔒 hardcoded
+
   const allAffiliates = [];
   let page = 1;
   let hasMore = true;
 
   try {
     while (hasMore) {
-      const response = await fetch(`https://api.uppromote.com/api/public-affiliate?page=${page}`, {
-        headers: {
-          Authorization: 'Bearer pk_wjpmKncKyzsp53txbsmhRrYUbEQJCZnO',
-        },
+      const url = `https://api.uppromote.com/api/public-affiliate?page=${page}`;
+      const response = await fetch(url, {
+        headers: { Authorization: `Bearer ${TOKEN}` },
       });
 
       if (!response.ok) {
         const errorText = await response.text();
         console.error(`Error fetching page ${page}:`, errorText);
-        return res.status(500).json({ error: 'Failed to fetch affiliates', detail: errorText });
+        return res.status(500).json({
+          error: 'Failed to fetch affiliates',
+          detail: errorText,
+        });
       }
 
       const json = await response.json();
-
       if (!json.data || json.data.length === 0) {
         hasMore = false;
         break;
       }
 
-      json.data.forEach((affiliate) => {
+      for (const affiliate of json.data) {
         allAffiliates.push({
           id: affiliate.id,
           name: `${affiliate.first_name || ''} ${affiliate.last_name || ''}`.trim(),
@@ -42,7 +46,7 @@ export default async function handler(req, res) {
             ? affiliate.referral_link.split('sca_ref=')[1]
             : null,
         });
-      });
+      }
 
       page++;
     }
