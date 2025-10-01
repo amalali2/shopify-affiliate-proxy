@@ -20,7 +20,11 @@ export default async function handler(req, res) {
     });
     if (!authResp.ok) {
       const detail = await safeText(authResp);
-      return res.status(401).json({ error: 'UpPromote auth failed', upstream_status: authResp.status, upstream_detail: detail });
+      return res.status(401).json({
+        error: 'UpPromote auth failed',
+        upstream_status: authResp.status,
+        upstream_detail: detail
+      });
     }
 
     // 2) Paginate affiliates
@@ -41,7 +45,11 @@ export default async function handler(req, res) {
 
       if (!r.ok) {
         const detail = await safeText(r);
-        return res.status(502).json({ error: 'Failed to fetch affiliates', upstream_status: r.status, upstream_detail: detail });
+        return res.status(502).json({
+          error: 'Failed to fetch affiliates',
+          upstream_status: r.status,
+          upstream_detail: detail
+        });
       }
 
       const json = await r.json();
@@ -49,14 +57,20 @@ export default async function handler(req, res) {
 
       // Map to your required JSON structure
       for (const a of data) {
-        // name and address fields differ per account; fall back safely
-        const name = `${a.first_name || ''} ${a.last_name || ''}`.trim() || a.company || a.email || '';
-        const sca_ref = typeof a.affiliate_link === 'string' && a.affiliate_link.includes('sca_ref=')
+        // Name should be the company (fallback to first+last, then email)
+        const name =
+          a.company?.trim() ||
+          `${a.first_name || ''} ${a.last_name || ''}`.trim() ||
+          a.email ||
+          '';
+
+        // Extract sca_ref from affiliate_link if present
+        const sca_ref = (typeof a.affiliate_link === 'string' && a.affiliate_link.includes('sca_ref='))
           ? a.affiliate_link.split('sca_ref=')[1].split(/[&?#]/)[0]
           : null;
 
         out.push({
-          name,
+          name,                         // ← company-first
           address: a.address || '',
           city: a.city || '',
           state: a.state || '',
