@@ -1,4 +1,4 @@
-// pages/api/affiliates.js
+// /api/affiliates.js (Next.js API Route – Node runtime)
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', 'https://www.hydrinity.com');
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
@@ -6,54 +6,78 @@ export default async function handler(req, res) {
 
   if (req.method === 'OPTIONS') return res.status(200).end();
 
-  // ⚠️ Hardcoding is risky; rotate if leaked.
-  const API_KEY = 'REPLACE_WITH_YOUR_UPPROMOTE_API_KEY'; // from UpPromote Settings → Integration → API
+  // For quick testing you can pass ?token=... (prefer env vars in production)
+  const API_KEY = (req.query.token || process.env.UPPROMOTE_API_KEY || '').trim();
+  if (!API_KEY) return res.status(400).json({ error: 'Missing API key' });
 
-  const out = [];
-  let page = 1;
-  const limit = 100; // max page size if supported
+  const base = 'https://aff-api.uppromote.com/api/v1';
 
   try {
-    for (;;) {
-      const url = `https://aff-api.uppromote.com/api/v1/affiliates?limit=${limit}&page=${page}`;
+    // 1) Verify key
+    const authResp = await fetch(`${base}/authentication`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${API_KEY}`, Accept: 'application/json' },
+    });
+    if (!authResp.ok) {
+      const detail = await safeText(authResp);
+      return res.status(401).json({ error: 'UpPromote auth failed', upstream_status: authResp.status, upstream_detail: detail });
+    }
+
+    // 2) Paginate affiliates
+    const out = [];
+    let page = 1;
+    const limit = 100; // max 100 per docs
+    while (true) {
+      const url = new URL(`${base}/affiliates`);
+      url.searchParams.set('limit', String(limit));
+      url.searchParams.set('page', String(page));
+
       const r = await fetch(url, {
-        headers: { Authorization: `Bearer ${API_KEY}`, Accept: 'application/json' },
+        headers: {
+          Authorization: `Bearer ${API_KEY}`,
+          Accept: 'application/json',
+        },
       });
 
       if (!r.ok) {
-        const body = await r.text();
-        return res.status(502).json({
-          error: 'Failed to fetch affiliates',
-          upstream_status: r.status,
-          upstream_detail: body,
-        });
+        const detail = await safeText(r);
+        return res.status(502).json({ error: 'Failed to fetch affiliates', upstream_status: r.status, upstream_detail: detail });
       }
 
-      const data = await r.json();
-      const rows = Array.isArray(data?.data) ? data.data : Array.isArray(data) ? data : [];
+      const json = await r.json();
+      const data = json?.data || [];
 
-      if (rows.length === 0) break;
+      // Map to your required JSON structure
+      for (const a of data) {
+        // name and address fields differ per account; fall back safely
+        const name = `${a.first_name || ''} ${a.last_name || ''}`.trim() || a.company || a.email || '';
+        const sca_ref = typeof a.affiliate_link === 'string' && a.affiliate_link.includes('sca_ref=')
+          ? a.affiliate_link.split('sca_ref=')[1].split(/[&?#]/)[0]
+          : null;
 
-      for (const a of rows) {
         out.push({
-          id: a.id ?? a.aff_id ?? null,
-          name: `${a.first_name || ''} ${a.last_name || ''}`.trim() || a.name || null,
-          email: a.email || null,
-          zip: a.zip_code || a.postcode || null,
-          // sca_ref may be nested differently; keep best-effort extraction:
-          sca_ref:
-            a.referral_link?.includes?.('sca_ref=')
-              ? a.referral_link.split('sca_ref=')[1]
-              : a.sca_ref ?? null,
+          name,
+          address: a.address || '',
+          city: a.city || '',
+          state: a.state || '',
+          zip_code: a.zipcode || a.zip || '',
+          phone: a.phone || '',
+          sca_ref,
         });
       }
 
+      // Stop if we've reached the last page
+      const meta = json?.meta;
+      if (!meta || page >= (meta.last_page || page)) break;
       page += 1;
     }
 
     return res.status(200).json(out);
   } catch (err) {
-    console.error('Unexpected error:', err);
-    return res.status(500).json({ error: 'Server error', detail: err.message });
+    return res.status(500).json({ error: 'Server error', detail: String(err?.message || err) });
   }
+}
+
+async function safeText(resp) {
+  try { return await resp.text(); } catch { return ''; }
 }
